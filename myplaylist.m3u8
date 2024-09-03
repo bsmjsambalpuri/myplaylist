@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<script>
+			window.location.replace("https://www.bsmjsambalpuri.in/");
+		</script>
+	</head>
+</html>
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-logo="https://bsmjsambalpuri.github.io/thumbnail/bsmj.png" ,BSMJ Sambalpuri
+https://www.bsmjsambalpuri.in
