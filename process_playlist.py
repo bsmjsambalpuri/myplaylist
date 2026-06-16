@@ -4,8 +4,8 @@ import os
 
 # 1. Define your source public playlists (M3U URLs)
 PLAYLIST_URLS = [
-    "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "https://iptv-org.github.io/iptv/categories/movies.m3u",
+    "https://iptv-org.github.io/iptv/index.m3u",
+    "https://raw.githubusercontent.com/BuddyChewChew/samsungtvplus/refs/heads/main/output/samsung_tvplus.m3u",
 ]
 
 def load_whitelist():
@@ -15,7 +15,6 @@ def load_whitelist():
         return []
     
     with open("whitelist.txt", "r", encoding="utf-8") as f:
-        # Read lines, strip whitespace, and ignore empty lines or comments
         return [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
 def fetch_and_filter():
@@ -24,6 +23,7 @@ def fetch_and_filter():
         print(f"Loaded {len(whitelist)} channel filters from whitelist.txt")
     
     merged_channels = []
+    seen_urls = set()  # Tracks unique URLs to prevent duplicates
 
     for url in PLAYLIST_URLS:
         print(f"Fetching: {url}")
@@ -47,13 +47,19 @@ def fetch_and_filter():
                     continue
                 else:
                     # This line is the actual stream URL
+                    stream_url = line
+                    
                     if current_metadata:
+                        # --- DUPLICATE CHECK ---
+                        # If we have already added this stream URL, skip it entirely
+                        if stream_url in seen_urls:
+                            current_metadata = None
+                            continue
+
                         # Extract the display name (everything after the last comma)
-                        # Example: #EXTINF:-1 tvg-id="CNN.us" ...,CNN International -> "CNN International"
                         channel_name = current_metadata.split(",")[-1].strip()
 
-                        # If whitelist is empty, we allow everything. 
-                        # Otherwise, check if any whitelist keyword is inside the channel name.
+                        # Check whitelist matching
                         is_allowed = False
                         if not whitelist:
                             is_allowed = True
@@ -62,27 +68,27 @@ def fetch_and_filter():
                                 if re.search(r'\b' + re.escape(allowed_name) + r'\b', channel_name, re.IGNORECASE):
                                     is_allowed = True
                                     break
-                                # Fallback: if exact boundary fails, try a simple flexible inclusion check
                                 elif allowed_name.lower() in channel_name.lower():
                                     is_allowed = True
                                     break
 
                         if is_allowed:
-                            merged_channels.append((current_metadata, line))
+                            merged_channels.append((current_metadata, stream_url))
+                            seen_urls.add(stream_url) # Mark this URL as processed
 
                         current_metadata = None
 
         except Exception as e:
             print(f"Error processing {url}: {e}")
 
-    # 3. Write the whitelisted channels into your final M3U file
+    # 3. Write the unique, whitelisted channels into your final M3U file
     output_file = "custom_playlist.m3u"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for metadata, stream_url in merged_channels:
             f.write(f"{metadata}\n{stream_url}\n")
 
-    print(f"Successfully created {output_file} with {len(merged_channels)} channels.")
+    print(f"Successfully created {output_file} with {len(merged_channels)} unique channels.")
 
 if __name__ == "__main__":
     fetch_and_filter()
