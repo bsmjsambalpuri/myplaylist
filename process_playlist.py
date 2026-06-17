@@ -7,6 +7,7 @@ PLAYLIST_URLS = [
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/ekamraott.m3u",
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/jtv.m3u",
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/samsungtvplus/all.m3u"
+     "https://raw.githubusercontent.com/hasanhabibmottakin/xxxxxxxxxxxxxxxxxx/refs/heads/main/ott.m3u"
 ]
 
 def load_whitelist():
