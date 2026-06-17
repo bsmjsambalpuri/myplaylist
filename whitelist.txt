@@ -23,7 +23,6 @@ Bada Khabar
 Baiscope TV
 Boogle Bollywood
 CNBC TV18 Prime
-CNN VIP
 Cartoon Network
 Cartoon Network HD
 Colors Odia
@@ -73,10 +72,6 @@ HISTORY TV18 - Hindi
 Hollywood Desi
 Hooray Kids
 Hooray Rhymes
-Hum Masala
-Hum Sitarey
-Hum TV
-Investigation Discovery HD
 JIO Specials HD
 JIO Sports HD
 Jatra Ekamra
@@ -108,12 +103,7 @@ Prarthana TV
 Raj Musix Telugu
 Rang Rangoli
 Red Bull TV
-SONY ENTERTAINMENT TELEVISION
-SONY ENTERTAINMENT TELEVISION HD VIP
-SONY SPORTS TEN 1 HD
-SONY SPORTS TEN 2 HD
-SONY SPORTS TEN 5 HD
-SONY TEN Cricket
+SET HD
 Sai Ekamra
 Shemaroo Bollywood
 Shemaroo Filmy Gaane
@@ -129,8 +119,13 @@ Sony MAX
 Sony MAX 2
 Sony MAX HD
 Sony PIX HD
+Sony Pal
+Sony SAB HD
 Sony SAB SD
+Sony Sports Ten 1 HD
+Sony WAH
 Sony YAY
+Sony Yay
 Sri Jagannath Dham
 Star Gold HD
 Star Kiran
@@ -139,8 +134,6 @@ Tarang Music
 Tarang TV
 The Movie Club
 The Movie Club+2
-Toffee Dramas
-Toffee Movies
 Universal Movies
 Vevo '90s
 Vevo '90s & '00s
