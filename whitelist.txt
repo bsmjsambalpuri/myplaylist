@@ -15,6 +15,17 @@ Argus News
 Naxatra News
 Bada Khabar
 MBC TV
+Baiscope TV
+Ekamra Bharat Odia
+Ekamra Cinema
+Ekamra Manoranjan
+Ekamra Musiq
+Ekamra Nilach Akra
+Ekamra Paramatma
+Jatra Ekamra
+One Paschima
+Rang Rangoli
+Sai Ekamra
 Zee Odisha News
 Alankar TV
 Sidharth Gold
@@ -92,7 +103,6 @@ ANIME x HIDIVE
 ARD Plus Krimi
 ARD Plus Zoo
 Aaj Tak HD
-AajTak
 Abschnitt 40 / GSG9
 According to Jim
 AccuWeather NOW
@@ -814,8 +824,6 @@ Perform
 Pickleball Now
 PickleballTV
 Piel Salvaje
-Pitaara
-Pitaara Comedy
 Pitufo TV
 Planeta Salvaje
 Plated
