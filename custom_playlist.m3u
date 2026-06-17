@@ -23,12 +23,20 @@ https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
 https://live.ekamraott.com/rr/rr/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Devotional",Sai Ekamra
 https://live.ekamraott.com/da/da/video.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" tvg-language="English" group-title="Business", CNBC TV18 Prime
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold HD
+http://202.70.146.135:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" tvg-language="Hindi" group-title="Movies", Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
+#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" tvg-language="Hindi" group-title="Entertainment", Zee TV HD
+http://103.159.180.34:5001/live/167.m3u8
 #EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png" tvg-language="Hindi" group-title="Movies", B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-language="Hindi" group-title="Music", B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndPicturesHD.png" tvg-language="Hindi" group-title="Movies", And Pictures HD
+http://103.159.180.34:5001/live/185.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png" tvg-language="Hindi" group-title="Entertainment", DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="203" tvg-name="DD News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png" tvg-language="Hindi" group-title="News", DD News
@@ -39,12 +47,22 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 http://103.159.180.34:5001/live/250.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9XJalwa.png" tvg-language="Hindi" group-title="Music", 9X Jalwa
 https://9xjio.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-id="473" tvg-name="Anmol TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmol.png" tvg-language="Hindi" group-title="Entertainment", Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png" tvg-language="Hindi" group-title="Movies", Sony Max HD
+https://sonyliv.07in.workers.dev/live/999/999/sony-max-hd.m3u8
+#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBollywood.png" tvg-language="Hindi" group-title="Movies", Zee Bollywood
+http://149.71.34.166:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAction.png" tvg-language="Hindi" group-title="Movies", Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png" tvg-language="Hindi" group-title="Entertainment", DD India
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 #EXTINF:-1 tvg-id="536" tvg-name="DD Madhya Pradesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" tvg-language="Hindi" group-title="Entertainment", DD Madhya Pradesh
 https://cdn-1.pishow.tv/live/31/master.m3u8
 #EXTINF:-1 tvg-id="540" tvg-name="DD Uttar Pradesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png" tvg-language="Hindi" group-title="Entertainment", DD Uttar Pradesh
 https://cdn-1.pishow.tv/live/36/master.m3u8
+#EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" tvg-language="English" group-title="Infotainment", Discovery Turbo
+http://202.70.146.135:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="580" tvg-name="DD bharati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png" tvg-language="Hindi" group-title="Infotainment", DD bharati
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 tvg-id="583" tvg-name="DD Kisan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png" tvg-language="Hindi" group-title="Infotainment", DD Kisan
@@ -65,16 +83,56 @@ http://103.159.180.34:5001/live/718.m3u8
 http://103.159.180.34:5001/live/722.m3u8
 #EXTINF:-1 tvg-id="751" tvg-name="Tarang Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tarang_Music.png" tvg-language="Odia" group-title="Music", Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png" tvg-language="English" group-title="Movies", Sony Pix HD
+http://202.70.146.135:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="781" tvg-name="Kalinga TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalinga_TV.png" tvg-language="Odia" group-title="News", Kalinga TV
 https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="786" tvg-name="Kappa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" tvg-language="Malayalam" group-title="Music", Kappa TV
+https://cdn-3.pishow.tv/live/1123/master.m3u8
+#EXTINF:-1 tvg-id="866" tvg-name="Jio Exclusive HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Exclusive.png" tvg-language="English" group-title="Entertainment", Jio Exclusive HD
+http://103.159.180.34:5001/live/866.m3u8
+#EXTINF:-1 tvg-id="877" tvg-name="MNX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-language="English" group-title="Movies", MNX HD
+http://202.70.146.135:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Sports.png" tvg-language="English" group-title="Sports", Jio Sports HD
+http://103.159.180.34:5001/live/889.m3u8
+#EXTINF:-1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-language="Hindi" group-title="Music", Boogle Bollywood
+http://103.159.180.34:5001/live/962.m3u8
+#EXTINF:-1 tvg-id="963" tvg-name="Arre HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arre.png" tvg-language="Hindi" group-title="Entertainment", Arre HD
+http://103.159.180.34:5001/live/963.m3u8
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" tvg-language="Hindi" group-title="Movies", B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" tvg-language="English" group-title="Infotainment", National Geographic HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="1375" tvg-name="Disney International HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png" tvg-language="English" group-title="Kids", Disney International HD
+http://202.70.146.135:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="1471" tvg-name="History TV18" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_TV18_SD.png" tvg-language="English" group-title="Infotainment", History TV18
+http://103.159.180.34:5001/live/1471.m3u8
 #EXTINF:-1 tvg-id="1481" tvg-name="Argus News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Argus_TV.png" tvg-language="Odia" group-title="News", Argus News
 https://stream.ottlive.co.in/argus/index.m3u8
+#EXTINF:-1 tvg-id="1834" tvg-name="Green Chillies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" tvg-language="Hindi" group-title="Entertainment", Green Chillies
+https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/playlist.m3u8
 #EXTINF:-1 tvg-id="1956" tvg-name="Sidharth TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_TV.png" tvg-language="Odia" group-title="Entertainment", Sidharth TV
 https://mumbai-edge.smartplaytv.in/sidharthtv/index.m3u8
 #EXTINF:-1 tvg-id="1957" tvg-name="Sidharth Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_Gold.png" tvg-language="Odia" group-title="Movies", Sidharth Gold
 http://103.159.180.34:5001/live/1957.m3u8
+#EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" tvg-language="Hindi" group-title="Entertainment", Shemaroo TV
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" tvg-language="Hindi" group-title="Entertainment", Shemaroo Umang
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="2230" tvg-name="Jio Specials HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" tvg-language="English" group-title="Music", Jio Specials HD
+http://103.159.180.34:5001/live/2230.m3u8
+#EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lionsgate_Play.png" tvg-language="Hindi" group-title="Entertainment", Lionsgate Play
+http://103.159.180.34:5001/live/2327.m3u8
+#EXTINF:-1 tvg-id="2757" tvg-name="Zee Zest HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeZestHD.png" tvg-language="Englisj" group-title="Lifestyle",Zee Zest HD
+http://103.159.180.34:5001/live/2757.m3u8
+#EXTINF:-1 tvg-id="2779" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-language="English" group-title="Sports", Red Bull TV
+http://103.159.180.34:5001/live/2779.m3u8
+#EXTINF:-1 tvg-id="3028" tvg-name="BH OTT India Fest" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHStyle_Icon.png" tvg-language="Hindi" group-title="Entertainment", BH OTT India Fest
+http://103.159.180.34:5001/live/3028.m3u8
+#EXTINF:-1 tvg-id="3074" tvg-name="Shemaroo Filmy Gaane" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrfgn.png" tvg-language="Hindi" group-title="Music", Shemaroo Filmy Gaane
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-id="3075" tvg-name="Shemaroo Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png" tvg-language="Hindi" group-title="Movies", Shemaroo Bollywood
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 #EXTINF:-1 tvg-id="3267" tvg-name="Star Kiran" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Kiran.png" tvg-language="Odia" group-title="Entertainment", Star Kiran
 http://103.159.180.34:5001/live/3267.m3u8
 #EXTINF:-1 tvg-id="3336" tvg-name="NH BollyFlix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" tvg-language="Hindi" group-title="Movies", NH BollyFlix
@@ -87,125 +145,15 @@ https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 #EXTINF:-1 tvg-id="3383" tvg-name="Epic Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png" tvg-language="Hindi" group-title="Entertainment", Epic Bharat
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+#EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" tvg-language="Hindi" group-title="Kids", Epic Kids
+http://103.159.180.34:5001/live/3385.m3u8
 #EXTINF:-1 tvg-id="3467" tvg-name="Green Gold TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png" tvg-language="Hindi" group-title="Kids", Green Gold TV
 https://supflm.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
-#EXTINF:-1 tvg-id="CABD1700002R4" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20260421T141050SQUARE.png",Conan O'Brien TV
-https://jmp2.uk/stvp-CABD1700002R4
-#EXTINF:-1 tvg-id="CABA3700001DB" tvg-name="Always Funny Videos" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700001DB_20250121T201616SQUARE.png",Always Funny Videos
-https://jmp2.uk/stvp-CABA3700001DB
-#EXTINF:-1 tvg-id="CABD1200038NZ" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20260512T070156SQUARE.png",XITE Hits
-https://jmp2.uk/stvp-CABD1200038NZ
-#EXTINF:-1 tvg-id="CABB2600018T4" tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20260512T070154SQUARE.png",XITE 90s Throwback
-https://jmp2.uk/stvp-CABB2600018T4
-#EXTINF:-1 tvg-id="CABD17000043J" tvg-name="XITE Summer" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20260609T034546SQUARE.png",XITE Summer
-https://jmp2.uk/stvp-CABD17000043J
-#EXTINF:-1 tvg-id="CABB2600004RZ" tvg-name="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600004RZ_20260421T140500SQUARE.png",XITE Just Chill
-https://jmp2.uk/stvp-CABB2600004RZ
-#EXTINF:-1 tvg-id="CABC52000165E" tvg-name="Vevo Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20260303T094846SQUARE.png",Vevo Country
-https://jmp2.uk/stvp-CABC52000165E
-#EXTINF:-1 tvg-id="CABC52000180Z" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20260303T094849SQUARE.png",Vevo Pop
-https://jmp2.uk/stvp-CABC52000180Z
-#EXTINF:-1 tvg-id="DEBC2100001ZJ" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2100001ZJ_20250107T024435SQUARE.png",Vevo Pop
-https://jmp2.uk/stvp-DEBC2100001ZJ
-#EXTINF:-1 tvg-id="DEBA2200007V6" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20251013T054833SQUARE.png",XITE Hits
-https://jmp2.uk/stvp-DEBA2200007V6
-#EXTINF:-1 tvg-id="ESBD230000289" tvg-name="Vevo Retro" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png",Vevo Retro
-https://jmp2.uk/stvp-ESBD230000289
-#EXTINF:-1 tvg-id="ESBC2100001IU" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png",Vevo Pop
-https://jmp2.uk/stvp-ESBC2100001IU
-#EXTINF:-1 tvg-id="FRBC2100001YY" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100001YY_20241015T040412SQUARE.png",Vevo Pop
-https://jmp2.uk/stvp-FRBC2100001YY
-#EXTINF:-1 tvg-id="GB300001QO" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300001QO_20250107T030611SQUARE.png",Conan O'Brien TV
-https://jmp2.uk/stvp-GB300001QO
-#EXTINF:-1 tvg-id="GBBC2300002GG" tvg-name="America's Got Talent" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20260609T043634SQUARE.png",America's Got Talent
-https://jmp2.uk/stvp-GBBC2300002GG
-#EXTINF:-1 tvg-id="GBBC2300001X5" tvg-name="American Idol" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20260528T054034SQUARE.png",American Idol
-https://jmp2.uk/stvp-GBBC2300001X5
-#EXTINF:-1 tvg-id="GB800002OP" tvg-name="&TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB800002OP_20260407T040228SQUARE.png",&TV
-https://jmp2.uk/stvp-GB800002OP
-#EXTINF:-1 tvg-id="GBBC19000017V" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png",Vevo Pop
-https://jmp2.uk/stvp-GBBC19000017V
-#EXTINF:-1 tvg-id="GBBC2100002HP" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png",Vevo '90s & '00s
-https://jmp2.uk/stvp-GBBC2100002HP
-#EXTINF:-1 tvg-id="GBBB3800005QO" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20250107T025842SQUARE.png",XITE Hits
-https://jmp2.uk/stvp-GBBB3800005QO
-#EXTINF:-1 tvg-id="IN38000072R" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260528T040626SQUARE.png",The Movie Club
-https://jmp2.uk/stvp-IN38000072R
-#EXTINF:-1 tvg-id="IN40000100Y" tvg-name="The Movie Club+2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260528T040635SQUARE.png",The Movie Club+2
-https://jmp2.uk/stvp-IN40000100Y
-#EXTINF:-1 tvg-id="IN21000014R" tvg-name="Zee Cine Classic" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20260325T012324SQUARE.png",Zee Cine Classic
-https://jmp2.uk/stvp-IN21000014R
-#EXTINF:-1 tvg-id="IN46000140Q" tvg-name="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20251106T195128SQUARE.png",NH BollyFlix
-https://jmp2.uk/stvp-IN46000140Q
-#EXTINF:-1 tvg-id="IN3900016WI" tvg-name="B4U Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20260422T010139SQUARE.png",B4U Movies
-https://jmp2.uk/stvp-IN3900016WI
-#EXTINF:-1 tvg-id="IN39000187Z" tvg-name="B4U Kadak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000187Z_20250521T010028SQUARE.png",B4U Kadak
-https://jmp2.uk/stvp-IN39000187Z
-#EXTINF:-1 tvg-id="IN2100005T2" tvg-name="Zee South Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100005T2_20260325T012340SQUARE.png",Zee South Flix
-https://jmp2.uk/stvp-IN2100005T2
-#EXTINF:-1 tvg-id="IN3900017KM" tvg-name="B4U Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20250811T033432SQUARE.png",B4U Music
-https://jmp2.uk/stvp-IN3900017KM
-#EXTINF:-1 tvg-id="IN38000050P" tvg-name="9XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20241211T020333SQUARE.png",9XM
-https://jmp2.uk/stvp-IN38000050P
-#EXTINF:-1 tvg-id="IN460001373" tvg-name="NH BollyRaga" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png",NH BollyRaga
-https://jmp2.uk/stvp-IN460001373
-#EXTINF:-1 tvg-id="INBC2800013L6" tvg-name="9X Jalwa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20240131T032422SQUARE.png_20240131032423.png",9X Jalwa
-https://jmp2.uk/stvp-INBC2800013L6
-#EXTINF:-1 tvg-id="INBD4700015M0" tvg-name="Music India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700015M0_20240731T012453SQUARE.png",Music India
-https://jmp2.uk/stvp-INBD4700015M0
-#EXTINF:-1 tvg-id="IN4900002RV" tvg-name="ETV Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png",ETV Music
-https://jmp2.uk/stvp-IN4900002RV
-#EXTINF:-1 tvg-id="IN3800001ZH" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20260408T011452SQUARE.png",Aaj Tak HD
-https://jmp2.uk/stvp-IN3800001ZH
-#EXTINF:-1 tvg-id="INBD400004NS" tvg-name="Zee Business" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400004NS_20250612T083831SQUARE.png",Zee Business
-https://jmp2.uk/stvp-INBD400004NS
-#EXTINF:-1 tvg-id="INBD2500013ID" tvg-name="News18 Odia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500013ID_20240131T032511SQUARE.png_20240131032512.png",News18 Odia
-https://jmp2.uk/stvp-INBD2500013ID
-#EXTINF:-1 tvg-id="IN2100004C4" tvg-name="Zee Horror Nights" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100004C4_20260528T040522SQUARE.png",Zee Horror Nights
-https://jmp2.uk/stvp-IN2100004C4
-#EXTINF:-1 tvg-id="IN3600006RT" tvg-name="Comedy King" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20260311T004428SQUARE.png",Comedy King
-https://jmp2.uk/stvp-IN3600006RT
-#EXTINF:-1 tvg-id="IN1700011V7" tvg-name="Epic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20260429T010045SQUARE.png",Epic Bharat
-https://jmp2.uk/stvp-IN1700011V7
-#EXTINF:-1 tvg-id="IN2100002GD" tvg-name="Zee Comedy Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260408T011537SQUARE.png",Zee Comedy Nation
-https://jmp2.uk/stvp-IN2100002GD
-#EXTINF:-1 tvg-id="IN2100003OJ" tvg-name="Zee Dil Se" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100003OJ_20260528T040640SQUARE.png",Zee Dil Se
-https://jmp2.uk/stvp-IN2100003OJ
-#EXTINF:-1 tvg-id="IN4000625P" tvg-name="Green Gold TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260528T040546SQUARE.png",Green Gold TV
-https://jmp2.uk/stvp-IN4000625P
-#EXTINF:-1 tvg-id="IN17000109O" tvg-name="Epic TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000109O_20260429T010042SQUARE.png",Epic TV
-https://jmp2.uk/stvp-IN17000109O
-#EXTINF:-1 tvg-id="ITBC2100001G9" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png",Vevo Pop
-https://jmp2.uk/stvp-ITBC2100001G9
-#EXTINF:-1 tvg-id="ITBC210000200" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png",Vevo '90s & '00s
-https://jmp2.uk/stvp-ITBC210000200
-#EXTINF:-1 tvg-id="USBB3200030CG" tvg-name="Universal Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20260421T133614SQUARE.png",Universal Movies
-https://jmp2.uk/stvp-USBB3200030CG
-#EXTINF:-1 tvg-id="USBD120001614" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260421T143126SQUARE.png",Conan O'Brien TV
-https://jmp2.uk/stvp-USBD120001614
-#EXTINF:-1 tvg-id="USBA1600001XM" tvg-name="Always Funny Videos" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA1600001XM_20240520T215804SQUARE.png",Always Funny Videos
-https://jmp2.uk/stvp-USBA1600001XM
-#EXTINF:-1 tvg-id="US3500006VF" tvg-name="America's Got Talent" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500006VF_20251219T231953SQUARE.png",America's Got Talent
-https://jmp2.uk/stvp-US3500006VF
-#EXTINF:-1 tvg-id="USBD3300004RH" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20260421T141846SQUARE.png",XITE Hits
-https://jmp2.uk/stvp-USBD3300004RH
-#EXTINF:-1 tvg-id="USBB3200007AK" tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20260512T070259SQUARE.png",XITE 90s Throwback
-https://jmp2.uk/stvp-USBB3200007AK
-#EXTINF:-1 tvg-id="USBD350003932" tvg-name="XITE Summer" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20260609T035034SQUARE.png",XITE Summer
-https://jmp2.uk/stvp-USBD350003932
-#EXTINF:-1 tvg-id="USBB2300003JZ" tvg-name="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png",XITE Just Chill
-https://jmp2.uk/stvp-USBB2300003JZ
-#EXTINF:-1 tvg-id="USBD3000133M" tvg-name="Vevo '90s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20260303T094208SQUARE.png",Vevo '90s
-https://jmp2.uk/stvp-USBD3000133M
-#EXTINF:-1 tvg-id="USBB4400015F5" tvg-name="Vevo 2K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20260303T094214SQUARE.png",Vevo 2K
-https://jmp2.uk/stvp-USBB4400015F5
-#EXTINF:-1 tvg-id="USBD120002431" tvg-name="Vevo 2010s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20260303T094211SQUARE.png",Vevo 2010s
-https://jmp2.uk/stvp-USBD120002431
-#EXTINF:-1 tvg-id="USBD3000145P" tvg-name="Vevo Rock" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20260421T141843SQUARE.png",Vevo Rock
-https://jmp2.uk/stvp-USBD3000145P
-#EXTINF:-1 tvg-id="USBC3600002EK" tvg-name="Vevo Hip-Hop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20260303T094219SQUARE.png",Vevo Hip-Hop
-https://jmp2.uk/stvp-USBC3600002EK
-#EXTINF:-1 tvg-id="USBC3600001RQ" tvg-name="Vevo Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20260303T094217SQUARE.png",Vevo Country
-https://jmp2.uk/stvp-USBC3600001RQ
-#EXTINF:-1 tvg-id="USBC3600008WY" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20260421T141831SQUARE.png",Vevo Pop
-https://jmp2.uk/stvp-USBC3600008WY
+#EXTINF:-1 tvg-id="3533" tvg-name="Dice Media" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png" tvg-language="Hindi" group-title="Entertainment", Dice Media
+https://supflm.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
+#EXTINF:-1 tvg-id="3534" tvg-name="FilterCopy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/fltrcopy.png" tvg-language="Hindi" group-title="Entertainment", FilterCopy
+https://supflm.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
+#EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/blywcm.png" tvg-language="Hindi" group-title="Movies", Eros Universe Bollywood Cinema
+http://103.159.180.34:5001/live/3543.m3u8
+#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/ersent.png" tvg-language="Hindi" group-title="Movies", Eros Universe Entertainment
+http://103.159.180.34:5001/live/3544.m3u8
