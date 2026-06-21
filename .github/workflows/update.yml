@@ -2,8 +2,8 @@ name: Update IPTV Playlist
 
 on:
   schedule:
-    # Runs every day at midnight (00:00 UTC)
-    - cron: '0 */12 * * *'
+    # Runs every 3 hours (00:00 UTC)
+    - cron: '2 */3 * * *'
   workflow_dispatch: # Allows you to run it manually from the GitHub UI
 
 jobs:

@@ -26,6 +26,8 @@ CNBC TV18 Prime
 Cartoon Network
 Cartoon Network HD
 Colors Odia
+Colors Infinity
+Colors Infinity HD
 Comedy King
 Conan O'Brien TV
 DD Bharati
@@ -165,3 +167,5 @@ Zee South Flix
 Zee TV HD
 Zee Zest HD
 Zing!
+FTV HD
+FTV
