@@ -134,6 +134,7 @@ Oscar Movies
 Paramount Movie Channel
 Paramount+ Picks
 Pluto TV Comedy
+Pluto TV Romance
 Power Kids Tv
 Pogo
 Prameya News7
@@ -159,7 +160,6 @@ Shemaroo TV
 Shemaroo Umang
 Showbox
 Sidharth Gold
-Sidharth TV
 Sidharth Utsav
 Siti Music
 Sony BBC Earth HD
@@ -221,4 +221,64 @@ Zoom
 Raj music Telugu
 Haryanvi Hts
 YRF Music
+YRF Music HD
+The Lallantop
 Saga Music Haryanvi
+
+10 TV
+634
+7S Musi
+Aastha
+Aastha Bhajan
+All Time Movies
+Amrita TV
+Anand TV
+Anmol TV
+Asian News
+Asianet Middle East
+Asianet News
+Asianet Suvarna News
+Assam Talks
+Awakening TV
+Big Magic
+CVR English
+CVR OM Spiritual
+Captain
+DD India HD
+DD National HD
+DD News HD
+Divya
+Epic Music
+Goldmines 2
+Goldmines Action
+Goldmines Bollywood
+Goldmines Movies
+Maha Movie
+Mahaa Max
+Manoranjan Grand
+Manoranjan Movies
+Manoranjan Prime
+Manoranjan TV
+MoviePlex
+Paras Gold
+Pasand TV
+Pratidin Time
+Public Movies
+Public Music
+Public TV
+R Plus
+R Plus Gold
+Raftaar Media
+Rang
+Rengoni
+Saam TV
+Sadhna Gold
+Sanskar
+Shubh Cinema
+Shubh TV
+Studio One Plus
+Subharti TV
+Subhavaartha
+Tehzeeb TV
+The Q
+Vedic
