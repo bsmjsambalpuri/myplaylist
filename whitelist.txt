@@ -1,23 +1,31 @@
 & Pictures HD
 &TV
 &pictures International (1080p)
+10 TV
 24 Hour Free Movies (720P)
+7S Music
+8XM
 9X Jalwa
 9XM
 Aaj Tak HD
+Aastha
+Aastha Bhajan
 Action Hollywood Movies
+Action Sports HD 1
+Action Sports HD 2
 Alankar TV
+All Time Movies
 Always Funny Videos
 America's Got Talent
 American Idol
-Animax
 And Pictures HD
 Animal Planet
 Animal Planet HD
+Animax
 Anjan TV
 Anmol Cinema
 Anmol Cinema 2
-Anmol Tv
+Anmol TV
 Apex Entertainment
 Argus News
 Arre HD
@@ -29,10 +37,15 @@ B4U Music VIP
 BH OTT India Fest
 Bada Khabar
 Baiscope TV
+Big Magic
 Bollywood Classic (1080p)
 Bollywood HD (1080p)
 Boogle Bollywood
+CARTOON NETWORK
 CNBC TV18 Prime
+COLORS CINEPLEX HD
+COLORS RISHTEY
+Captain
 Cartoon Network
 Cartoon Network HD
 Charge! (1080p)
@@ -44,30 +57,38 @@ Colors Infinity HD
 Colors Odia
 Comedy King
 Conan O'Brien TV
-Dabangg
-Dangal
-Dangal 2
 DD Bharati
 DD Chhattisgarh
 DD India
+DD India HD
 DD Kashir
 DD Kisan
 DD Madhya Pradesh
 DD National
+DD National HD
 DD News
+DD News HD
 DD Odia
 DD Sports
+DD Sports 1.0
 DD Sports HD
 DD Urdu
 DD Uttar Pradesh
 DD Uttarakhand
+Dabangg
+Dangal
+Dangal 2
 Dice Media
 Discovery
 Discovery HD
 Discovery Kids
 Discovery Science
 Discovery Turbo
+Disney Channel
+Disney Channel HD
 Disney International HD
+Divya
+Dubbed movies
 ETV Music
 Ekamra Bharat Odia
 Ekamra Cinema
@@ -77,6 +98,7 @@ Ekamra Nilach Akra
 Ekamra Paramatma
 Epic Bharat
 Epic Kids
+Epic Music
 Epic TV
 Eros Universe Bollywood Cinema
 Eros Universe Entertainment
@@ -87,13 +109,24 @@ FilterCopy
 Gemini Music
 Global TV
 Goldmines
+Goldmines 2
+Goldmines Action
+Goldmines Bollywood
+Goldmines Movies
+Goldmines Movies 2
 Green Chillies
 Green Gold TV
 HISTORY TV18
 HISTORY TV18 - Hindi
+HUM WORLD
+HUNGAMA HINDI
+Haryanvi Hts
+Hindi Hits
+Hindi Songs
 Hollywood Desi
 Hooray Kids
 Hooray Rhymes
+Hum TV HD
 JIO Specials HD
 JIO Sports HD
 Jatra Ekamra
@@ -104,17 +137,24 @@ Kalinga TV
 Kanak News
 Kappa TV
 Lionsgate Play
+MAX 1
 MBC TV
 MNX HD
 MTV
-MTV HD
 MTV Beats
-MTVZee Cinemalu
+MTV HD
 MXN HD (1080p)
 Made in Hollywood
+Maha Movie
+Mahaa Max
 Manjari TV
+Manoranjan Grand
+Manoranjan Movies
+Manoranjan Prime
+Manoranjan TV
 Mastiii
 Mix Hollywood (1080p)
+MoviePlex
 MovieSphere AU (1080p)
 MovieSphere UK (1080p)
 Movies Thriller (1080p)
@@ -133,26 +173,35 @@ One Paschima
 Oscar Movies
 Paramount Movie Channel
 Paramount+ Picks
+Pasand TV
 Pluto TV Comedy
 Pluto TV Romance
-Power Kids Tv
 Pogo
+Power Kids Tv
 Prameya News7
 Prarthana TV
+Public Music
 Raj Musix Telugu
+Raj Pariwar
+Raj music Telugu
 Rakuten TV Action Movies UK (1080p)
 Rakuten Top Movies UK (1080p)
 Rakuten Tv Comedy Movies UK (1080p)
 Rang Rangoli
-Raj Pariwar
 Red Bull TV
+Rengoni
 Revry Her (720p)
-Romedy Now
 Rock Tv
+Romedy Now
+SAB HD
 SET HD
+STAR GOLD ROMANCE
+STAR GOLD THRILLS
+STAR UTSAV
+STAR UTSAV MOVIES
+Sadhna Gold
+Saga Music Haryanvi
 Sai Ekamra
-Sidharth TV
-Star Sports Khel
 Shemaroo Bollywood
 Shemaroo Filmy Gaane
 Shemaroo Josh
@@ -160,32 +209,64 @@ Shemaroo TV
 Shemaroo Umang
 Showbox
 Sidharth Gold
+Sidharth TV
 Sidharth Utsav
 Siti Music
 Sony BBC Earth HD
+Sony HD
 Sony KAL Hindi (1080p)
 Sony MAX
 Sony MAX 2
 Sony MAX HD
+Sony Max 2
 Sony PIX HD
 Sony Pal
 Sony SAB HD
 Sony SAB SD
+Sony Sports 1 HD
+Sony Sports 2 HD
+Sony Sports 3 HD
+Sony Sports 5 HD
 Sony Sports Ten 1 HD
 Sony WAH
 Sony YAY
 Sony Yay
 Sri Jagannath Dham
+Star Bharat HD
+Star Gold 2 HD
+Star Gold 2 SD
 Star Gold HD
+Star Gold Select HD
+Star Jalsha
+Star Jalsha HD
 Star Kiran
 Star Maa Music
+Star Movies HD
+Star Movies Select HD
+Star Sports 1 HD
+Star Sports 1 Hindi
+Star Sports 2 Hindi HD
+Star Sports 2 hd
+Star Sports 3
+Star Sports Khel
+Star Sports Select 1 HD 
+Star Sports Select 1 SD 
+Star Sports Select 2 HD 
+Star Sports Select 2 SD
+StarPlus HD
+Studio One Plus
+Subharti TV
+Subhavaartha
 Tarang Music
 Tarang TV
+The Lallantop
 The Movie Club
 The Movie Club+2
-Universal Movies
+The Q
 Universal Action (1080p)
 Universal Monsters (1080p)
+Universal Movies
+Vedic
 Vevo '90s
 Vevo '90s & '00s
 Vevo 2010s
@@ -199,6 +280,8 @@ XITE 90s Throwback
 XITE Hits
 XITE Just Chill
 XITE Summer
+YRF Music
+YRF Music HD
 Zee Action
 Zee Anmol
 Zee Bollywood
@@ -206,6 +289,7 @@ Zee Business
 Zee Cafe
 Zee Cine Classic
 Zee Cinema HD
+Zee Cinemalu
 Zee Clasic
 Zee Comedy Nation
 Zee Dil Se
@@ -218,67 +302,5 @@ Zee TV HD
 Zee Zest HD
 Zing!
 Zoom
-Raj music Telugu
-Haryanvi Hts
-YRF Music
-YRF Music HD
-The Lallantop
-Saga Music Haryanvi
-
-10 TV
-634
-7S Musi
-Aastha
-Aastha Bhajan
-All Time Movies
-Amrita TV
-Anand TV
-Anmol TV
-Asian News
-Asianet Middle East
-Asianet News
-Asianet Suvarna News
-Assam Talks
-Awakening TV
-Big Magic
-CVR English
-CVR OM Spiritual
-Captain
-DD India HD
-DD National HD
-DD News HD
-Divya
-Epic Music
-Goldmines 2
-Goldmines Action
-Goldmines Bollywood
-Goldmines Movies
-Maha Movie
-Mahaa Max
-Manoranjan Grand
-Manoranjan Movies
-Manoranjan Prime
-Manoranjan TV
-MoviePlex
-Paras Gold
-Pasand TV
-Pratidin Time
-Public Movies
-Public Music
-Public TV
-R Plus
-R Plus Gold
-Raftaar Media
-Rang
-Rengoni
-Saam TV
-Sadhna Gold
-Sanskar
-Shubh Cinema
-Shubh TV
-Studio One Plus
-Subharti TV
-Subhavaartha
-Tehzeeb TV
-The Q
-Vedic
+tata play bollywood
+tata play classic cinema
