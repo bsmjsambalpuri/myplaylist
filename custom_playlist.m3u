@@ -677,6 +677,8 @@ http://103.180.212.191:3500/live/2757
 http://103.180.212.191:3500/live/413
 #EXTINF:-1 tvg-id="722" tvg-name="Zee Sarthak" tvg-type="Entertainment" group-title="DISH BUZZ" tvg-language="Odia" tvg-logo="https://i.ibb.co/39yLXH2v/unnamed.png",Zee Sarthak
 http://103.180.212.191:3500/live/722
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSJ4CLLW/images.jpg" group-title="HINDI", Sony PAL
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/33612
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FqqYLX1X/images.jpg" tvg-chno="22" group-title="SONYLIV",Sony WAH
 http://filex.me:8080/live/1234567890/1234567890/499649.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNs5f2rZ/images-1.png" group-title="HINDI",COLORS RISHTEY
@@ -696,17 +698,19 @@ https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.ibb.co/twZ8gV27/images.jpg" ,NH Bollyraga
 https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 #EXTINF:-1 tvg-id="default" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="HINDI MOVIES",Sony Max
-https://fastshare1.com:443/live/1Aoen7elp5/IgMJ60tmAa/151.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=373074&extension=ts&play_token=TQU1nUD1Tb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FLnF18tM/STAR-Gold-20240706-212419-0000.png" group-title="HINDI MOVIES", STAR GOLD THRILLS
 http://66.102.126.10:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="default" tvg-logo="https://i.ibb.co/20d0S1xf/images-1.jpg" group-title="HINDI MOVIES",STAR GOLD ROMANCE
 http://66.102.126.10:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-titlE="HINDI MOVIES", Zing
-https://fastshare1.com:443/live/2dm8PWZoeX/2dm8PWZoeXm/970.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=372680&extension=ts&play_token=UxN1TQC4vY
 #EXTINF:-1 tvg-id="6" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="HINDI", Zee Anmol
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/97519
 #EXTINF:32 tvg-logo="https://i.ibb.co/JwKqVHPy/unnamed.jpg" group-title="HINDI MOVIES" , Zee Action
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96659
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4tjqTDj/images-14.jpg" group-title="HINDI MOVIES",Zee Classic
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=735401&extension=ts&play_token=1ZGpW6l8SY
 #EXTINF:-1 tvg-id="12" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png"group-title="HINDI MOVIES" , Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1 tvg-id="b4umovies.in" tvg-logo="https://i.ibb.co/VY9Y3nhX/unnamed.jpg" group-title="HINDI MOVIES",B4U MOVIES
@@ -790,7 +794,7 @@ https://techstop.online:443/live/8zpo3GsVY7/beneficial2concern/139239.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanaknews.in" tvg-name="IN-ODIA | TS Kanak News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kanak-News.png" group-title="ORIYA SD",Kanak News
 https://techstop.online:443/live/8zpo3GsVY7/beneficial2concern/139238.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xfs29sW/images-2.jpg" group-title="TELUGU PREMIUM", STAR MAA GOLD
-https://techstop.online:443/live/8zpo3GsVY7/beneficial2concern/9043.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=373491&extension=ts&play_token=2FEJAWTaKV
 #EXTINF:-1 tvg-id="10tv.in" tvg-logo="https://i.ibb.co/xKKKj1tY/10tv-telugu.jpg" group-title="TELUGU SD",10 TV
 https://cdn-1.pishow.tv/live/391/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spbwnyVj/b37f9c88d6bc2b2288a0f2140569a112.jpg" group-title="BHOJPURI",Dabangg
