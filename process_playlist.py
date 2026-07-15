@@ -11,6 +11,9 @@ PLAYLIST_URLS = [
     "http://yaarokayaar2026iptv.fun/index.html"
 ]
 
+# 2. Define your EPG URLs (Separated by a comma for multi-EPG support)
+EPG_URL = "https://github.com/amazeyourself/m3u/raw/refs/heads/main/epg/airtel.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+
 def load_whitelist():
     """Reads the whitelist.txt file and returns a list of clean keywords."""
     if not os.path.exists("whitelist.txt"):
@@ -60,7 +63,6 @@ def fetch_and_filter():
                             continue
 
                         # Extract the display name (everything after the last comma)
-                        # Example: #EXTINF:-1 ..., HBO HD -> "HBO HD"
                         channel_name = current_metadata.split(",")[-1].strip().lower()
 
                         # --- EXACT MATCH FILTERING ---
@@ -81,10 +83,12 @@ def fetch_and_filter():
         except Exception as e:
             print(f"Error processing {url}: {e}")
 
-    # 3. Write the unique, whitelisted channels into your final M3U file
+    # 3. Write the unique, whitelisted channels AND the EPG header into your final M3U file
     output_file = "custom_playlist.m3u"
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
+        # Write the header with the EPG URLs injected
+        f.write(f'#EXTM3U x-tvg-url="{EPG_URL}"\n')
+        
         for metadata, stream_url in merged_channels:
             f.write(f"{metadata}\n{stream_url}\n")
 
