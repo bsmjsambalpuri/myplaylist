@@ -1,7 +1,6 @@
 & Pictures HD
 &pictures International (1080p)
 &TV
-10 TV
 24 Hour Free Movies (720P)
 7S Music
 8XM
@@ -354,10 +353,8 @@ Zee Odisha News
 Zee Sarthak
 Zee South Flix
 Zee TV Canada (1080p)
-ZEE TV HD
 Zee TV HD
 ZEE ZEST HD
-Zee Zest HD
 ZING
 Zing!
 Zoom
