@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/amazeyourself/m3u/raw/refs/heads/main/epg/airtel.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 #EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",24 Hour Free Movies (720p)
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
 #EXTINF:-1 tvg-id="BollywoodClassic.ro@SD" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Classic;Movies",Bollywood Classic (1080p)
@@ -191,8 +191,6 @@ https://cdn-3.pishow.tv/live/441/master.m3u8
 https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="786" tvg-name="Kappa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" tvg-language="Malayalam" group-title="Music", Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
-#EXTINF:-1 tvg-id="832" tvg-name="10 TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png" tvg-language="Telugu" group-title="News", 10 TV
-https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="866" tvg-name="Jio Exclusive HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Exclusive.png" tvg-language="English" group-title="Entertainment", Jio Exclusive HD
 http://103.159.180.34:5001/live/866.m3u8
 #EXTINF:-1 tvg-id="877" tvg-name="MNX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-language="English" group-title="Movies", MNX HD
@@ -479,8 +477,6 @@ http://103.175.73.12:8080/live/667/master.m3u8
 http://103.175.73.12:8080/live/669/master.m3u8
 #EXTINF:-1 tvg-id="684" tvg-logo="",Mahaa Max
 http://103.175.73.12:8080/live/684/master.m3u8
-#EXTINF:-1 tvg-id="686" tvg-logo="",10 TV
-http://103.175.73.12:8080/live/686/master.m3u8
 #EXTINF:-1 tvg-id="708" tvg-logo="",Pasand TV
 http://103.175.73.12:8080/live/708/master.m3u8
 #EXTINF:-1 tvg-id="709" tvg-logo="",Rengoni
@@ -811,8 +807,6 @@ http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/2655
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=373491&extension=ts&play_token=2FEJAWTaKV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1YskQwZx/1000x1500-Gemini-Music-HD-194393-d3b5abd2-f5ec-44df-83e7-e396c34d6e86.jpg" group-title="âTELUGU PREMIUMâ",GEMINI MUSIC
 http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/2648
-#EXTINF:-1 tvg-id="10tv.in" tvg-logo="https://i.ibb.co/xKKKj1tY/10tv-telugu.jpg" group-title="âTELUGU SDâ",10 TV
-https://cdn-1.pishow.tv/live/391/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp12kpFz/images-9.jpg" group-title="âMALAYALAM SDâ",KAPPA TV
 http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/2817
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spbwnyVj/b37f9c88d6bc2b2288a0f2140569a112.jpg" group-title="âBHOJPURIâ",Dabangg
@@ -985,8 +979,6 @@ http://103.180.212.191:3500/live/773.m3u8
 http://103.180.212.191:3500/live/781.m3u8
 #EXTINF:-1 tvg-id="786" tvg-name="Kappa TV" tvg-logo="http://103.180.212.191:3500/jtvimage/Kappa_TV.png" tvg-language="Malayalam" tvg-type="Music" group-title="âJIOTV DISHTVâ", Kappa TV
 http://103.180.212.191:3500/live/786.m3u8
-#EXTINF:-1 tvg-id="832" tvg-name="10 TV" tvg-logo="http://103.180.212.191:3500/jtvimage/10_TV.png" tvg-language="Telugu" tvg-type="News" group-title="âJIOTV DISHTVâ", 10 TV
-http://103.180.212.191:3500/live/832.m3u8
 #EXTINF:-1 tvg-id="866" tvg-name="Jio Exclusive HD" tvg-logo="http://103.180.212.191:3500/jtvimage/Jio_Exclusive.png" tvg-language="English" tvg-type="Entertainment" group-title="âJIOTV DISHTVâ", Jio Exclusive HD
 http://103.180.212.191:3500/live/866.m3u8
 #EXTINF:-1 tvg-id="877" tvg-name="MNX HD" tvg-logo="http://103.180.212.191:3500/jtvimage/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="âJIOTV DISHTVâ", MNX HD
