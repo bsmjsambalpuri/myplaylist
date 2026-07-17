@@ -94,6 +94,7 @@ DISNEY INTERNATIONAL HD
 DISNEY JUNIOR 
 Divya
 Dubbed movies
+E! Keeping Up
 Ekamra Bharat Odia
 Ekamra Cinema
 Ekamra Manoranjan
@@ -115,6 +116,16 @@ Euro Sport HD
 FilterCopy
 FTV
 FTV HD
+Filmrise Western
+Filmrise True Crime
+Filmrise Kids
+Filmrise Horror
+Filmrise Sci-Fi
+Filmrise Free Movies
+Filmrise Anime
+Filmrise Action
+Filmrise British TV
+Filmrise Classic TV
 Gemini Music
 Global TV
 Goldmines
@@ -160,6 +171,10 @@ MAX 1
 MBC TV
 MINIPLEX HD
 Mix Hollywood (1080p)
+MGM Presents
+MGM Presents: Horror
+MGM Presents: Westerns
+MGM Presents Action
 MNX HD
 MoviePlex
 Movies Thriller (1080p)
@@ -315,6 +330,8 @@ UNITE8 SPORTS 1 HD
 Universal Action (1080p)
 Universal Monsters (1080p)
 Universal Movies
+Universal Crime
+Universal Westerns
 Vedic
 Vevo '90s
 Vevo '90s & '00s
