@@ -1,6 +1,6 @@
 import requests
 
-# 1. Define your source public playlists (Feel free to adjust this list as needed)
+# 1. Define your source public playlists (M3U URLs)
 PLAYLIST_URLS = [
     "http://yaarokayaar2026iptv.fun/index.html"
 ]
@@ -9,7 +9,7 @@ PLAYLIST_URLS = [
 EPG_URL = "https://github.com/amazeyourself/m3u/raw/refs/heads/main/epg/airtel.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 
 def fetch_all():
-    print("Starting collection for another_playlist.m3u (No Whitelist Mode)")
+    print("Starting collection for another_playlist.m3u (Domain Filter Mode)")
     merged_channels = []
     seen_urls = set()  # Tracks unique URLs to prevent duplicates
 
@@ -37,12 +37,18 @@ def fetch_all():
                     stream_url = line
                     
                     if current_metadata:
+                        # --- DOMAIN BLOCK FILTER ---
+                        # Instantly skips URLs containing github.io or youtube.com
+                        if "github.io" in stream_url.lower() or "youtube.com" in stream_url.lower():
+                            current_metadata = None
+                            continue
+
                         # --- DUPLICATE CHECK ---
                         if stream_url in seen_urls:
                             current_metadata = None
                             continue
 
-                        # Add all channels without filtering
+                        # Add valid, filtered channels
                         merged_channels.append((current_metadata, stream_url))
                         seen_urls.add(stream_url)
 
@@ -51,7 +57,7 @@ def fetch_all():
         except Exception as e:
             print(f"Error processing {url}: {e}")
 
-    # 3. Write all unique channels AND the EPG header into another_playlist.m3u
+    # 3. Write all unique, filtered channels into another_playlist.m3u
     output_file = "another_playlist.m3u"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(f'#EXTM3U x-tvg-url="{EPG_URL}"\n')
