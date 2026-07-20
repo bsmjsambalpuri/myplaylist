@@ -695,8 +695,6 @@ http://103.180.212.191:3500/live/413
 http://103.180.212.191:3500/live/722
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSJ4CLLW/images.jpg" group-title="âHINDIâ", Sony PAL
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/33612
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FqqYLX1X/images.jpg" tvg-chno="22" group-title="âSONYLIVâ",Sony WAH
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/3136
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNs5f2rZ/images-1.png" group-title="âHINDIâ",COLORS RISHTEY
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/33597
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="âHINDI MOVIESâ",Zee Dil Se
@@ -719,10 +717,12 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=373074&e
 http://66.102.126.10:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="default" tvg-logo="https://i.ibb.co/20d0S1xf/images-1.jpg" group-title="âHINDI MOVIESâ",STAR GOLD ROMANCE
 http://66.102.126.10:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6K3M0DX/Colors-Cineplex-Superhits-logo.jpg" group-title="âHINDI MOVIESâ", Colors CinePlex Superhit
+http://tv.cloudcdn.me:80/live.ts?channelId=62413&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="âHINDI MOVIESâ", Zing
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=372680&extension=ts&play_token=UxN1TQC4vY
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWSmHj4P/images-6.jpg" group-title="âHINDI MOVIESâ",STAR UTSAV MOVIES
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/3144
+http://tv.cloudcdn.me:80/live.ts?channelId=133029&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-id="6" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="âHINDIâ", Zee Anmol
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/97519
 #EXTINF:32 tvg-logo="https://i.ibb.co/JwKqVHPy/unnamed.jpg" group-title="âHINDI MOVIESâ" , Zee Action
@@ -730,7 +730,7 @@ http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96659
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4tjqTDj/images-14.jpg" group-title="âHINDI MOVIESâ",Zee Classic
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=735401&extension=ts&play_token=1ZGpW6l8SY
 #EXTINF:-1 tvg-id="12" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png"group-title="âHINDI MOVIESâ" , Zee Bollywood
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/2976
+http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-id="b4umovies.in" tvg-logo="https://i.ibb.co/VY9Y3nhX/unnamed.jpg" group-title="âHINDI MOVIESâ",B4U MOVIES
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umovies-lgin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fzXyG9kM/images-10.jpg" group-title="âHINDI MOVIESâ",GOLDMINES
@@ -764,7 +764,7 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Anjan Tv.jpg" group-title="âHINDI ENTERTAINMENTâ", Anjan Tv
 http://103.175.73.12:8080/live/20/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YF8YDDDR/images-7.png" group-title="âHINDI ENTERTAINMENTâ",MTV
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/3085
+http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx2CK6NL/images-29.jpg" group-title="âHINDI ENTERTAINMENTâ", THE Q
 http://103.175.73.12:8080/live/25/master.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/831973165Frame_1597877904.webp" group-title="âHINDI ENTERTAINMENTâ",DD KISAN
@@ -794,15 +794,13 @@ http://proxpanel.cc:80/h1wqD6CY/byxHYgX/694197
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39WJ28Nq/star-sports-1-hindi-500x500.webp" group-title="âSPORTSâ", Star Sports 1 Hindi
 http://thunderbolt-40gbps.com/pi3UnSAj/g4QuRtPh/500003630
 #EXTINF:-1 tvg-id="1985" tvg-name="Sports18 1" tvg-type="Sports" group-title="âSPORTSâ" tvg-language="English" tvg-logo="https://i.ibb.co/mCwFYBf6/starsports-13-975-e1460731047631.jpg" catchup-source="https://amit-1.allinonereborn.in/jiotest/app/catchup/ts_catchup_1985_${catchup-id}_${start}_${stop}.m3u8",STAR SPORTS KHEL
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:C1:4E:81&stream=1104675&extension=ts&play_token=t9bpEX4fL8
+http://tv.cloudcdn.me:80/live.ts?channelId=132884&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn9s6HvH/images-34.jpg", group-title="âSPORTSâ" ,DD SPORTS 1.0
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:C1:4E:81&stream=1423409&extension=ts&play_token=4hmEjpbx1v
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="âBANGLA PREMIUMâ", STAR JALSHA
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/4634
+http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-id="abps132" group-title="âBANGLA SDâ" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/rengoni.png",Rengoni
 https://ms2.alliancebroadband.in/media_rengoni.m3u8
-#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="âORIYA PREMIUMâ",SIDHARTH TV
-https://techstop.online:443/live/8zpo3GsVY7/beneficial2concern/153302.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfhcG3fC/channels4-profile.jpg" group-title="âORIYA SDâ", DD ODIA
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Rvb05K1/channels4-profile-1.jpg" group-title="âORIYA SDâ",Nandighosha TV
@@ -819,16 +817,14 @@ https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chun
 https://livetv.tarangplus.in/tarangmusic-origin/live/tarangmusic-origin/live_720p/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/LkDwn7b/images-2.jpg" group-title="âORIYA SDâ",KALINGA TV
 https://techstop.online:443/live/8zpo3GsVY7/beneficial2concern/139239.ts
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanaknews.in" tvg-name="IN-ODIA | TS Kanak News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kanak-News.png" group-title="âORIYA SDâ",Kanak News
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/2955
 #EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://i.ibb.co/Tqn4PSLY/Star-maa-logo-2023.png" group-title="âTELUGU PREMIUMâ",STAR MAA
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/2655
+http://tv.cloudcdn.me:80/live.ts?channelId=43458&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xfs29sW/images-2.jpg" group-title="âTELUGU PREMIUMâ", STAR MAA GOLD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=373491&extension=ts&play_token=2FEJAWTaKV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1YskQwZx/1000x1500-Gemini-Music-HD-194393-d3b5abd2-f5ec-44df-83e7-e396c34d6e86.jpg" group-title="âTELUGU PREMIUMâ",GEMINI MUSIC
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/2648
+http://tv.cloudcdn.me:80/live.ts?channelId=43454&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp12kpFz/images-9.jpg" group-title="âMALAYALAM SDâ",KAPPA TV
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/2817
+http://tv.cloudcdn.me:80/live.ts?channelId=43477&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spbwnyVj/b37f9c88d6bc2b2288a0f2140569a112.jpg" group-title="âBHOJPURIâ",Dabangg
 https://ms2.alliancebroadband.in/media_dabangg.m3u8
 #EXTINF:-1 tvg-id="ZeeBusiness.in" group-title="âENGLISHâ",Zee Business
