@@ -15,10 +15,10 @@ https://pixeldrain.dev/api/file/1cLe7cCs
 https://pixeldrain.dev/api/file/ExRe7RBM
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjpHGMcc/images-2.jpg" group-title="âOTT SPECIALâ",Indian Idol Sun LATEST á´´á´°
 https://pixeldrain.dev/api/file/E1sjDy2r
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdzTgfXf/images-1.jpg" group-title="âOTT SPECIALâ",Lock Upp S2 EP19 DAILY á´´á´°
-https://pixeldrain.dev/api/file/KuQFodBT
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zVWTGyV4/images-2.jpg" group-title="âOTT SPECIALâ",The Alliance EP26 DAILY LATEST á´´á´°
-https://pixeldrain.dev/api/file/wxPtMLZo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdzTgfXf/images-1.jpg" group-title="âOTT SPECIALâ",Lock Upp S2 EP20 DAILY á´´á´°
+https://pixeldrain.dev/api/file/VFi5u47W
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zVWTGyV4/images-2.jpg" group-title="âOTT SPECIALâ",The Alliance EP27 DAILY LATEST á´´á´°
+https://pixeldrain.dev/api/file/STTSi7Qc
 #EXTINF:-1 tvg-id="63651" tvg-name="Kings Of Comedy" tvg-logo="https://i.ibb.co/WNRyVQhP/images-1.png" group-title="âOTT SPECIALâ", Kings Of Comedy SPECIAL
 https://jmp2.uk/stvp-IN46000184H
 #EXTINF:-1 tvg-id="559" tvg-logo="https://i.ibb.co/9H8mBLSg/images.jpg" group-title="âSONYLIVâ",SONY SAB SD INDIA SPECIAL
@@ -97,6 +97,14 @@ https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 https://airtel-eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMPp53Nj/MV5-BMDky-Mj-Jj-ZGUt-Nz-Q3-Zi00-MGZm-LWJk-Yz-Yt-YTJm-Nj-Yx-Nj-E3-MGUz-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX100.jpg" group-title="âOTT SPECIALâ",JUST FOR LAUGHS GAGS
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1764235266&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6731bd76f3dc89853b0711b8&AV_CHANNELID=6731bd30ae2dfd24ab053558&AV_WIDTH=1920&AV_HEIGHT=1080&AV_APPNAME=STIRR&AV_APPSTOREURL=&AV_APPPKGNAME=web.ktest2.vodlix&AV_IDFA=5e17ec68-c63f-4731-9ab3-a305b2805541&AV_IFA_TYPE=sessionid&AV_LATITUDE=39.0438&AV_LONGITUDE=-77.4874&AV_CONTENT_URL=&AV_CONTENT_TITLE=Just+for+Laughs&AV_CONTENT_EPISODE=&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_KEYWORDS=comedy%2Chumor%2Csketch%2Cparody%2Csatire%2Cstand-up%2Cimprov%2Cfunny%2Claughs%2Cjokes%2Cgags%2Cpranks%2Cchallenges%2Centertainment%2Camericas+funniest+home+videos&AV_CONTENT_ID=5735&AV_CONTENT_GENRE=Comedy+Live%2CEntertainment+Live%2C&vx_session=i8pe5jenqmn8p1u5eopita1vls&AV_NONCE=[vx_nonce]&AV_CONTENT_CAT=IAB1-4
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| MIRZAPUR HD" tvg-logo="https://i.ibb.co/G4rkShxT/images.jpg" group-title="â24/7 WEB-SERIESâ", MIRZAPUR á´´á´°
+https://operator1.barfik.org/live/u4b3n324j7/7cj49wd783/1950650.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| MAHARANI HD" tvg-logo="https://i.ibb.co/G4rkShxT/images.jpg" group-title="â24/7 WEB-SERIESâ",MAHARANI á´´á´°
+https://operator1.barfik.org/live/u4b3n324j7/7cj49wd783/1950666.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| LAAKHON MEIN EK HD" tvg-logo="https://i.ibb.co/G4rkShxT/images.jpg" group-title="â24/7 WEB-SERIESâ", LAAKHON MEIN EK á´´á´°
+https://operator1.barfik.org/live/u4b3n324j7/7cj49wd783/1950667.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| THE LEGEND OF HANUMAN HD" tvg-logo="https://i.ibb.co/G4rkShxT/images.jpg" group-title="â24/7 WEB-SERIESâ",THE LEGEND OF HANUMAN á´´á´°
+https://operator1.barfik.org/live/u4b3n324j7/7cj49wd783/1950669.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VcQj7zFj/images.jpg" group-title="âINDIA CRICKETâ",INDIA LIVE CRICKET 1
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__S7Sl1UyBkLcEhDJfZlx1_A
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VcQj7zFj/images.jpg" group-title="âINDIA CRICKETâ",INDIA LIVE CRICKET 2
@@ -684,7 +692,7 @@ http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/5805
 #EXTINF:-1 tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/2372.png" group-title="âHINDI MOVIESâ", MINIPLEX
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=373023&extension=ts&play_token=R3URl1dGwx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/2372.png" group-title="âHINDI MOVIESâ", MINIPLEX â´á´·
-EXTINF:-1 tvg-id="MoviePlex.in@SD" tvg-logo="https://i.imgur.com/THJEAqJ.png" group-title="âHINDI MOVIESâ",MoviePlex
+https://operator1.barfik.org/u4b3n324j7/7cj49wd783/156020
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWSmHj4P/images-6.jpg" group-title="âHINDI MOVIESâ",STAR UTSAV MOVIES
 http://tv.cloudcdn.me:80/live.ts?channelId=133029&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWSmHj4P/images-6.jpg" group-title="âHINDI MOVIESâ",STAR UTSAV MOVIES á´´á´°
@@ -1465,6 +1473,8 @@ https://pixeldrain.dev/api/file/FPnCPuW2
 https://pixeldrain.dev/api/file/yzHBeCUC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="âHINDI KIDSâ",Sony Yay Hindi
 http://tv.cloudcdn.me:80/live.ts?channelId=78849&uid=15301&deviceMac=00:1A:79:04:55:C4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="âHINDI KIDSâ",Sony Yay
+https://operator1.barfik.org/u4b3n324j7/7cj49wd783/156089
 #EXTINF:-1 group-title="âHINDI KIDSâ" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",Cartoon Network á´´á´°
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 group-title="âHINDI KIDSâ" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",Cartoon Network â´á´·
@@ -1473,6 +1483,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=15301&deviceMac=00:1A:79:04:5
 http://proxpanel.cc:80/h1wqD6CY/byxHYgX/694134
 #EXTINF:-1 group-title="âHINDI KIDSâ" tvg-logo="https://i.ibb.co/zHNYDGHh/pogo-tv6744.jpg",Pogo á´´á´°
 http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=15301&deviceMac=00:1A:79:04:55:C4
+#EXTINF:-1 group-title="âHINDI KIDSâ" tvg-logo="https://i.ibb.co/G4hrqfrv/images.jpg",Pogo PLUS
+https://operator1.barfik.org/u4b3n324j7/7cj49wd783/156128
 #EXTINF:-1 channel-id="IN4000625P" tvg-id="IN4000625P" tvg-chno="1003" tvg-name="Green Gold TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260528T040546SQUARE.png" group-title="âHINDI KIDSâ",Green Gold TV
 https://jmp2.uk/stvp-IN4000625P
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMbzHBBB/u-9.jpg" group-title="âHINDI KIDSâ",HUNGAMA TV
@@ -1486,13 +1498,19 @@ http://66.102.126.10:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90M9TMyY/Background-Eraser-20240628-150133776.png" group-title="âHINDI KIDSâ", DISNEY Channel+
 http://main.light-ott.net/play/live.php?mac=00:1A:79:C8:62:98&stream=372986&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90M9TMyY/Background-Eraser-20240628-150133776.png" group-title="âHINDI KIDSâ", DISNEY CHANNEL á´´á´°
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/3043
+https://operator1.barfik.org/u4b3n324j7/7cj49wd783/156000
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90M9TMyY/Background-Eraser-20240628-150133776.png" group-title="âHINDI KIDSâ", DISNEY CHANNEL â´á´·
 http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/3120
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DISNEY-JUNIOR.png" group-title="âHINDI KIDSâ",DISNEY JUNIOR á´´á´°
+https://operator1.barfik.org/u4b3n324j7/7cj49wd783/811469
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjWS0DnS/images-2.png" group-title="âHINDI KIDSâ",NICK
+https://operator1.barfik.org/u4b3n324j7/7cj49wd783/1540023
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjWS0DnS/images-2.png" group-title="âHINDI KIDSâ",NICK á´´á´°
+https://operator1.barfik.org/u4b3n324j7/7cj49wd783/1540022
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JjWS0DnS/images-2.png" group-title="âHINDI KIDSâ",NICK á´´á´° HINDI
 http://66.102.126.10:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="âHINDI KIDSâ" tvg-logo="https://i.ibb.co/cck0Mg9D/images-3.png",Nick Jr HINDI
-http://103.182.170.32:8888/play/a03q
+https://operator1.barfik.org/u4b3n324j7/7cj49wd783/1752845
 #EXTINF:-1 group-title="âHINDI KIDSâ" tvg-logo="https://i.ibb.co/cck0Mg9D/images-3.png",Nick Jr HINDI á´´á´°
 http://66.102.126.10:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJNWcFJm/images.png" group-title="âHINDI KIDSâ",DISCOVERY KIDS
@@ -1500,7 +1518,7 @@ http://proxpanel.cc:80/h1wqD6CY/byxHYgX/694197
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJNWcFJm/images.png" group-title="âHINDI KIDSâ",DISCOVERY KIDS á´´á´°
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=372928&extension=ts&play_token=CMlQ8br2jt
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJNWcFJm/images.png" group-title="âHINDI KIDSâ",DISCOVERY KIDS â´á´·
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/2980
+https://operator1.barfik.org/live/u4b3n324j7/7cj49wd783/1540017.ts
 #EXTINF:-1 tvg-id="cartoon-tv-classics" tvg-name="CARTOON TV CLASSICS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/cartoon_classics_512X512_balck.png" tvg-language="ENG" group-title="âHINDI KIDSâ",CARTOON TV CLASSICS
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 channel-id="samsung-GB900003KR" tvg-id="GB900003KR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20240821T152333SQUARE.png" group-title="âHINDI KIDSâ" tvg-chno="4606",Mr Bean Animated á´´á´°
@@ -1967,6 +1985,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132270&uid=15301&deviceMac=00:1A:79:0
 http://tv.cloudcdn.me:80/live.ts?channelId=28128&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/21ZpYWV3/53d3891331321b7b1aa809edca92e24ae1653f0239e6e28e4b2239d19f4d047c.webp" group-title="âMARATHI PREMIUMâ", STAR PRAVAH PICTURES á´´á´°
 http://tv.cloudcdn.me:80/live.ts?channelId=132278&uid=15301&deviceMac=00:1A:79:04:55:C4
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png" group-title="âMARATHI PREMIUMâ", Zee Talkies
+https://operator1.barfik.org/u4b3n324j7/7cj49wd783/1540040
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png" group-title="âMARATHI PREMIUMâ", Zee Talkies Ë¢á´°
 http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693819
 #EXTINF:-1 tvg-id="16" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png" group-title="âMARATHI PREMIUMâ", Zee Talkies á´´á´°
