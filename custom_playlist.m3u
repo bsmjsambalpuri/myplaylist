@@ -239,6 +239,8 @@ http://149.71.34.166:8000/play/a059/index.m3u8
 http://149.71.34.166:8000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="1145" tvg-name="MTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" group-title="Music", MTV HD
 http://103.159.180.34:5001/live/1145.m3u8
+#EXTINF:-1 tvg-id="1154" tvg-name="Star Gold 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png" tvg-language="Hindi" group-title="Movies", Star Gold 2
+http://103.253.18.58:8000/play/a00r
 #EXTINF:-1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" group-title="Entertainment", Colors Infinity HD
 http://149.71.34.166:8002/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" tvg-language="Hindi" group-title="Movies", B4U Kadak
@@ -703,10 +705,14 @@ http://103.180.212.191:3500/live/2757
 http://103.180.212.191:3500/live/413
 #EXTINF:-1 tvg-id="722" tvg-name="Zee Sarthak" tvg-type="Entertainment" group-title="âDISH BUZZâ" tvg-language="Odia" tvg-logo="https://i.ibb.co/39yLXH2v/unnamed.png",Zee Sarthak
 http://103.180.212.191:3500/live/722
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://i.ibb.co/vCyZF28R/SET-LOGO-HD.png"  group-title="âSONYLIVâ",SONY TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=943926&extension=ts&play_token=SnwZyFnNRt
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSJ4CLLW/images.jpg" group-title="âHINDIâ", Sony PAL
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/33612
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNs5f2rZ/images-1.png" group-title="âHINDIâ",COLORS RISHTEY
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/33597
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cS9H71tT/star-bharath-hd-television10418.webp" group-title="âHINDIâ",STAR BHARAT
+http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=15301&deviceMac=00:1A:79:04:55:C4
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="âHINDI MOVIESâ",Zee Dil Se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="âHINDI MOVIESâ",Zee Comedy Nation
@@ -723,6 +729,14 @@ https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 #EXTINF:-1 tvg-id="default" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="âHINDI MOVIESâ",Sony Max
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=373074&extension=ts&play_token=TQU1nUD1Tb
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-logo="https://i.ibb.co/4SCr3mX/zee5-logo.webp" group-title"HINDI MOVIES",& Pictures
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96672
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tp3FPxt9/images.jpg" group-title="âHINDI MOVIESâ", & XPLOR
+http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=15301&deviceMac=00:1A:79:04:55:C4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/GfHY282n/star-gold-hd-television10421.webp" group-title="âHINDI MOVIESâ",STAR GOLD
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15301&deviceMac=00:1A:79:04:55:C4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/mvpY0cM/Picsart-24-06-12-14-52-31-386.png" group-title="âHINDI MOVIESâ", Star Gold 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=372926&extension=ts&play_token=Ci5xnGxekx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FLnF18tM/STAR-Gold-20240706-212419-0000.png" group-title="âHINDI MOVIESâ", STAR GOLD THRILLS
 http://66.102.126.10:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="default" tvg-logo="https://i.ibb.co/20d0S1xf/images-1.jpg" group-title="âHINDI MOVIESâ",STAR GOLD ROMANCE
@@ -755,10 +769,18 @@ http://103.175.73.12:8080/live/584/584_0.m3u8
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="883" tvg-name="Oscar Movies" tvg-type="Movies" group-title="âHINDI MOVIESâ" tvg-language="Bhojpuri" tvg-logo="https://i.ibb.co/BHpN2966/Oscar-movies-bhojpuri.webp",Oscar Movies
 https://cdn-4.pishow.tv/live/233/master.m3u8
+#EXTINF:-1 tvg-id="EvergreenClassic.in" tvg-name="HINDI| EVERGREEN CLASSIC" tvg-logo="https://i.ibb.co/Bz2xw1n/unnamed.png" group-title="âHINDI MOVIESâ", EVERGREEN CLASSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=1433240&extension=ts&play_token=ISIRcA6rEC
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/Bz2xw1n/unnamed.png" group-title="âHINDI MOVIESâ",Tata Play Classic Tv
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=1433171&extension=ts&play_token=O1nr29wV7P
 #EXTINF:0 tvg-logo="https://i.ibb.co/JRpYSkMX/images-5.png" group-title="âHINDI ENTERTAINMENTâ",Epic Tv
 https://epiconvh.akamaized.net/live/epic/master.m3u8
 #EXTINF:-1 tvg-id="1437" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="âHINDI ENTERTAINMENTâ"uh,EPIC MUSIC
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=1433227&extension=ts&play_token=PpbPnxquVn
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j7DGj2S/images-22.jpg" group-title="âHINDI ENTERTAINMENTâ",Ishara
+https://epiconvh.akamaized.net/live/ishaara/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zV2Yw2z1/channels4-profile.jpg" group-title="âHINDI ENTERTAINMENTâ",NAZARA
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvyPxzNB/images-23.jpg" group-title="âHINDI ENTERTAINMENTâ",DANGAL
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-id="Dangal.in" tvg-logo="https://i.ibb.co/pry4tthL/images-24.jpg" group-title="âHINDI ENTERTAINMENTâ", DANGAL 2
@@ -841,6 +863,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43477&uid=15301&deviceMac=00:1A:79:04
 https://ms2.alliancebroadband.in/media_dabangg.m3u8
 #EXTINF:-1 tvg-id="ZeeBusiness.in" group-title="âENGLISHâ",Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.ibb.co/vCy2jyCd/CTQ28-Lp-WEAABE41.png" tvg-name="Movies Now"  group-title="âENGLISHâ", Movies Now
+http://luckonline.eu:8080/home/faizul/1428
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMB8Wf5g/images.png" group-title="âEKTV DISHTVâ",BIG MAGIC
 http://103.175.73.12:8080/live/13/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMB8Wf5g/images.png" group-title="âEKTV DISHTVâ",DD NATIONAL
@@ -1091,6 +1115,8 @@ http://103.180.212.191:3500/live/3343.m3u8
 http://103.180.212.191:3500/live/3356.m3u8
 #EXTINF:-1 tvg-id="3382" tvg-name="EPIC TV" tvg-logo="http://103.180.212.191:3500/jtvimage/EPIC_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="âJIOTV DISHTVâ", EPIC TV
 http://103.180.212.191:3500/live/3382.m3u8
+#EXTINF:-1 tvg-id="3383" tvg-name="Nazara" tvg-logo="http://103.180.212.191:3500/jtvimage/Nazara.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="âJIOTV DISHTVâ", Nazara
+http://103.180.212.191:3500/live/3383.m3u8
 #EXTINF:-1 tvg-id="3467" tvg-name="Green Gold TV" tvg-logo="http://103.180.212.191:3500/jtvimage/greengold.png" tvg-language="Hindi" tvg-type="Kids" group-title="âJIOTV DISHTVâ", Green Gold TV
 http://103.180.212.191:3500/live/3467.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HLN8nDz/images.png" group-title="âTVPLAY DISHTVâ",DD NATIONAL
@@ -1311,3 +1337,19 @@ https://yowaimo.in/Sflex-ArtlPVT0719/DISCOVERY_HD_WORLD.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/AIRTEL_MINIPLEX.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="âAIRTEL-X-STREAMâ",ZEE ACTION
 https://yowaimo.in/Sflex-ArtlPVT0719/ACTION_CINEMA.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", EROSNOW HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=734056&extension=ts&play_token=eOg7oJuofV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", ALT BALAJI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=734055&extension=ts&play_token=ptf53rpeTb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", ZEE5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=734052&extension=ts&play_token=oXGdZBhhh5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", NETFLIX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=734051&extension=ts&play_token=X7FSxy86Cz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", MXPLAYER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=734050&extension=ts&play_token=9Mp0MXcxcG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", HOTSTAR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=734049&extension=ts&play_token=hGMZb6BqlN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", SONYLIV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=734048&extension=ts&play_token=NzIXvzAYq5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", AMAZON HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:A0:AE&stream=734047&extension=ts&play_token=Nij8G0h6NX
