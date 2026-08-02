@@ -1,6 +1,8 @@
+& Pictures
 & Pictures HD
 &pictures International (1080p)
 &TV
+& XPLOR
 24 Hour Free Movies (720P)
 7S Music
 8XM
@@ -113,6 +115,7 @@ ETV CINEMA HD
 ETV HD
 ETV Music
 Euro Sport HD
+Evergreen Classic
 FilterCopy
 FTV
 FTV HD
@@ -148,6 +151,7 @@ Hum TV HD
 HUM WORLD
 HUNGAMA
 HUNGAMA HINDI
+Ishara
 Jatra Ekamra
 Jay Jagannath TV
 Jio Exclusive HD
@@ -178,6 +182,7 @@ MGM Presents Action
 MNX HD
 MoviePlex
 Movies Thriller (1080p)
+Movies Now
 MoviesNow + (1080p)
 MovieSphere AU (1080p)
 MovieSphere UK (1080p)
@@ -191,6 +196,7 @@ Nandighosha TV
 NATIONAL GEO WILD HD
 National Geographic HD
 Naxatra News
+Nazara
 News18 Odia
 NH BollyFlix
 NH BollyGold
@@ -264,19 +270,16 @@ SONY SPORTS TEN 2 HD
 SONY SPORTS TEN 3 HD
 SONY SPORTS TEN 4 HD
 SONY SPORTS TEN 5 HD
-Sony WAH
 SONY WAH
 Sony YAY
-Sony Yay
-SONY YAY
+Sony TV
 Sri Jagannath Dham
-Star Bharat HD
+Star Bharat
 STAR BHARAT HD
-STAR GOLD 2 HD
+STAR GOLD
 Star Gold 2 HD
-Star Gold 2 SD
+Star Gold 2
 Star Gold HD
-STAR GOLD HD
 STAR GOLD ROMANCE
 Star Gold Select HD
 STAR GOLD SELECT HD
@@ -322,6 +325,7 @@ Tarang Music
 Tarang TV
 tata play bollywood
 tata play classic cinema
+Tata play classic tv
 The Lallantop
 The Movie Club
 The Movie Club+2
