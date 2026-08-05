@@ -19,6 +19,10 @@ http://88.212.15.19/live/test_disney/playlist.m3u8
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel
 http://86.87.15.10:8004/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="ErosUniverseBollywoodCinema.np@SD" tvg-logo="https://i.ibb.co/qM7WZSK0/Eros-Universe-Bollywood-Cinema.png" group-title="Movies",Eros Universe Bollywood Cinema
+https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
+#EXTINF:-1 tvg-id="ErosUniverseEntertainment.np@SD" tvg-logo="https://i.ibb.co/q3FhgGFx/Eros-Universe-Entertainment.png" group-title="Movies",Eros Universe Entertainment
+https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 #EXTINF:-1 tvg-id="GreenGoldTV.np@SD" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" group-title="Kids",Green Gold TV
 https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
 #EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALINGA_TV/images/LOGO_HD/image.png" group-title="News",Kalinga TV
@@ -41,6 +45,10 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="Movies",MyTime Movie Network (1080p)
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHBollyFlix.np@SD" tvg-logo="https://i.ibb.co/yF9MPTDK/blyflx.png" group-title="Movies",NH BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8
+#EXTINF:-1 tvg-id="NHBollyRaga.np@SD" tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" group-title="Music",NH BollyRaga
+https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8
 #EXTINF:-1 tvg-id="OdishaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540" group-title="Culture",Odisha TV (720p)
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel
@@ -507,7 +515,7 @@ https://jmp2.uk/stvp-CAAJ2700008QA
 https://jmp2.uk/stvp-CAAJ27000079E
 #EXTINF:-1 tvg-id="CABD1700002R4" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20260707T040110SQUARE.png",Conan O'Brien TV
 https://jmp2.uk/stvp-CABD1700002R4
-#EXTINF:-1 tvg-id="CABA3700001DB" tvg-name="Always Funny Videos" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700001DB_20250121T201616SQUARE.png",Always Funny Videos
+#EXTINF:-1 tvg-id="CABA3700001DB" tvg-name="Always Funny Videos" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700001DB_20260804T045940SQUARE.png",Always Funny Videos
 https://jmp2.uk/stvp-CABA3700001DB
 #EXTINF:-1 tvg-id="CA35000044I" tvg-name="FilmRise Horror" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000044I_20260303T094706SQUARE.png",FilmRise Horror
 https://jmp2.uk/stvp-CA35000044I
@@ -547,7 +555,7 @@ https://jmp2.uk/stvp-GBBC2300001X5
 https://jmp2.uk/stvp-GB800002OP
 #EXTINF:-1 tvg-id="GBBD2300003IK" tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20250805T005540SQUARE.png",Red Bull TV
 https://jmp2.uk/stvp-GBBD2300003IK
-#EXTINF:-1 tvg-id="GBBB3800005QO" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20260721T041129SQUARE.png",XITE Hits
+#EXTINF:-1 tvg-id="GBBB3800005QO" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20260804T051900SQUARE.png",XITE Hits
 https://jmp2.uk/stvp-GBBB3800005QO
 #EXTINF:-1 tvg-id="GBBC19000017V" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png",Vevo Pop
 https://jmp2.uk/stvp-GBBC19000017V
@@ -633,7 +641,7 @@ https://jmp2.uk/stvp-ITBC2100001G9
 https://jmp2.uk/stvp-ITBC210000200
 #EXTINF:-1 tvg-id="ITBC1100011RK" tvg-name="Rock TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png",Rock TV
 https://jmp2.uk/stvp-ITBC1100011RK
-#EXTINF:-1 tvg-id="USAJ26000054W" tvg-name="Paramount Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20260727T081318SQUARE.png",Paramount Movie Channel
+#EXTINF:-1 tvg-id="USAJ26000054W" tvg-name="Paramount Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20260804T045743SQUARE.png",Paramount Movie Channel
 https://jmp2.uk/stvp-USAJ26000054W
 #EXTINF:-1 tvg-id="USBB3200030CG" tvg-name="Universal Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20260421T133614SQUARE.png",Universal Movies
 https://jmp2.uk/stvp-USBB3200030CG
