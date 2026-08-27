@@ -187,6 +187,8 @@ https://cdn-1.pishow.tv/live/31/master.m3u8
 https://cdn-1.pishow.tv/live/36/master.m3u8
 #EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" tvg-language="English" group-title="Infotainment", Discovery Turbo
 http://202.70.146.135:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="565" tvg-name="ETV Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" tvg-language="Telugu" group-title="Music", ETV Music
+https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
 #EXTINF:-1 tvg-id="580" tvg-name="DD bharati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png" tvg-language="Hindi" group-title="Infotainment", DD bharati
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 tvg-id="583" tvg-name="DD Kisan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png" tvg-language="Hindi" group-title="Infotainment", DD Kisan
@@ -387,8 +389,6 @@ https://supflm.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
 https://airtel-eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
 #EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/ersent.png" tvg-language="Hindi" group-title="Movies", Eros Universe Entertainment
 https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
-#EXTINF:-1 tvg-id="3559" tvg-name="ETV Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Music.png" tvg-language="Telugu" group-title="Music", ETV Music
-https://jmp2.uk/stvp-IN4900002RV
 #EXTINF:-1 tvg-id="13" tvg-logo="",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="",DD National HD
@@ -637,6 +637,8 @@ https://jmp2.uk/stvp-INBC2800013L6
 https://jmp2.uk/stvp-IN3900017KM
 #EXTINF:-1 tvg-id="INBD4700015M0" tvg-name="Music India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700015M0_20260623T015257SQUARE.png",Music India
 https://jmp2.uk/stvp-INBD4700015M0
+#EXTINF:-1 tvg-id="IN4900002RV" tvg-name="ETV Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20260623T014825SQUARE.png",ETV Music
+https://jmp2.uk/stvp-IN4900002RV
 #EXTINF:-1 tvg-id="INBD13000053R" tvg-name="Divya" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000053R_20260623T014748SQUARE.png",Divya
 https://jmp2.uk/stvp-INBD13000053R
 #EXTINF:-1 tvg-id="IN4000625P" tvg-name="Green Gold TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260623T015004SQUARE.png",Green Gold TV
