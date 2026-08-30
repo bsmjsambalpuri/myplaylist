@@ -10,7 +10,9 @@ PLAYLIST_URLS = [
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/jtv.m3u",
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/ektv.m3u",
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/samsungtvplus/all.m3u",
-    "http://yaarokayaar2026iptv.fun/index.html"
+    "https://github.com/BuddyChewChew/app-m3u-generator/blob/main/playlists/roku_all.m3u", 
+"https://github.com/BuddyChewChew/app-m3u-generator/blob/main/playlists/plutotv_all.m3u", 
+"https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/plex_all.m3u" 
 ]
 
 # 2. Define your EPG URLs (Separated by a comma for multi-EPG support)
