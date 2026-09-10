@@ -1,9 +1,9 @@
 & Pictures, Movies
 & Pictures HD, Movies
-&pictures International (1080p), Movies
+&pictures International, Movies
 &TV, Entertainment
 & XPLOR, Movies
-24 Hour Free Movies (720P), Movies
+24 Hour Free Movies, Movies
 7S Music, Music
 8XM, Music
 9X Jalwa, Music
@@ -36,21 +36,21 @@ B4U Movies VIP, Movies
 B4U Music, Music
 B4U Music VIP, Music
 Bada Khabar, News
-Baiscope TV, Movies
+Baiscope TV, Odia
 BH OTT India Fest, Entertainment
 Big Magic, Entertainment
 BIG MAGIC, Entertainment
-Bollywood Classic (1080p), Movies
-Bollywood HD (1080p), Movies
+Bollywood Classic, Movies
+Bollywood HD, Movies
 Boogle Bollywood, Entertainment
 Captain, Entertainment
 CARTOON NETWORK, Kids
 Cartoon Network, Kids
 Cartoon Network HD, Kids
-Charge! (1080p), Entertainment
+Charge!, Entertainment
 CNBC TV18 Prime, Business
 COLORS CINEPLEX HD, Movies
-Colors Cineplex HD (1080p), Movies
+Colors Cineplex HD, Movies
 Colors Cineplex Superhit, Movies
 Colors HD, Entertainment
 COLORS HD, Entertainment
@@ -106,7 +106,7 @@ Ekamra Paramatma,Odia
 Epic Bharat, Infotainment
 Epic Kids, Kids
 Epic Music, Music
-Epic music digital (1080p), Music
+Epic music digital, Music
 EPIC PARIVAAR, Entertainment
 EPIC TV, Infotainment
 Epic TV, Infotainment
@@ -177,18 +177,18 @@ Mastiii, Music
 MAX 1, Movies
 MBC TV, Odia
 MINIPLEX HD, Movies
-Mix Hollywood (1080p), Movies
+Mix Hollywood, Movies
 MGM Presents, Movies
 MGM Presents: Horror, Movies
 MGM Presents: Westerns, Movies
 MGM Presents Action, Movies
 MNX HD, Movies
 MoviePlex, Movies
-Movies Thriller (1080p), Movies
+Movies Thriller, Movies
 Movies Now, Movies
-MoviesNow + (1080p), Movies
-MovieSphere AU (1080p), Movies
-MovieSphere UK (1080p), Movies
+MoviesNow +, Movies
+MovieSphere AU, Movies
+MovieSphere UK, Movies
 Movie Hub, Movies
 Movie Hub Action, Movies
 MrBeast, Entertainment
@@ -196,8 +196,8 @@ MTV, Music
 MTV Beats, Music
 MTV HD, Music
 Music India, Music
-MXN HD (1080p), Movies
-MyTime Movie Network (1080p), Movies
+MXN HD, Movies
+MyTime Movie Network, Movies
 Nandighosha TV, News
 NATIONAL GEO WILD HD, Infotainment
 National Geographic HD, Infotainment
@@ -208,7 +208,7 @@ NH BollyFlix, Movies
 NH BollyGold, Movies
 NH BollyRaga, Music
 NICK HD PLUS, Kids
-Odisha TV (720p),Odia
+Odisha TV,Odia
 One Paschima,Odia
 Oscar Movies, Movies
 Paramount Movie Channel, Movies
@@ -224,12 +224,12 @@ Public Music, Music
 RAJ MUSIC TELUGU, Music
 Raj Musix Telugu, Music
 Raj Pariwar, Entertainment
-Rakuten Top Movies UK (1080p), Movies
-Rakuten TV Action Movies UK (1080p), Movies
-Rakuten Tv Comedy Movies UK (1080p), Movies
+Rakuten Top Movies UK, Movies
+Rakuten TV Action Movies UK, Movies
+Rakuten Tv Comedy Movies UK, Movies
 Rang Rangoli, Music
 Red Bull TV, Sports
-Revry Her (720p),Entertainment
+Revry Her,Entertainment
 Rock Tv, Music
 Romedy Now, Movies
 SAB HD, Entertainment
@@ -251,7 +251,7 @@ Sony BBC Earth HD, Infotainment
 SONY BBC EARTH HD, Infotainment
 SONY ENTERTAINMENT HD, Entertainment
 Sony HD, Entertainment
-Sony KAL Hindi (1080p), Entertainment
+Sony KAL Hindi, Entertainment
 Sony MAX, Movies
 Sony MAX 2, Movies
 Sony MAX HD, Movies
@@ -332,8 +332,8 @@ The Movie Club, Movies
 The Movie Club+2, Movies
 The Q, Entertainment
 UNITE8 SPORTS 1 HD, Sports
-Universal Action (1080p), Movies
-Universal Monsters (1080p), Movies
+Universal Action, Movies
+Universal Monsters, Movies
 Universal Movies, Movies
 Universal Crime, Entertainment
 Universal Westerns, Movies
@@ -374,7 +374,7 @@ Zee Horror Nights, Movies
 Zee Odisha News,Odia
 Zee Sarthak, Entertainment
 Zee South Flix, Movies
-Zee TV Canada (1080p), Entertainment
+Zee TV Canada, Entertainment
 Zee TV HD, Entertainment
 ZEE ZEST HD,Food
 ZING, Music

@@ -23,18 +23,16 @@ def clean_channel_name(name):
     Strips resolution indicators like (1080p), (720p), (504p), (4k), or (hd) 
     from the channel name and normalizes spaces.
     """
-    # Remove resolution patterns inside parentheses (e.g., "(1080p)", "(720p)", "(504p)", "(4k)")
     name = re.sub(r'\s*\(\s*\d+p\s*\)', '', name, flags=re.IGNORECASE)
     name = re.sub(r'\s*\(\s*4k\s*\)', '', name, flags=re.IGNORECASE)
     name = re.sub(r'\s*\(\s*hd\s*\)', '', name, flags=re.IGNORECASE)
     
-    # Clean up any leftover double spaces and leading/trailing whitespace
     return re.sub(r'\s+', ' ', name).strip().lower()
 
 def load_whitelist():
     """
-    Reads whitelist.txt and returns a dictionary mapping clean, lowercased channel names
-    to their assigned group/category.
+    Reads whitelist.txt and returns a dictionary where keys are clean lowercased names
+    and values are tuples containing (Original Case Whitelist Name, Category).
     """
     if not os.path.exists("whitelist.txt"):
         print("Warning: whitelist.txt not found! Processing all channels instead.")
@@ -47,24 +45,24 @@ def load_whitelist():
             if not line or line.startswith("#"):
                 continue
             
-            # Split line into channel name and category using the last comma
             if "," in line:
                 channel_name, category = line.rsplit(",", 1)
-                clean_name = clean_channel_name(channel_name)
-                whitelist_map[clean_name] = category.strip()
+                original_name = channel_name.strip()
+                clean_name = clean_channel_name(original_name)
+                whitelist_map[clean_name] = (original_name, category.strip())
             else:
-                clean_name = clean_channel_name(line)
-                whitelist_map[clean_name] = "Uncategorized"
+                original_name = line.strip()
+                clean_name = clean_channel_name(original_name)
+                whitelist_map[clean_name] = (original_name, "Uncategorized")
                 
     return whitelist_map
 
-def update_group_title(metadata_line, category):
+def update_metadata(metadata_line, exact_name, category):
     """
-    Updates or adds the group-title attribute in the #EXTINF metadata string.
+    1. Updates or adds the group-title attribute.
+    2. Replaces the display name (text after the last comma) with the exact whitelist name.
     """
-    if not category:
-        return metadata_line
-
+    # 1. Handle group-title update/insertion
     group_title_pattern = re.compile(r'group-title="[^"]*"', re.IGNORECASE)
 
     if group_title_pattern.search(metadata_line):
@@ -75,6 +73,13 @@ def update_group_title(metadata_line, category):
             updated_line = f'{prefix} group-title="{category}",{display_name}'
         else:
             updated_line = f'{metadata_line} group-title="{category}"'
+
+    # 2. Replace the display name after the last comma with the exact whitelist name
+    if "," in updated_line:
+        prefix, _ = updated_line.rsplit(",", 1)
+        updated_line = f'{prefix},{exact_name}'
+    else:
+        updated_line = f'{updated_line},{exact_name}'
 
     return updated_line
 
@@ -116,26 +121,21 @@ def fetch_and_filter():
                             current_metadata = None
                             continue
 
-                        # Extract raw display name (text after the last comma)
+                        # Extract raw display name
                         raw_channel_name = current_metadata.split(",")[-1]
-                        
-                        # Strip (1080p), (720p), (504p), etc., before matching
                         normalized_channel_name = clean_channel_name(raw_channel_name)
 
-                        # --- MATCHING & CATEGORY UPDATE ---
+                        # --- MATCHING & METADATA UPDATE ---
                         is_allowed = False
-                        category = None
 
                         if not whitelist_map:
                             is_allowed = True
                         elif normalized_channel_name in whitelist_map:
                             is_allowed = True
-                            category = whitelist_map[normalized_channel_name]
+                            exact_name, category = whitelist_map[normalized_channel_name]
+                            current_metadata = update_metadata(current_metadata, exact_name, category)
 
                         if is_allowed:
-                            if category:
-                                current_metadata = update_group_title(current_metadata, category)
-                                
                             merged_channels.append((current_metadata, stream_url))
                             seen_urls.add(stream_url)
 
