@@ -18,9 +18,22 @@ PLAYLIST_URLS = [
 # 2. Define your EPG URLs
 EPG_URL = "https://github.com/amazeyourself/m3u/raw/refs/heads/main/epg/airtel.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 
+def clean_channel_name(name):
+    """
+    Strips resolution indicators like (1080p), (720p), (504p), (4k), or (hd) 
+    from the channel name and normalizes spaces.
+    """
+    # Remove resolution patterns inside parentheses (e.g., "(1080p)", "(720p)", "(504p)", "(4k)")
+    name = re.sub(r'\s*\(\s*\d+p\s*\)', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*\(\s*4k\s*\)', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*\(\s*hd\s*\)', '', name, flags=re.IGNORECASE)
+    
+    # Clean up any leftover double spaces and leading/trailing whitespace
+    return re.sub(r'\s+', ' ', name).strip().lower()
+
 def load_whitelist():
     """
-    Reads whitelist.txt and returns a dictionary mapping lowercased channel names
+    Reads whitelist.txt and returns a dictionary mapping clean, lowercased channel names
     to their assigned group/category.
     """
     if not os.path.exists("whitelist.txt"):
@@ -34,12 +47,14 @@ def load_whitelist():
             if not line or line.startswith("#"):
                 continue
             
-            # Split line into channel name and category using the last comma as separator
+            # Split line into channel name and category using the last comma
             if "," in line:
                 channel_name, category = line.rsplit(",", 1)
-                whitelist_map[channel_name.strip().lower()] = category.strip()
+                clean_name = clean_channel_name(channel_name)
+                whitelist_map[clean_name] = category.strip()
             else:
-                whitelist_map[line.strip().lower()] = "Uncategorized"
+                clean_name = clean_channel_name(line)
+                whitelist_map[clean_name] = "Uncategorized"
                 
     return whitelist_map
 
@@ -50,14 +65,11 @@ def update_group_title(metadata_line, category):
     if not category:
         return metadata_line
 
-    # Regex to check if group-title already exists
     group_title_pattern = re.compile(r'group-title="[^"]*"', re.IGNORECASE)
 
     if group_title_pattern.search(metadata_line):
-        # Update existing group-title
         updated_line = group_title_pattern.sub(f'group-title="{category}"', metadata_line)
     else:
-        # Insert group-title right before the comma separating attributes and display name
         if "," in metadata_line:
             prefix, display_name = metadata_line.rsplit(",", 1)
             updated_line = f'{prefix} group-title="{category}",{display_name}'
@@ -104,21 +116,23 @@ def fetch_and_filter():
                             current_metadata = None
                             continue
 
-                        # Extract display name (text after the last comma)
-                        raw_channel_name = current_metadata.split(",")[-1].strip().lower()
+                        # Extract raw display name (text after the last comma)
+                        raw_channel_name = current_metadata.split(",")[-1]
+                        
+                        # Strip (1080p), (720p), (504p), etc., before matching
+                        normalized_channel_name = clean_channel_name(raw_channel_name)
 
-                        # --- EXACT MATCH FILTERING & CATEGORY UPDATE ---
+                        # --- MATCHING & CATEGORY UPDATE ---
                         is_allowed = False
                         category = None
 
                         if not whitelist_map:
                             is_allowed = True
-                        elif raw_channel_name in whitelist_map:
+                        elif normalized_channel_name in whitelist_map:
                             is_allowed = True
-                            category = whitelist_map[raw_channel_name]
+                            category = whitelist_map[normalized_channel_name]
 
                         if is_allowed:
-                            # Update or inject group-title if category exists
                             if category:
                                 current_metadata = update_group_title(current_metadata, category)
                                 
@@ -130,7 +144,7 @@ def fetch_and_filter():
         except Exception as e:
             print(f"Error processing {url}: {e}")
 
-    # Write the unique, whitelisted channels into the final M3U file
+    # Write output to custom_playlist.m3u
     output_file = "custom_playlist.m3u"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(f'#EXTM3U x-tvg-url="{EPG_URL}"\n')
