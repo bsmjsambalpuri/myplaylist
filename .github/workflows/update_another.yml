@@ -3,7 +3,7 @@ name: Update Another Full Playlist
 on:
   schedule:
     # Runs every single day at exactly 12:02 AM UTC
-    - cron: '2 0 * * *'
+    #- cron: '2 0 * * *'
   workflow_dispatch: # Keeps manual trigger available
 
 jobs:
