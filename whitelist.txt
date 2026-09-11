@@ -1,11 +1,14 @@
+00s Replay,Movies
 & Pictures, Movies
 & Pictures HD, Movies
 &pictures International, Movies
 &TV, Entertainment
+&TV HD, Entertainment
 & XPLOR, Movies
 24 Hour Free Movies, Movies
 7S Music, Music
 8XM, Music
+8XM HD,Music
 9X Jalwa, Music
 9XM, Music
 Aaj Tak HD, News
@@ -37,12 +40,14 @@ B4U Music, Music
 B4U Music VIP, Music
 Bada Khabar, News
 Baiscope TV, Odia
+Balle Balle,Music
 BH OTT India Fest, Entertainment
 Big Magic, Entertainment
 BIG MAGIC, Entertainment
 Bollywood Classic, Movies
 Bollywood HD, Movies
 Boogle Bollywood, Entertainment
+Bridge,Music
 Captain, Entertainment
 CARTOON NETWORK, Kids
 Cartoon Network, Kids
@@ -156,7 +161,7 @@ HUNGAMA HINDI, Kids
 Ishara, Entertainment
 Jatra Ekamra,Odia
 Jay Jagannath TV,Odia
-Joo Music, Music
+JooMusic, Music
 Jio Exclusive HD, Entertainment
 JIO Specials HD, Entertainment
 JIO Sports HD, Sports
@@ -235,7 +240,7 @@ Romedy Now, Movies
 SAB HD, Entertainment
 Sadhna Gold, Spiritual
 Saga Music Haryanvi, Music
-Sai Ekamra, Spiritual
+Sai Ekamra, Odia
 SET HD, Entertainment
 Shemaroo Bollywood, Movies
 Shemaroo Filmy Gaane, Music
@@ -243,23 +248,20 @@ Shemaroo Josh, Entertainment
 Shemaroo TV, Entertainment
 Shemaroo Umang, Entertainment
 Showbox, Music
-Sidharth Gold, Movies
-Sidharth TV, Entertainment
+Sidharth Gold, Odia
+Sidharth TV, Odia
 Sidharth Utsav, Music
 Siti Music, Music
+Sitcom Legends, Entertainment
 Sony BBC Earth HD, Infotainment
-SONY BBC EARTH HD, Infotainment
 SONY ENTERTAINMENT HD, Entertainment
 Sony HD, Entertainment
 Sony KAL Hindi, Entertainment
 Sony MAX, Movies
 Sony MAX 2, Movies
 Sony MAX HD, Movies
-Sony Pal, Entertainment
 SONY PAL, Entertainment
-SONY PIX HD, Movies
 Sony PIX HD, Movies
-SONY SAB HD, Entertainment
 Sony SAB HD, Entertainment
 Sony TEN 1 SD, Sports
 Sony TEN 1 HD, Sports
@@ -274,6 +276,7 @@ Sony TEN 5 HD, Sports
 SONY WAH, Movies
 Sony YAY, Kids
 Sony TV, Entertainment
+South Station,Movies
 Sri Jagannath Dham,Odia
 Star Bharat, Entertainment
 STAR BHARAT HD, Entertainment
@@ -331,6 +334,7 @@ The Lallantop, News
 The Movie Club, Movies
 The Movie Club+2, Movies
 The Q, Entertainment
+TV Land Sitcoms,Entertainment
 UNITE8 SPORTS 1 HD, Sports
 Universal Action, Movies
 Universal Monsters, Movies
