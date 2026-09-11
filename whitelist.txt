@@ -45,6 +45,7 @@ BH OTT India Fest, Entertainment
 Big Magic, Entertainment
 BIG MAGIC, Entertainment
 Bollywood Classic, Movies
+Bollywood Classic Romania, Movies
 Bollywood HD, Movies
 Boogle Bollywood, Entertainment
 Bridge,Music
@@ -68,6 +69,7 @@ Conan O'Brien TV, Entertainment
 Dabangg, Entertainment
 Dangal, Entertainment
 Dangal 2, Entertainment
+Deewana HD,Music
 DD Bharati, Culture
 DD Chhattisgarh, Entertainment
 DD India, News
@@ -181,6 +183,7 @@ Manoranjan TV, Entertainment
 Mastiii, Music
 MAX 1, Movies
 MBC TV, Odia
+MBC Bollywood (1080p) [Geo-blocked],Movies
 MINIPLEX HD, Movies
 Mix Hollywood, Movies
 MGM Presents, Movies
