@@ -206,7 +206,7 @@ MTV HD, Music
 Music India, Music
 MXN HD, Movies
 MyTime Movie Network, Movies
-Nandighosha TV, News
+Nandighosha TV, Odia
 NATIONAL GEO WILD HD, Infotainment
 National Geographic HD, Infotainment
 Naxatra News,Odia
@@ -379,7 +379,7 @@ Zee Comedy Nation, Entertainment
 Zee Dil Se, Entertainment
 Zee Horror Nights, Movies
 Zee Odisha News,Odia
-Zee Sarthak, Entertainment
+Zee Sarthak, Odia
 Zee South Flix, Movies
 Zee TV Canada, Entertainment
 Zee TV HD, Entertainment
