@@ -59,10 +59,8 @@ def load_whitelist():
 
 def update_metadata(metadata_line, exact_name, category):
     """
-    1. Updates or adds the group-title attribute.
-    2. Replaces the display name (text after the last comma) with the exact whitelist name.
+    Updates/adds group-title and replaces the display name with whitelist exact_name.
     """
-    # 1. Handle group-title update/insertion
     group_title_pattern = re.compile(r'group-title="[^"]*"', re.IGNORECASE)
 
     if group_title_pattern.search(metadata_line):
@@ -74,7 +72,6 @@ def update_metadata(metadata_line, exact_name, category):
         else:
             updated_line = f'{metadata_line} group-title="{category}"'
 
-    # 2. Replace the display name after the last comma with the exact whitelist name
     if "," in updated_line:
         prefix, _ = updated_line.rsplit(",", 1)
         updated_line = f'{prefix},{exact_name}'
@@ -89,7 +86,7 @@ def fetch_and_filter():
         print(f"Loaded {len(whitelist_map)} channel filters from whitelist.txt")
     
     merged_channels = []
-    seen_urls = set()  # Tracks unique URLs to prevent duplicates
+    seen_urls = set()
 
     for url in PLAYLIST_URLS:
         print(f"Fetching: {url}")
@@ -101,6 +98,7 @@ def fetch_and_filter():
 
             lines = response.text.splitlines()
             current_metadata = None
+            extra_lines = []
 
             for line in lines:
                 line = line.strip()
@@ -109,23 +107,24 @@ def fetch_and_filter():
 
                 if line.startswith("#EXTINF:"):
                     current_metadata = line
+                    extra_lines = []
                 elif line.startswith("#") and not line.startswith("#EXTINF:"):
-                    continue
+                    # Capture intermediate directives like #EXTVLCOPT
+                    if current_metadata:
+                        extra_lines.append(line)
                 else:
-                    # Stream URL line
+                    # Stream URL line reached
                     stream_url = line
                     
                     if current_metadata:
-                        # --- DUPLICATE CHECK ---
                         if stream_url in seen_urls:
                             current_metadata = None
+                            extra_lines = []
                             continue
 
-                        # Extract raw display name
                         raw_channel_name = current_metadata.split(",")[-1]
                         normalized_channel_name = clean_channel_name(raw_channel_name)
 
-                        # --- MATCHING & METADATA UPDATE ---
                         is_allowed = False
 
                         if not whitelist_map:
@@ -136,21 +135,23 @@ def fetch_and_filter():
                             current_metadata = update_metadata(current_metadata, exact_name, category)
 
                         if is_allowed:
-                            merged_channels.append((current_metadata, stream_url))
+                            # Combine #EXTINF line, any #EXTVLCOPT lines, and stream_url
+                            entry_block = [current_metadata] + extra_lines + [stream_url]
+                            merged_channels.append("\n".join(entry_block))
                             seen_urls.add(stream_url)
 
                         current_metadata = None
+                        extra_lines = []
 
         except Exception as e:
             print(f"Error processing {url}: {e}")
 
-    # Write output to custom_playlist.m3u
     output_file = "custom_playlist.m3u"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(f'#EXTM3U x-tvg-url="{EPG_URL}"\n')
         
-        for metadata, stream_url in merged_channels:
-            f.write(f"{metadata}\n{stream_url}\n")
+        for entry in merged_channels:
+            f.write(f"{entry}\n")
 
     print(f"Successfully created {output_file} with {len(merged_channels)} unique channels.")
 
