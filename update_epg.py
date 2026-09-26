@@ -24,13 +24,11 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 OUTPUT_FILE_GZ = os.path.join(OUTPUT_DIR, f"{NAME}-epg.xml.gz")
 
 URLS = [
-'https://iptv-epg.org/files/epg-in.xml.gz',
-'https://github.com/amazeyourself/m3u/raw/refs/heads/main/epg/airtel.xml.gz',
+'https://avkb.short.gy/jioepg.xml.gz',
 'https://i.mjh.nz/SamsungTVPlus/all.xml.gz',
 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml',
  'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml',
 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml'
-    
 ]
 
 def get_tvg_ids_from_remote_m3u():
