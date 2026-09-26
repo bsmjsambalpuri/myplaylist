@@ -120,7 +120,7 @@ EPIC PARIVAAR, Entertainment
 EPIC TV, Infotainment
 Epic TV, Infotainment
 Eros Universe Bollywood Cinema, Movies
-Eros Universe Entertainment, Entertainment
+Eros Universe Entertainment, Movies
 ETV CINEMA HD, Movies
 ETV HD, Entertainment
 ETV Music, Music
@@ -371,6 +371,7 @@ Zee Bollywood, Movies
 Zee Business, Business
 Zee Cafe, Entertainment
 Zee Cine Classic, Movies
+ZEE CINEMA APAC, Movies
 ZEE CINEMA HD, Movies
 Zee Cinema HD, Movies
 Zee Cinemalu, Movies
@@ -383,6 +384,7 @@ Zee Horror Nights, Movies
 Zee Odisha News,Odia
 Zee Sarthak, Odia
 Zee South Flix, Movies
+Zee TV Asia Pacific,Entertainment
 Zee TV Canada, Entertainment
 Zee TV HD, Entertainment
 ZEE ZEST HD,Food
