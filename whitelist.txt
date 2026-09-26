@@ -12,6 +12,7 @@
 9X Jalwa, Music
 9XM, Music
 Aaj Tak HD, News
+Aashirwad TV, Spiritual
 Aastha, Spiritual
 Aastha Bhajan, Spiritual
 Action Hollywood Movies, Movies
@@ -105,6 +106,7 @@ DISNEY INTERNATIONAL HD, Entertainment
 DISNEY JUNIOR, Kids
 Divya, Spiritual
 Dubbed movies, Movies
+E24, Music
 E! Keeping Up, Entertainment
 Ekamra Bharat Odia,Odia
 Ekamra Cinema,Odia
@@ -113,11 +115,12 @@ Ekamra Musiq,Odia
 Ekamra Nilach Akra,Odia
 Ekamra Paramatma,Odia
 Epic Bharat, Infotainment
+Epic Crimes, Entertainment
+Epic Gardening TV, Infotainment
 Epic Kids, Kids
 Epic Music, Music
 Epic music digital, Music
 EPIC PARIVAAR, Entertainment
-EPIC TV, Infotainment
 Epic TV, Infotainment
 Eros Universe Bollywood Cinema, Movies
 Eros Universe Entertainment, Movies
@@ -139,6 +142,8 @@ Filmrise Anime, Anime
 Filmrise Action, Movies
 Filmrise British TV, Entertainment
 Filmrise Classic TV, Entertainment
+Foodie Hub, Food
+Food p, Food
 Gemini Music, Music
 Global TV, Entertainment
 Goldmines, Movies
@@ -172,7 +177,9 @@ JIO Sports HD, Sports
 Kalinga TV,Odia
 Kanak News,Odia
 Kappa TV, Music
-KCM, Music
+KCM, Entertainment
+Kiddo Matix, Kids
+Kings of Comedy, Entertainment
 Lionsgate Play, Entertainment
 Made in Hollywood, Movies
 Maha Movie, Movies
@@ -226,6 +233,7 @@ Paramount+ Picks, Entertainment
 Pasand TV, Entertainment
 Pluto TV Comedy, Entertainment
 Pluto TV Romance, Movies
+Pocket Films, Entertainment
 Pogo, Kids
 Power Kids Tv, Kids
 Prameya News7,Odia
@@ -330,15 +338,21 @@ SUN GEMINI LIFE, Entertainment
 SUN GEMINI MOVIES HD, Movies
 SUN GEMINI MUSIC HD, Music
 SUN GEMINI TV HD, Entertainment
+Swastik Stories, Spiritual
 Tarang Music,Odia
 Tarang TV,Odia
 tata play bollywood, Movies
 tata play classic cinema, Movies
 Tata play classic tv, Entertainment
+That's 70s, Music
+That's 90s00s, Music
+That's Rock, Music
+The Jungle Book, Kids
 The Lallantop, News
 The Movie Club, Movies
 The Movie Club+2, Movies
 The Q, Entertainment
+Trace Urban, Music
 TV Land Sitcoms,Entertainment
 UNITE8 SPORTS 1 HD, Sports
 Universal Action, Movies
@@ -356,6 +370,7 @@ Vevo Hip-Hop, Music
 Vevo Pop, Music
 Vevo Retro, Music
 Vevo Rock, Music
+WedoTV Movies, Movies
 XITE 90s Throwback, Music
 XITE Hits, Music
 XITE Just Chill, Music
