@@ -15,7 +15,7 @@ PLAYLIST_URLS = [
 ]
 
 # 2. Define your EPG URLs
-EPG_URL = "https://raw.githubusercontent.com/bsmjsambalpuri/myplaylist/refs/heads/main/epgs/light-epg.xml.gz"
+EPG_URL = "https://raw.githubusercontent.com/bsmjsambalpuri/myplaylist/refs/heads/main/epgs/light-epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
 
 def clean_channel_name(name):
     """
