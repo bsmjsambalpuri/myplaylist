@@ -8,7 +8,6 @@ PLAYLIST_URLS = [
     "https://iptv-org.github.io/iptv/index.m3u",
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/ekamraott.m3u",
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/jtv.m3u",
-    "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/ektv.m3u",
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/samsungtvplus/all.m3u",
     "https://github.com/BuddyChewChew/app-m3u-generator/blob/main/playlists/roku_all.m3u", 
     "https://github.com/BuddyChewChew/app-m3u-generator/blob/main/playlists/plutotv_all.m3u", 
@@ -16,7 +15,7 @@ PLAYLIST_URLS = [
 ]
 
 # 2. Define your EPG URLs
-EPG_URL = "https://github.com/amazeyourself/m3u/raw/refs/heads/main/epg/airtel.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+EPG_URL = "https://raw.githubusercontent.com/bsmjsambalpuri/myplaylist/refs/heads/main/epgs/light-epg.xml.gz"
 
 def clean_channel_name(name):
     """
