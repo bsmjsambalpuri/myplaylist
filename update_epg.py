@@ -26,6 +26,8 @@ OUTPUT_FILE_GZ = os.path.join(OUTPUT_DIR, f"{NAME}-epg.xml.gz")
 URLS = [
 'https://avkb.short.gy/jioepg.xml.gz',
 'https://i.mjh.nz/SamsungTVPlus/all.xml.gz',
+'https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz',
+'https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz',
 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml',
  'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml',
 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml'
