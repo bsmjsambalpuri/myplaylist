@@ -145,6 +145,8 @@ https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
 https://live.ekamraott.com/bharat/bharat/index.m3u8
 #EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" group-title="Infotainment",Epic Bharat
 https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
+#EXTINF:-1 tvg-id="EpicCrimes.in@SD" tvg-logo="https://i.imgur.com/EFDsCkH.png" group-title="Entertainment",Epic Crimes
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@Digital" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",Epic music digital
@@ -224,6 +226,8 @@ https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedy.us@US" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" group-title="Entertainment",Pluto TV Comedy
 https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
+#EXTINF:-1 tvg-id="PocketFilms.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" group-title="Entertainment",Pocket Films
+https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
 #EXTINF:-1 tvg-id="PrameyaNews7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540" group-title="Odia",Prameya News7
 https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
 #EXTINF:-1 tvg-id="PrarthanaTV.in@SD" tvg-logo="https://i.imgur.com/gj7dtNF.png" group-title="Odia",Prarthana TV
@@ -268,8 +272,14 @@ http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TarangTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png?lock=720x540" group-title="Odia",Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Thats70s.uk@HD" tvg-logo="https://i.imgur.com/j2q53JQ.png" group-title="Music",That's 70s
+https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
+#EXTINF:-1 tvg-id="TheJungleBook.in@SD" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="Kids",The Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" group-title="Movies",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLandSitcoms.us@SD" tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="Entertainment",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 tvg-id="UniversalCrime.us@East" tvg-logo="https://i.imgur.com/OwSlGMu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",Universal Crime
@@ -299,6 +309,8 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="ZeeCineClassic.in@SD" tvg-logo="https://i.imgur.com/QCRhS1n.png" group-title="Movies",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",ZEE CINEMA APAC
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemalu.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540" group-title="Movies",ZEE CINEMALU HD
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",ZEE CLASSIC
@@ -311,6 +323,8 @@ https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="Entertainment",Zee TV Asia Pacific
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
 #EXTINF:-1 tvg-id="ZeeZest.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" group-title="Food",ZEE ZEST HD
 http://103.72.101.252:8080/live/2757.m3u8
 #EXTINF:-1 tvg-id="Zing.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing!
@@ -545,7 +559,7 @@ http://27.116.22.53:5001/live/2757.m3u8
 https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
 #EXTINF:-1 tvg-id="2779" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-language="English" group-title="Sports",Red Bull TV
 http://27.116.22.53:5001/live/2779.m3u8
-#EXTINF:-1 tvg-id="2854" tvg-name="KCM" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" tvg-language="English" group-title="Music",KCM
+#EXTINF:-1 tvg-id="2854" tvg-name="KCM" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" tvg-language="English" group-title="Entertainment",KCM
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="2917" tvg-name="Sadhna Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_Gold.png" tvg-language="Gujarati" group-title="Spiritual",Sadhna Gold
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
@@ -567,6 +581,8 @@ http://103.253.18.58:8000/play/a00o
 https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8
 #EXTINF:-1 tvg-id="3231" tvg-name="Apex Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Apex_Entertainment.png" tvg-language="Bhojpuri" group-title="Entertainment",Apex Entertainment
 http://27.116.22.53:5001/live/3231.m3u8
+#EXTINF:-1 tvg-id="3259" tvg-name="Pocket Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" tvg-language="Hindi" group-title="Entertainment",Pocket Films
+https://prod-runn.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
 #EXTINF:-1 tvg-id="3267" tvg-name="Star Kiran" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Kiran.png" tvg-language="Odia" group-title="Odia",Star Kiran
 http://27.116.22.53:5001/live/3267.m3u8
 #EXTINF:-1 tvg-id="3336" tvg-name="NH BollyFlix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" tvg-language="Hindi" group-title="Movies",NH BollyFlix
@@ -583,6 +599,8 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
 #EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" tvg-language="Hindi" group-title="Kids",Epic Kids
 http://27.116.22.53:5001/live/3385.m3u8
+#EXTINF:-1 tvg-id="3401" tvg-name="Swastik Stories" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png" tvg-language="Hindi" group-title="Spiritual",Swastik Stories
+https://csm-e-cesharedlsgsin2live-87593184.bln1.yospace.com/csm/extlive/runntvprd01,swastikrunn/master.m3u8
 #EXTINF:-1 tvg-id="3467" tvg-name="Green Gold TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png" tvg-language="Hindi" group-title="Kids",Green Gold TV
 https://supflm.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
 #EXTINF:-1 tvg-id="3533" tvg-name="Dice Media" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png" tvg-language="Hindi" group-title="Entertainment",Dice Media
@@ -591,7 +609,7 @@ https://supflm.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
 https://supflm.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
 #EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/blywcm.png" tvg-language="Hindi" group-title="Movies",Eros Universe Bollywood Cinema
 https://airtel-eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
-#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/ersent.png" tvg-language="Hindi" group-title="Entertainment",Eros Universe Entertainment
+#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/ersent.png" tvg-language="Hindi" group-title="Movies",Eros Universe Entertainment
 https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="" group-title="Entertainment",BIG MAGIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -991,6 +1009,8 @@ https://jmp2.uk/stvp-CAAJ27000159K
 https://jmp2.uk/stvp-CAAJ2700008QA
 #EXTINF:-1 tvg-id="CAAJ27000079E" tvg-name="FilmRise True Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000079E_20260421T140937SQUARE.png" group-title="Entertainment",Filmrise True Crime
 https://jmp2.uk/stvp-CAAJ27000079E
+#EXTINF:-1 tvg-id="CA2000008F8" tvg-name="Epic Gardening TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000008F8_20260407T042157SQUARE.png" group-title="Infotainment",Epic Gardening TV
+https://jmp2.uk/stvp-CA2000008F8
 #EXTINF:-1 tvg-id="CABD1700002R4" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20260707T040110SQUARE.png" group-title="Entertainment",Conan O'Brien TV
 https://jmp2.uk/stvp-CABD1700002R4
 #EXTINF:-1 tvg-id="CA3100001IB" tvg-name="MrBeast" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3100001IB_20260421T140711SQUARE.png" group-title="Entertainment",MrBeast
@@ -1019,6 +1039,8 @@ https://jmp2.uk/stvp-DEBC2300001EU
 https://jmp2.uk/stvp-DEBC2100001ZJ
 #EXTINF:-1 tvg-id="DEBA2200007V6" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20251013T054833SQUARE.png" group-title="Music",XITE Hits
 https://jmp2.uk/stvp-DEBA2200007V6
+#EXTINF:-1 tvg-id="DEBA3300030O1" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300030O1_20250107T024248SQUARE.png" group-title="Music",Trace Urban
+https://jmp2.uk/stvp-DEBA3300030O1
 #EXTINF:-1 tvg-id="DEBA3300032UV" tvg-name="MyTime Movie Network" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300032UV_20260127T040756SQUARE.png" group-title="Movies",MyTime Movie Network
 https://jmp2.uk/stvp-DEBA3300032UV
 #EXTINF:-1 tvg-id="ES3800001V1" tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png" group-title="Sports",Red Bull TV
@@ -1029,6 +1051,8 @@ https://jmp2.uk/stvp-ESBA2200004G5
 https://jmp2.uk/stvp-ESBD230000289
 #EXTINF:-1 tvg-id="ESBC2100001IU" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png" group-title="Music",Vevo Pop
 https://jmp2.uk/stvp-ESBC2100001IU
+#EXTINF:-1 tvg-id="ESBA3300043M0" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png" group-title="Music",Trace Urban
+https://jmp2.uk/stvp-ESBA3300043M0
 #EXTINF:-1 tvg-id="FR1700004PK" tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1700004PK_20260818T050835SQUARE.png" group-title="Sports",Red Bull TV
 https://jmp2.uk/stvp-FR1700004PK
 #EXTINF:-1 tvg-id="FRBC2100001YY" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100001YY_20241015T040412SQUARE.png" group-title="Music",Vevo Pop
@@ -1051,6 +1075,8 @@ https://jmp2.uk/stvp-GBBC19000017V
 https://jmp2.uk/stvp-GBBC2100002HP
 #EXTINF:-1 tvg-id="GBBB3800005QO" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20260804T051900SQUARE.png" group-title="Music",XITE Hits
 https://jmp2.uk/stvp-GBBB3800005QO
+#EXTINF:-1 tvg-id="GBBC900001SC" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900001SC_20250107T025823SQUARE.png" group-title="Music",Trace Urban
+https://jmp2.uk/stvp-GBBC900001SC
 #EXTINF:-1 tvg-id="GBAK3504522A" tvg-name="Pluto TV Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504522A_20250107T022653SQUARE.png" group-title="Movies",Pluto TV Romance
 https://jmp2.uk/stvp-GBAK3504522A
 #EXTINF:-1 tvg-id="GBBA3300059BU" tvg-name="MyTime Movie Network" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" group-title="Movies",MyTime Movie Network
@@ -1071,8 +1097,14 @@ https://jmp2.uk/stvp-IN39000187Z
 https://jmp2.uk/stvp-IN2100005T2
 #EXTINF:-1 tvg-id="IN3800010SH" tvg-name="Hollywood Desi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20260623T015040SQUARE.png" group-title="Movies",Hollywood Desi
 https://jmp2.uk/stvp-IN3800010SH
-#EXTINF:-1 tvg-id="IN1600011DE" tvg-name="KCM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600011DE_20260623T015202SQUARE.png" group-title="Music",KCM
+#EXTINF:-1 tvg-id="IN1600011DE" tvg-name="KCM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600011DE_20260623T015202SQUARE.png" group-title="Entertainment",KCM
 https://jmp2.uk/stvp-IN1600011DE
+#EXTINF:-1 tvg-id="IN330000528" tvg-name="WedoTV Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN330000528_20260805T004052SQUARE.png" group-title="Movies",WedoTV Movies
+https://jmp2.uk/stvp-IN330000528
+#EXTINF:-1 tvg-id="IN3900027S7" tvg-name="Aashirwad TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20260915T042106SQUARE.png" group-title="Spiritual",Aashirwad TV
+https://jmp2.uk/stvp-IN3900027S7
+#EXTINF:-1 tvg-id="IN46000184H" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260901T055412SQUARE.png" group-title="Entertainment",Kings of Comedy
+https://jmp2.uk/stvp-IN46000184H
 #EXTINF:-1 tvg-id="IN2100002GD" tvg-name="Zee Comedy Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260915T042205SQUARE.png" group-title="Entertainment",Zee Comedy Nation
 https://jmp2.uk/stvp-IN2100002GD
 #EXTINF:-1 tvg-id="IN3600006RT" tvg-name="Comedy King" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20260623T014707SQUARE.png" group-title="Entertainment",Comedy King
@@ -1085,6 +1117,10 @@ https://jmp2.uk/stvp-IN1700011V7
 https://jmp2.uk/stvp-IN2100004C4
 #EXTINF:-1 tvg-id="IN3800002VK" tvg-name="The Lallantop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20260623T013409SQUARE.png" group-title="News",The Lallantop
 https://jmp2.uk/stvp-IN3800002VK
+#EXTINF:-1 tvg-id="IN3900002KB" tvg-name="E24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20260623T014801SQUARE.png" group-title="Music",E24
+https://jmp2.uk/stvp-IN3900002KB
+#EXTINF:-1 tvg-id="IN8000171I" tvg-name="Epic Crimes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000171I_20260901T055353SQUARE.png" group-title="Entertainment",Epic Crimes
+https://jmp2.uk/stvp-IN8000171I
 #EXTINF:-1 tvg-id="INBD13000043W" tvg-name="Animax" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20260623T013612SQUARE.png" group-title="Kids",Animax
 https://jmp2.uk/stvp-INBD13000043W
 #EXTINF:-1 tvg-id="IN3800001ZH" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20260623T013556SQUARE.png" group-title="News",Aaj Tak HD
@@ -1103,16 +1139,28 @@ https://jmp2.uk/stvp-INBC2800013L6
 https://jmp2.uk/stvp-IN3900017KM
 #EXTINF:-1 tvg-id="INBD4700015M0" tvg-name="Music India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700015M0_20260623T015257SQUARE.png" group-title="Music",Music India
 https://jmp2.uk/stvp-INBD4700015M0
+#EXTINF:-1 tvg-id="IN800004YV" tvg-name="That's 90s00s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800004YV_20260623T015806SQUARE.png" group-title="Music",That's 90s00s
+https://jmp2.uk/stvp-IN800004YV
+#EXTINF:-1 tvg-id="IN800001OD" tvg-name="That's 70s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800001OD_20260623T015754SQUARE.png" group-title="Music",That's 70s
+https://jmp2.uk/stvp-IN800001OD
+#EXTINF:-1 tvg-id="IN800003JE" tvg-name="That's ROCK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800003JE_20260623T013357SQUARE.png" group-title="Music",That's Rock
+https://jmp2.uk/stvp-IN800003JE
+#EXTINF:-1 tvg-id="IN800007SR" tvg-name="TRACE Urban" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800007SR_20260623T015710SQUARE.png" group-title="Music",Trace Urban
+https://jmp2.uk/stvp-IN800007SR
 #EXTINF:-1 tvg-id="INBC2800008VD" tvg-name="Balle Balle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800008VD_20260623T013717SQUARE.png" group-title="Music",Balle Balle
 https://jmp2.uk/stvp-INBC2800008VD
 #EXTINF:-1 tvg-id="INBD13000053R" tvg-name="Divya" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000053R_20260623T014748SQUARE.png" group-title="Spiritual",Divya
 https://jmp2.uk/stvp-INBD13000053R
+#EXTINF:-1 tvg-id="IN25000020M" tvg-name="The Jungle Book" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20260623T013403SQUARE.png" group-title="Kids",The Jungle Book
+https://jmp2.uk/stvp-IN25000020M
 #EXTINF:-1 tvg-id="IN4000625P" tvg-name="Green Gold TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260623T015004SQUARE.png" group-title="Kids",Green Gold TV
 https://jmp2.uk/stvp-IN4000625P
 #EXTINF:-1 tvg-id="IN4600009F9" tvg-name="Hooray Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20260623T015044SQUARE.png" group-title="Kids",Hooray Kids
 https://jmp2.uk/stvp-IN4600009F9
 #EXTINF:-1 tvg-id="IN4600007TC" tvg-name="Hooray Rhymes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20260623T015050SQUARE.png" group-title="Kids",Hooray Rhymes
 https://jmp2.uk/stvp-IN4600007TC
+#EXTINF:-1 tvg-id="IN4600008T4" tvg-name="KidDo MATIX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20260623T015209SQUARE.png" group-title="Kids",Kiddo Matix
+https://jmp2.uk/stvp-IN4600008T4
 #EXTINF:-1 tvg-id="IN800021X7" tvg-name="Epic Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800021X7_20260722T004233SQUARE.png" group-title="Kids",Epic Kids
 https://jmp2.uk/stvp-IN800021X7
 #EXTINF:-1 tvg-id="IN17000109O" tvg-name="Epic TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000109O_20260623T014848SQUARE.png" group-title="Infotainment",Epic TV
@@ -1121,6 +1169,10 @@ https://jmp2.uk/stvp-IN17000109O
 https://jmp2.uk/stvp-IN1600009NL
 #EXTINF:-1 tvg-id="IN1600008DN" tvg-name="HISTORY TV18" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600008DN_20260623T015020SQUARE.png" group-title="Infotainment",HISTORY TV18
 https://jmp2.uk/stvp-IN1600008DN
+#EXTINF:-1 tvg-id="IN460000313" tvg-name="Foodie Hub" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000313_20260623T014911SQUARE.png" group-title="Food",Foodie Hub
+https://jmp2.uk/stvp-IN460000313
+#EXTINF:-1 tvg-id="IN39000216A" tvg-name="Epic Gardening TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000216A_20260623T014843SQUARE.png" group-title="Infotainment",Epic Gardening TV
+https://jmp2.uk/stvp-IN39000216A
 #EXTINF:-1 tvg-id="IT38000070T" tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT38000070T_20251202T002728SQUARE.png" group-title="Sports",Red Bull TV
 https://jmp2.uk/stvp-IT38000070T
 #EXTINF:-1 tvg-id="IT31000026G" tvg-name="Discovery" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20260622T101526SQUARE.png" group-title="Infotainment",Discovery
@@ -1129,6 +1181,8 @@ https://jmp2.uk/stvp-IT31000026G
 https://jmp2.uk/stvp-ITBC2100001G9
 #EXTINF:-1 tvg-id="ITBC210000200" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png" group-title="Music",Vevo '90s & '00s
 https://jmp2.uk/stvp-ITBC210000200
+#EXTINF:-1 tvg-id="ITBA3300041LY" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300041LY_20241022T043644SQUARE.png" group-title="Music",Trace Urban
+https://jmp2.uk/stvp-ITBA3300041LY
 #EXTINF:-1 tvg-id="ITBC1100011RK" tvg-name="Rock TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png" group-title="Music",Rock Tv
 https://jmp2.uk/stvp-ITBC1100011RK
 #EXTINF:-1 tvg-id="USBD3500032H0" tvg-name="Movie Hub Action" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260922T055725SQUARE.png" group-title="Movies",Movie Hub Action
@@ -1145,6 +1199,8 @@ https://jmp2.uk/stvp-USBC3900018K6
 https://jmp2.uk/stvp-USBB32000196O
 #EXTINF:-1 tvg-id="US18000133I" tvg-name="E! Keeping Up" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000133I_20260707T035813SQUARE.png" group-title="Entertainment",E! Keeping Up
 https://jmp2.uk/stvp-US18000133I
+#EXTINF:-1 tvg-id="US2000017HT" tvg-name="Epic Gardening TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260407T042323SQUARE.png" group-title="Infotainment",Epic Gardening TV
+https://jmp2.uk/stvp-US2000017HT
 #EXTINF:-1 tvg-id="USBD120001614" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260421T143126SQUARE.png" group-title="Entertainment",Conan O'Brien TV
 https://jmp2.uk/stvp-USBD120001614
 #EXTINF:-1 tvg-id="US310000101" tvg-name="MrBeast" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US310000101_20260421T143255SQUARE.png" group-title="Entertainment",MrBeast
@@ -1182,124 +1238,138 @@ https://jmp2.uk/stvp-USBC3600001RQ
 #EXTINF:-1 tvg-id="USBC3600008WY" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20260421T141831SQUARE.png" group-title="Music",Vevo Pop
 https://jmp2.uk/stvp-USBC3600008WY
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5fd115bab7ef8d002dcf181d" tvg-id="6a1610bebdf296985fd95603-5fd115bab7ef8d002dcf181d" tvg-chno="" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Movies",24 Hour Free Movies
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fd115bab7ef8d002dcf181d/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fd115bab7ef8d002dcf181d/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d" tvg-id="647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d" tvg-chno="" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Movies",24 Hour Free Movies
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-66be944f8711311880995280" tvg-id="6a1610bebdf296985fd95603-66be944f8711311880995280" tvg-chno="" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Movies",Action Hollywood Movies
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66be944f8711311880995280/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66be944f8711311880995280/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-66be944f8711311880995280" tvg-id="647f8d22a2fc3fadb4721685-66be944f8711311880995280" tvg-chno="" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Movies",Action Hollywood Movies
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66be944f8711311880995280/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-66be944f8711311880995280/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="64305451fc3be5947773c339-66be944f8711311880995280" tvg-id="64305451fc3be5947773c339-66be944f8711311880995280" tvg-chno="" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Movies",Action Hollywood Movies
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-66be944f8711311880995280/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-66be944f8711311880995280/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2" tvg-id="6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2" tvg-chno="" tvg-name="E! Keeping Up" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4d7860467260498b2b98fb2f2b554793.png" group-title="Entertainment",E! Keeping Up
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-66ea0504c24d95b51b7cd189" tvg-id="6a1610bebdf296985fd95603-66ea0504c24d95b51b7cd189" tvg-chno="" tvg-name="FilmRise Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1965c90b-04e6-4124-bfc0-7a6226a8f0ab/FilmRise_Action_1500x1000_Light_Logo.png" group-title="Movies",Filmrise Action
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea0504c24d95b51b7cd189/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea0504c24d95b51b7cd189/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4" tvg-id="647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4" tvg-chno="" tvg-name="FilmRise Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b050a3ca-7e33-401b-a4ec-bb0cdd941aa4/FilmRise_Action_1500x1000_Light_Logo.png" group-title="Movies",Filmrise Action
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae5819" tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae5819" tvg-chno="" tvg-name="FilmRise Anime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cff7361f-e0ba-4aeb-9251-9530f4eb1d80/FilmRise_Anime_1500x1000_Light_Logo.png" group-title="Anime",Filmrise Anime
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5819/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5819/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="64305451fc3be5947773c339-65ec577b07060fb76a3916bf" tvg-id="64305451fc3be5947773c339-65ec577b07060fb76a3916bf" tvg-chno="" tvg-name="FilmRise Anime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2c4c693a-c2c0-4af6-bdd4-643b62163a86/FilmRise_Anime_1500x1000_Light_Logo.png" group-title="Anime",Filmrise Anime
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-65ec577b07060fb76a3916bf/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-65ec577b07060fb76a3916bf/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae5808" tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae5808" tvg-chno="" tvg-name="FilmRise British TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e3a7b9a7-d7ce-47cb-a55f-2560ea11e6e3/FilmRise_BritishTV_1500x1000_Light_Logo.png" group-title="Entertainment",Filmrise British TV
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5808/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5808/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-66ea07049502c5778b828d3f" tvg-id="6a1610bebdf296985fd95603-66ea07049502c5778b828d3f" tvg-chno="" tvg-name="FilmRise Classic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/028c779c-2a24-4782-a9e4-f66614e170df/FilmRise_ClassicTV_1500x1000_Dark_Logo.png" group-title="Entertainment",Filmrise Classic TV
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea07049502c5778b828d3f/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea07049502c5778b828d3f/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c874" tvg-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c874" tvg-chno="" tvg-name="FilmRise Classic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5afbac06-0369-49b8-bc1e-8d599f857b03/FilmRise_ClassicTV_1500x1000_Dark_Logo.png" group-title="Entertainment",Filmrise Classic TV
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c874/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c874/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-66ea085d9502c5778b828d41" tvg-id="6a1610bebdf296985fd95603-66ea085d9502c5778b828d41" tvg-chno="" tvg-name="FilmRise Free Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cde90a84-972c-49ea-baf2-941a657dbeea/FilmRise_FreeMovies_1500x1000_logo_light.png" group-title="Movies",Filmrise Free Movies
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea085d9502c5778b828d41/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea085d9502c5778b828d41/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb" tvg-id="647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb" tvg-chno="" tvg-name="FilmRise Free Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15ec663b-70d0-450c-9cfa-c22eab2b1cd5/FilmRise_FreeMovies_1500x1000_logo_light.png" group-title="Movies",Filmrise Free Movies
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86b" tvg-id="64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86b" tvg-chno="" tvg-name="FilmRise Free Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/36234e95-ef97-466b-8f36-cd5d260ec0e0/FilmRise_FreeMovies_1500x1000_logo_light.png" group-title="Movies",Filmrise Free Movies
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86b/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86b/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-66ea09a39502c5778b828d43" tvg-id="6a1610bebdf296985fd95603-66ea09a39502c5778b828d43" tvg-chno="" tvg-name="FilmRise Horror" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18f5071a-e375-4dce-b201-5e717371458a/FilmRise_Horror_1500x1000_Light_Logo.png" group-title="Movies",Filmrise Horror
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea09a39502c5778b828d43/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea09a39502c5778b828d43/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3" tvg-id="647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3" tvg-chno="" tvg-name="FilmRise Horror" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7765ddb-5cd7-4287-8d16-ea1171acb092/FilmRise_Horror_1500x1000_Light_Logo.png" group-title="Movies",Filmrise Horror
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae57ff" tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae57ff" tvg-chno="" tvg-name="FilmRise Kids" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af1f69a0-3453-437e-afcb-d4403d0ff213/FilmRise_Kids_1500x1000_Dark_Logo.png" group-title="Kids",Filmrise Kids
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae57ff/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae57ff/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae580d" tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae580d" tvg-chno="" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7722363-8b90-4f9b-a037-5306a5d194c8/FilmRise_SciFi_1500x1000_Light_Logo.png" group-title="Movies",Filmrise Sci-Fi
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae580d/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae580d/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06" tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06" tvg-chno="" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a082f488-9d7e-4e89-be52-4b7e5c8d91d3/FilmRise_SciFi_1500x1000_Light_Logo.png" group-title="Movies",Filmrise Sci-Fi
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-646e489b58898bf3be94b325" tvg-id="6a1610bebdf296985fd95603-646e489b58898bf3be94b325" tvg-chno="" tvg-name="FilmRise True Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df6011f2-06eb-40c0-a217-8bfd437b7f03/FilmRise_TrueCrime_1500x1000_Light_Logo.png" group-title="Entertainment",Filmrise True Crime
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-646e489b58898bf3be94b325/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-646e489b58898bf3be94b325/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-68e037c4c63d8255360a2cd9" tvg-id="647f8d22a2fc3fadb4721685-68e037c4c63d8255360a2cd9" tvg-chno="" tvg-name="FilmRise True Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45127e26-36a5-47f2-9934-7c4730afd5bd/FilmRise_TrueCrime_logo_1500x1000_light.png" group-title="Entertainment",Filmrise True Crime
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-68e037c4c63d8255360a2cd9/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-68e037c4c63d8255360a2cd9/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae57fd" tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae57fd" tvg-chno="" tvg-name="FilmRise Western" tvg-logo="https://provider-static.plex.tv/epg/cms/production/610a184b-f849-425a-bb35-463565a40db0/FilmRise_Western_1500x1000_Light_Logo.png" group-title="Movies",Filmrise Western
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae57fd/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae57fd/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05" tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05" tvg-chno="" tvg-name="FilmRise Western" tvg-logo="https://provider-static.plex.tv/epg/cms/production/924cac96-f0da-4eea-aab9-87c708a87f99/FilmRise_Western_1500x1000_Light_Logo.png" group-title="Movies",Filmrise Western
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-60db63d29ec966002c9ea6f0" tvg-id="6a1610bebdf296985fd95603-60db63d29ec966002c9ea6f0" tvg-chno="" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="Movies",Made in Hollywood
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60db63d29ec966002c9ea6f0/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60db63d29ec966002c9ea6f0/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-60db63d29ec966002c9ea6f0" tvg-id="647f8d22a2fc3fadb4721685-60db63d29ec966002c9ea6f0" tvg-chno="" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="Movies",Made in Hollywood
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-60db63d29ec966002c9ea6f0/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-60db63d29ec966002c9ea6f0/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="64305451fc3be5947773c339-60db63d29ec966002c9ea6f0" tvg-id="64305451fc3be5947773c339-60db63d29ec966002c9ea6f0" tvg-chno="" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="Movies",Made in Hollywood
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-60db63d29ec966002c9ea6f0/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-60db63d29ec966002c9ea6f0/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6876fa82e50e77c59c8940c2" tvg-id="6a1610bebdf296985fd95603-6876fa82e50e77c59c8940c2" tvg-chno="" tvg-name="MGM Presents" tvg-logo="https://provider-static.plex.tv/epg/cms/production/306c74d7-5ff7-4067-b921-a1b6c86efbfa/MGMPresents_logo_dark_-_Carl_HoffelderRDX.png" group-title="Movies",MGM Presents
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6876fa82e50e77c59c8940c2/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6876fa82e50e77c59c8940c2/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e" tvg-id="6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e" tvg-chno="" tvg-name="MGM Presents: Westerns" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png" group-title="Movies",MGM Presents: Westerns
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-68d15e51c80ec69e0bd8965b" tvg-id="6a1610bebdf296985fd95603-68d15e51c80ec69e0bd8965b" tvg-chno="" tvg-name="MrBeast" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f543ede1-40f6-4c84-9ac5-ab5db78d82f3/MB_LOGO_1500X1000_WHITEandCOLOR_TRANSPARENT.png" group-title="Entertainment",MrBeast
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68d15e51c80ec69e0bd8965b/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68d15e51c80ec69e0bd8965b/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-644875d7af92c31f4a190bc2" tvg-id="6a1610bebdf296985fd95603-644875d7af92c31f4a190bc2" tvg-chno="" tvg-name="MyTime Movie Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f319630c-002e-40ac-893a-5930fad0eef9/MT_PLEX_1500x1000_US_WHITE_-_Sam_Abraham.png" group-title="Movies",MyTime Movie Network
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-644875d7af92c31f4a190bc2/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-644875d7af92c31f4a190bc2/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="64305451fc3be5947773c339-6448b4e8af92c31f4a190c25" tvg-id="64305451fc3be5947773c339-6448b4e8af92c31f4a190c25" tvg-chno="" tvg-name="MyTime Movie Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8258d765-c5e7-4f6e-85fb-69116ee9b060/MT_PLEX_1500x1000_UK_WHITE_-_Sam_Abraham.png" group-title="Movies",MyTime Movie Network
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6448b4e8af92c31f4a190c25/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6448b4e8af92c31f4a190c25/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-62d1a58e520656fda09e609d" tvg-id="6a1610bebdf296985fd95603-62d1a58e520656fda09e609d" tvg-chno="" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Movies",Shemaroo Bollywood
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62d1a58e520656fda09e609d/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62d1a58e520656fda09e609d/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-62d1a58e520656fda09e609d" tvg-id="647f8d22a2fc3fadb4721685-62d1a58e520656fda09e609d" tvg-chno="" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Movies",Shemaroo Bollywood
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-62d1a58e520656fda09e609d/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-62d1a58e520656fda09e609d/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="64305451fc3be5947773c339-62d1a58e520656fda09e609d" tvg-id="64305451fc3be5947773c339-62d1a58e520656fda09e609d" tvg-chno="" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Movies",Shemaroo Bollywood
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-62d1a58e520656fda09e609d/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-62d1a58e520656fda09e609d/?X-Plex-Token=-9ESWe341b9-ksNAbpou
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6322658be67cf9cd9011fcda" tvg-id="6a1610bebdf296985fd95603-6322658be67cf9cd9011fcda" tvg-chno="" tvg-name="TRACE Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Music",Trace Urban
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6322658be67cf9cd9011fcda/?X-Plex-Token=-9ESWe341b9-ksNAbpou
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6322658be67cf9cd9011fcda" tvg-id="647f8d22a2fc3fadb4721685-6322658be67cf9cd9011fcda" tvg-chno="" tvg-name="TRACE Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Music",Trace Urban
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6322658be67cf9cd9011fcda/?X-Plex-Token=-9ESWe341b9-ksNAbpou
+#EXTINF:-1 channel-id="64305451fc3be5947773c339-6322658be67cf9cd9011fcda" tvg-id="64305451fc3be5947773c339-6322658be67cf9cd9011fcda" tvg-chno="" tvg-name="TRACE Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Music",Trace Urban
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6322658be67cf9cd9011fcda/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6889430a3b7708975e7c07e3" tvg-id="6a1610bebdf296985fd95603-6889430a3b7708975e7c07e3" tvg-chno="" tvg-name="XITE 90s Throwback" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dede1b4c-26b6-4d1e-a057-cc3d23e5a079/xite90sthrowback_logo_light_-_Arlette_FiraRDXn.png" group-title="Music",XITE 90s Throwback
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6889430a3b7708975e7c07e3/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6889430a3b7708975e7c07e3/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6889430a3b7708975e7c07e3" tvg-id="647f8d22a2fc3fadb4721685-6889430a3b7708975e7c07e3" tvg-chno="" tvg-name="XITE 90s Throwback" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dede1b4c-26b6-4d1e-a057-cc3d23e5a079/xite90sthrowback_logo_light_-_Arlette_FiraRDXn.png" group-title="Music",XITE 90s Throwback
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6889430a3b7708975e7c07e3/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6889430a3b7708975e7c07e3/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-688002cd996f1a2fb393a6e3" tvg-id="6a1610bebdf296985fd95603-688002cd996f1a2fb393a6e3" tvg-chno="" tvg-name="XITE Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png" group-title="Music",XITE Hits
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-688002cd996f1a2fb393a6e3/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-688002cd996f1a2fb393a6e3/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-688002cd996f1a2fb393a6e3" tvg-id="647f8d22a2fc3fadb4721685-688002cd996f1a2fb393a6e3" tvg-chno="" tvg-name="XITE Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png" group-title="Music",XITE Hits
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-688002cd996f1a2fb393a6e3/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-688002cd996f1a2fb393a6e3/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="64305451fc3be5947773c339-68965bb7e4a79cd0c3f845d8" tvg-id="64305451fc3be5947773c339-68965bb7e4a79cd0c3f845d8" tvg-chno="" tvg-name="XITE Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5481be7b-b11a-4e5f-b749-da4c50c93cc6/xitehits_logo_WHTArlette_FiranRDX2.png" group-title="Music",XITE Hits
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-68965bb7e4a79cd0c3f845d8/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-68965bb7e4a79cd0c3f845d8/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6889467267ddc0ef2cdbf4ff" tvg-id="6a1610bebdf296985fd95603-6889467267ddc0ef2cdbf4ff" tvg-chno="" tvg-name="XITE Just Chill" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Just Chill
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6889467267ddc0ef2cdbf4ff/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6889467267ddc0ef2cdbf4ff/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6889467267ddc0ef2cdbf4ff" tvg-id="647f8d22a2fc3fadb4721685-6889467267ddc0ef2cdbf4ff" tvg-chno="" tvg-name="XITE Just Chill" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Just Chill
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6889467267ddc0ef2cdbf4ff/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6889467267ddc0ef2cdbf4ff/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-66be944f8711311880995280" tvg-id="697140a85d851f5e69414688-66be944f8711311880995280" tvg-chno="" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Movies",Action Hollywood Movies
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-66be944f8711311880995280/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-66be944f8711311880995280/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-chno="" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Movies",Action Hollywood Movies
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66be944f8711311880995280/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66be944f8711311880995280/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-66be944f8711311880995280" tvg-id="608049aefa2b8ae93c2c3a63-66be944f8711311880995280" tvg-chno="" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Movies",Action Hollywood Movies
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66be944f8711311880995280/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66be944f8711311880995280/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-66be944f8711311880995280" tvg-id="643054b1fc3be59477853717-66be944f8711311880995280" tvg-chno="" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Movies",Action Hollywood Movies
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66be944f8711311880995280/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66be944f8711311880995280/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-66be944f8711311880995280" tvg-id="6430aa45fc3be5947780904e-66be944f8711311880995280" tvg-chno="" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Movies",Action Hollywood Movies
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66be944f8711311880995280/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66be944f8711311880995280/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-id="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-chno="" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52e549aa-1c71-4285-a47c-63be6a60aa54/FilmRise_SciFi_1500x1000_Light_Logo.png" group-title="Movies",Filmrise Sci-Fi
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-60db63d29ec966002c9ea6f0" tvg-id="697140a85d851f5e69414688-60db63d29ec966002c9ea6f0" tvg-chno="" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="Movies",Made in Hollywood
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-60db63d29ec966002c9ea6f0/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-60db63d29ec966002c9ea6f0/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0" tvg-id="5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0" tvg-chno="" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="Movies",Made in Hollywood
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0" tvg-id="608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0" tvg-chno="" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="Movies",Made in Hollywood
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-60db63d29ec966002c9ea6f0" tvg-id="643054b1fc3be59477853717-60db63d29ec966002c9ea6f0" tvg-chno="" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="Movies",Made in Hollywood
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-60db63d29ec966002c9ea6f0/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-60db63d29ec966002c9ea6f0/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-60db63d29ec966002c9ea6f0" tvg-id="6430aa45fc3be5947780904e-60db63d29ec966002c9ea6f0" tvg-chno="" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="Movies",Made in Hollywood
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60db63d29ec966002c9ea6f0/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60db63d29ec966002c9ea6f0/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-64487696af92c31f4a190bc4" tvg-id="643054b1fc3be59477853717-64487696af92c31f4a190bc4" tvg-chno="" tvg-name="MyTime Movie Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eb43f8a1-fb9e-4a1b-b0db-0d720db95f66/MT_PLEX_1500x1000_SPAIN_WHITE_-_Sam_Abraham.png" group-title="Movies",MyTime Movie Network
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-64487696af92c31f4a190bc4/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-64487696af92c31f4a190bc4/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-64487508af92c31f4a190bc0" tvg-id="6430aa45fc3be5947780904e-64487508af92c31f4a190bc0" tvg-chno="" tvg-name="MyTime Movie Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3303c1f-041e-4e0c-b93d-215eacd25a94/MT_PLEX_1500x1000_FRANCE_WHITE_-_Sam_Abraham__1_.png" group-title="Movies",MyTime Movie Network
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64487508af92c31f4a190bc0/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64487508af92c31f4a190bc0/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-62d1a58e520656fda09e609d" tvg-id="697140a85d851f5e69414688-62d1a58e520656fda09e609d" tvg-chno="" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Movies",Shemaroo Bollywood
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-62d1a58e520656fda09e609d/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-62d1a58e520656fda09e609d/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d" tvg-id="5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d" tvg-chno="" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Movies",Shemaroo Bollywood
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-62d1a58e520656fda09e609d" tvg-id="608049aefa2b8ae93c2c3a63-62d1a58e520656fda09e609d" tvg-chno="" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Movies",Shemaroo Bollywood
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62d1a58e520656fda09e609d/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62d1a58e520656fda09e609d/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-62d1a58e520656fda09e609d" tvg-id="643054b1fc3be59477853717-62d1a58e520656fda09e609d" tvg-chno="" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Movies",Shemaroo Bollywood
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-62d1a58e520656fda09e609d/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-62d1a58e520656fda09e609d/?X-Plex-Token=-9ESWe341b9-ksNAbpou
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-62d1a58e520656fda09e609d" tvg-id="6430aa45fc3be5947780904e-62d1a58e520656fda09e609d" tvg-chno="" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Movies",Shemaroo Bollywood
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d1a58e520656fda09e609d/?X-Plex-Token=Kj7Fq6tkti_RghTxgrUn
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d1a58e520656fda09e609d/?X-Plex-Token=-9ESWe341b9-ksNAbpou
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-6322658be67cf9cd9011fcda" tvg-id="697140a85d851f5e69414688-6322658be67cf9cd9011fcda" tvg-chno="" tvg-name="TRACE Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Music",Trace Urban
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6322658be67cf9cd9011fcda/?X-Plex-Token=-9ESWe341b9-ksNAbpou
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-id="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-chno="" tvg-name="TRACE Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Music",Trace Urban
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda/?X-Plex-Token=-9ESWe341b9-ksNAbpou
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda" tvg-id="608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda" tvg-chno="" tvg-name="TRACE Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Music",Trace Urban
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda/?X-Plex-Token=-9ESWe341b9-ksNAbpou
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-6322658be67cf9cd9011fcda" tvg-id="643054b1fc3be59477853717-6322658be67cf9cd9011fcda" tvg-chno="" tvg-name="TRACE Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Music",Trace Urban
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6322658be67cf9cd9011fcda/?X-Plex-Token=-9ESWe341b9-ksNAbpou
