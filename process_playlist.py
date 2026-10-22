@@ -18,13 +18,18 @@ EPG_URL = "https://raw.githubusercontent.com/bsmjsambalpuri/myplaylist/refs/head
 
 def clean_channel_name(name):
     """
-    Strips resolution indicators like (1080p), (720p), (504p), (4k), or (hd) 
-    from the channel name and normalizes spaces.
+    Strips resolution indicators, location tags like (India), 
+    and status tags like [Geo-blocked] from the channel name and normalizes spaces.
     """
+    # Resolutions
     name = re.sub(r'\s*\(\s*\d+p\s*\)', '', name, flags=re.IGNORECASE)
     name = re.sub(r'\s*\(\s*4k\s*\)', '', name, flags=re.IGNORECASE)
     name = re.sub(r'\s*\(\s*hd\s*\)', '', name, flags=re.IGNORECASE)
     
+    # Location and status tags
+    name = re.sub(r'\s*\(\s*india\s*\)', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*\[\s*geo-blocked\s*\]', '', name, flags=re.IGNORECASE)
+
     return re.sub(r'\s+', ' ', name).strip().lower()
 
 def load_whitelist():
