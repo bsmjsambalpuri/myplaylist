@@ -29,6 +29,10 @@ https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us@SD" tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Entertainment",Always Funny Videos
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="Infotainment",Animal Planet
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="Infotainment",Animal Planet HD
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="Entertainment",Anjan TV
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgusNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARGUS/images/LOGO_HD/image.png" group-title="Odia",Argus News
@@ -55,6 +59,8 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playli
 http://stream.mcquack.net/318/index.m3u8
 #EXTINF:-1 tvg-id="Captain.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540" group-title="Entertainment",Captain
 https://mumbai-edge.smartplaytv.in/captain/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Charge!_network_logo.png/revision/latest/scale-to-width-down/512/" group-title="Entertainment",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",COLORS HD
@@ -103,8 +109,14 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="Infotainment",Discovery Science
 https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png" group-title="Infotainment",Discovery Turbo
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney Channel HD
+http://66.102.126.10:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Entertainment",DISNEY INTERNATIONAL HD
 http://103.151.60.162:2122/play/a018/index.m3u8?hls
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",DISNEY Junior (India)
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
 #EXTINF:-1 tvg-id="EKeepingUp.us@SD" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Entertainment",E! Keeping Up
 https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="EkamraBharatOdia.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" group-title="Odia",Ekamra Bharat Odia
@@ -142,6 +154,8 @@ https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Music",Kappa TV
 https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
+#EXTINF:-1 tvg-id="KCM.sg@India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" group-title="Entertainment",KCM India
+https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="MadeInHollywood.us@SD" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Movies",Made in Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MahaMovie.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies",Maha Movie
@@ -170,10 +184,20 @@ https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@UK" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" http-referrer="https://bhoomtv.org/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Music",MTV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",MTV HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" group-title="Music",Music India
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="NandighoshaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="Odia",Nandighosha TV
 https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Infotainment",National Geographic HD
+http://103.185.24.134:3001/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-id="News18Odia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_ODIA/images/LOGO_HD/image.png" group-title="Odia",News18 Odia
 https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="NHBollyFlix.in@HD" tvg-logo="https://i.ibb.co/yF9MPTDK/blyflx.png" group-title="Movies",NH BollyFlix
@@ -226,12 +250,16 @@ http://103.185.24.134:3001/SONY-BBC/index.m3u8
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony MAX 2
 http://107.167.16.138/sonymax2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony MAX
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony MAX HD
 http://103.185.24.134:3001/SonyMAX/index.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Entertainment",SONY PAL
 http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Movies",Sony PIX HD
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonyWah.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Movies",SONY WAH
+https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 #EXTINF:-1 tvg-id="SouthStation.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" group-title="Movies",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 tvg-id="StarBharat.uk@SD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Entertainment",Star Bharat
@@ -250,6 +278,8 @@ http://103.151.60.162:2122/play/a032/index.m3u8?hls
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="Movies",STAR MAA MOVIES HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies (India) HD
+http://103.185.24.134:3001/Star-Movies/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",STAR SPORTS 2 HD
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="Sports",STAR SPORTS 3
@@ -268,6 +298,10 @@ https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" group-title="Movies",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+#EXTINF:-1 tvg-id="TLC.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png" group-title="Entertainment",TLC
+https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="TLC.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png" group-title="Entertainment",TLC HD
+https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLandSitcoms.us@SD" tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="Entertainment",TV Land Sitcoms
@@ -315,10 +349,14 @@ https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee TV HD
+http://41.205.93.154/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="Entertainment",Zee TV Asia Pacific
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
 #EXTINF:-1 tvg-id="Zing.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing!
 http://107.167.16.138/zing/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music",Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBCS_Thumbnail-v1/EKMBCS_Thumbnail.png" group-title="Odia",Baiscope TV
 https://live.ekamraott.com/baiscope/baiscope/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Odia",Ekamra Cinema
@@ -443,7 +481,7 @@ http://103.17.193.159:5001/live/919.m3u8
 http://103.17.193.159:5001/live/931.m3u8
 #EXTINF:-1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-logo="http://103.17.193.159:5001/jtvimage/Boogle_Bollywood.png" tvg-language="Hindi" tvg-type="Music" group-title="Entertainment",Boogle Bollywood
 http://103.17.193.159:5001/live/962.m3u8
-#EXTINF:-1 tvg-id="1104" tvg-name="Star Movies HD" tvg-logo="http://103.17.193.159:5001/jtvimage/StarMoviesHD1.png" tvg-language="English" tvg-type="Movies" group-title="Movies",Star Movies HD
+#EXTINF:-1 tvg-id="1104" tvg-name="Star Movies HD" tvg-logo="http://103.17.193.159:5001/jtvimage/StarMoviesHD1.png" tvg-language="English" tvg-type="Movies" group-title="Movies",Star Movies (India) HD
 http://103.17.193.159:5001/live/1104.m3u8
 #EXTINF:-1 tvg-id="1110" tvg-name="Star Movies Select HD" tvg-logo="http://103.17.193.159:5001/jtvimage/StarMoviesSelectHD1.png" tvg-language="English" tvg-type="Movies" group-title="Movies",Star Movies Select HD
 http://103.17.193.159:5001/live/1110.m3u8
@@ -465,7 +503,7 @@ http://103.17.193.159:5001/live/1295.m3u8
 http://103.17.193.159:5001/live/1335.m3u8
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="http://103.17.193.159:5001/jtvimage/Disney_Channel.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids",Disney Channel
 http://103.17.193.159:5001/live/1373.m3u8
-#EXTINF:-1 tvg-id="1374" tvg-name="Disney Junior" tvg-logo="http://103.17.193.159:5001/jtvimage/Disney_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="1374" tvg-name="Disney Junior" tvg-logo="http://103.17.193.159:5001/jtvimage/Disney_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids",DISNEY Junior (India)
 http://103.17.193.159:5001/live/1374.m3u8
 #EXTINF:-1 tvg-id="1375" tvg-name="Disney International HD" tvg-logo="http://103.17.193.159:5001/jtvimage/Disney_International_HD.png" tvg-language="English" tvg-type="Kids" group-title="Entertainment",DISNEY INTERNATIONAL HD
 http://103.17.193.159:5001/live/1375.m3u8
