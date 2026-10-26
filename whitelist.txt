@@ -311,24 +311,19 @@ STAR MAA HD, Entertainment
 STAR MAA MOVIES HD, Movies
 Star Maa Music, Music
 Star Movies HD, Movies
-Star Movies (India) HD, Movies
+Star Movies HD, Movies
 Star Movies Select HD, Movies
 STAR PLUS HD, Entertainment
-Star Sports 1 HD, Sports
 STAR SPORTS 1 HD, Sports
 STAR SPORTS 1 HD HINDI, Sports
 Star Sports 1 Hindi, Sports
-Star Sports 2 hd, Sports
 STAR SPORTS 2 HD, Sports
 Star Sports 2 Hindi HD, Sports
-Star Sports 3, Sports
 STAR SPORTS 3, Sports
 Star Sports Khel, Sports
 STAR SPORTS SELECT 1 HD, Sports
-Star Sports Select 1 HD, Sports
 Star Sports Select 1 SD, Sports
 STAR SPORTS SELECT 2 HD, Sports
-Star Sports Select 2 HD, Sports
 Star Sports Select 2 SD, Sports
 STAR UTSAV, Entertainment
 STAR UTSAV MOVIES, Movies
@@ -419,3 +414,6 @@ Sonyliv hd, OTT Platform
 Amazon hd, OTT Platform
 Erosnow hd, OTT Platform
 Alt balaji hd, OTT Platform
+Kadak, Infotainment
+Hare Krsna TV, Spiritual
+Just For Laughs Gags, Comedy
