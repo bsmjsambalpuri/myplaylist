@@ -3,14 +3,23 @@
 & Pictures, Movies
 & Xplor, Movies
 &Pictures International, Movies
-&Tv Hd, Entertainment
-&Tv, Entertainment
+&Tv Hd, Hindi Entertainment
+&TV International,Hindi Entertainment
+&Tv,Hindi Entertainment
 00s Replay, Movies
+123GO!,Kids
+21 Jump Street,Action
+22Scope News,News
 24 Hour Free Movies, Movies
+365BLK [FAST],Movies
 48 Hours, True Crime
+4UV,Music
+5-Minute Crafts,Lifestyle
 50 Cent Action, Movies
 70s Cinema, Movies
 7s Music, Music
+7X Music,Music
+80's Sitcom Flashback,Classic TV
 80s Rewind, Music
 8xm Hd, Music
 8xm, Music
@@ -18,63 +27,121 @@
 90s Kids Tv 2, Kids
 90s Throwback, Music
 9x Jalwa, Music
+9X Jhakaas,Music
+9X Tashan,Music
 9xm, Music
+A Touch of Frost,Mystery
+A&E Alaska State Troopers,Reality
 A&E Crime 360, True Crime
+A&E Live PD Greatest Shifts,Reality
+Aadinath TV,Spiritual
+Aagaaz Times,News
+Aaj Ki Khabar,News
 Aaj Tak Hd, News
+Aaj Tak,News
 Aajtak, News
 Aashirwad Tv, Spiritual
 Aastha Bhajan, Spiritual
+Aastha HD,Spiritual
+Aastha Prime 1,Spiritual
 Aastha, Spiritual
+ABP Ganga,News
 Abp News, News
+ACCDN,Sports
 Ace Tv, Entertainment
+ACL Cornhole TV,Sports
+Acorn TV Mysteries,Mystery
 Action Hollywood Movies, Movies
 Action Sports Hd 1, Sports
 Action Sports Hd 2, Sports
+AddictaTV,Entertainment
+Adhyatm TV,Spiritual
+AfroLandTV,Entertainment
 Alankar Tv, Odia
+ALF,Classic TV
+Alien Nation by DUST,Sci-Fi
+Aliwko,Entertainment
+All Reality We TV,Reality
 All Time Movies, Movies
+All Weddings We TV,Reality
 Allblk Gems, Movies
+Alright! TV,Entertainment
 Alt Balaji Hd, Ott Platform
-Always Funny Videos, Entertainment
+Alternative,Music
+Always Christmas,Travel
+Always Funny Videos, Comedy
 Always Funny, Comedy
+AmarUjala,News
+Amasian TV,Entertainment
 Amazon Hd, Ott Platform
+AMC Thrillers,Thriller
 America's Funniest Home Videos, Comedy
 America's Got Talent, Entertainment
 America's Test Kitchen, Lifestyle
 American Crimes, True Crime
+American Gladiators by MGM,Sports
 American Idol, Entertainment
+ANB News,News
 Ancient Aliens, Documentary
 And Pictures Hd, Movies
 Andromeda, Sci-Fi
+Andy Haryana,News
+Anger Management,Comedy
 Ani-Monsters, Anime
 Animal Planet Hd, Infotainment
 Animal Planet, Infotainment
+Animation+,Kids
 Animax, Anime
+Anime 24/7,Anime
 Anime X Hidive, Anime
-Anjan Tv, Entertainment
+Anjan Tv,Hindi Entertainment
 Anmol Cinema 2, Movies
 Anmol Cinema, Movies
-Anmol Tv, Entertainment
+Anmol Tv,Hindi Entertainment
 Antiques Road Trip, Lifestyle
 Antiques Roadshow Uk, Lifestyle
 Apex Entertainment, Entertainment
+APN,News
+Are We There Yet?,Comedy
 Argus News, Odia
 Arre Hd, Entertainment
+Aryan TV National,News
+Asian Drama,Drama
+AsianCrush,Movies
 Astro Tak, Spiritual
+Astroscience,Spiritual
+At Home with Family Handyman,Lifestyle
+At the Movies,Movies
 Auto Live, Automotive
 Automotions, Automotive
+Awaaz India TV,News
+Awakening TV,Spiritual
 Awsn, Sports
+Ax Men by History,Reality
 B4u Kadak, Movies
 B4u Movies Vip, Movies
 B4u Movies, Movies
 B4u Music Vip, Music
 B4u Music, Music
+Baby Einstein,Kids
 Baby Shark Tv, Kids
+Bachelor Nation,Reality
 Bada Khabar,Odia
 Baiscope Tv, Odia
 Balle Balle, Music
+Bansal News,News
+Bassmaster,Sports
 Battlestar Galactica, Sci-Fi
+Baywatch,Action
+BBC Comedy,Comedy
 Bbc Earth, Documentary
+BBC Food,Lifestyle
+BBC Game Shows,Game Show
+BBC Home & Garden,Lifestyle
+BBC Sci-Fi,Sci-Fi
+BBC Travel,Travel
 Beach Day, Lifestyle
+beIN SPORTS XTRA,Sports
 Bellator Mma, Sports
 Best Action Tv, Movies
 Best Of Bobby Flay By Food Network, Lifestyle
@@ -89,13 +156,27 @@ Bet X Tyler Perry Comedy, Comedy
 Bet X Tyler Perry Drama, Drama
 Beverly Hillbillies, Classic Tv
 Beverly Hills 90210, Drama
+Beyblade,Anime
+Beyond Belief,Mystery
+Beyond Paranormal,Documentary
 Beyond The Gates, Drama
 Bh Ott India Fest, Entertainment
+Bhakti Dhara,Spiritual
 Bhakti Play, Spiritual
+Bhakti Sagar,Spiritual
+Bharat AtoZ,News
+Bharat Samachar,News
+Bharat Update,News
+Bharat24,News
 Big A Anime, Anime
-Big Magic, Entertainment
+Big Magic,Hindi Entertainment
+Billiard TV,Sports
+Bizaar,Entertainment
+Bizarre Foods with Andrew Zimmern,Lifestyle
 Black Family Sitcoms, Comedy
+BlackPix,Movies
 Blaze Live, Documentary
+Bloodline Detectives Hosted by Nancy Grace,True Crime
 Bloomberg Originals, Business News
 Bloomberg Tv+, Business News
 Bloomberg Tv, Business News
@@ -104,105 +185,178 @@ Bollygold, Movies
 Bollywood Classic Romania, Movies
 Bollywood Classic, Movies
 Bollywood Film, Movies
+Bollywood HD Russia,Movies
 Bollywood Hd, Movies
 Bollywood Masala, Movies
 Bollywood, Movies
 Bon Voyage, Lifestyle
 Bonanza, Western
-Boogle Bollywood, Entertainment
+Bonanza-Billies TV,Western
+Bondi Rescue,Reality
+Boogle Bollywood,Hindi Entertainment
+BOOT,Sports
 Boruto: Naruto Next Generations, Anime
 Bounce Xl,Entertainment
+Bowling TV,Sports
+Brat TV,Entertainment
 Brave Wilderness, Documentary
+Bravo Vault,Reality
 Bridge, Music
 Britbox Mysteries, Mystery
+BSTV,News
 Buzzr, Game Show
+BVG,Spiritual
+Camp Spoopy,Kids
 Captain, Entertainment
 Cartoon Network Hd, Kids
 Cartoon Network, Kids
 Cbs Sports Hq, Sports
+Celebrity Name Game,Game Show
+Cesar's Pack Leader TV,Reality
 Challenge Accepted, Entertainment
+Channel Divya,Spiritual
+Chaos on Cam by A&E,Reality
 Charge!, Entertainment
 Charmed, Sci-Fi
+Cheaters,Reality
+Cheddar,Business News
 Cheers, Comedy
 Chef Vs Chef By Food Network, Lifestyle
+Chef vs Chef,Lifestyle
 Chip & Jo: Feels Like Home By Magnolia Network, Lifestyle
+Chip & Jo: Feels Like Home,Lifestyle
+Cindie TV,Movies
+CJ ENM K-Food & Travel,Lifestyle
+CJ ENM K-POP,Music
+Classic Car Auctions,Automotive
+Classic Cinema,Movies
+Classic Doctor Who,Sci-Fi
+Classic Family Feud,Game Show
 Classic Movie Westerns, Western
 Classic Movies Channel, Movies
+Classic Rock,Music
 Classic Tv Comedy, Classic Tv
 Classic Tv Crime Drama, Classic Tv
 Classic Tv Drama, Classic Tv
 Classic Tv: Families, Classic Tv
 Classica, Music
+Clic,Lifestyle
 Cmt Equal Play, Music
 Cnbc Awaaz, Business News
+CNBC Bajar,Business News
 Cnbc Tv18 Prime, Business News
 Cnbc Tv18, Business News
+Cnews Bharat,News
 Cnn News18, News
 Cnn Originals, Documentary
 Cold Case Files By A&E, True Crime
 Colors Cineplex Hd, Movies
 Colors Cineplex Superhit, Movies
-Colors Hd, Entertainment
+Colors Cineplex,Movies
+Colors Hd,Hindi Entertainment
 Colors Infinity Hd, Entertainment
 Colors Infinity, Entertainment
+Colors MENA HD,Entertainment
 Colors Odia, Odia
-Colors Rishtey, Entertainment
+Colors Rishtey Americas,Hindi Entertainment
+Colors Rishtey,Hindi Entertainment
+Colors,Hindi Entertainment
+Combat War Channel,Documentary
+CombaTV,Sports
+Come Dine With Me,Reality
 Comedy Central Pluto Tv, Comedy
+Comedy Dynamics,Comedy
 Comedy King, Comedy
+Complex TV,Entertainment
 Conan O'brien Tv, Entertainment
 Concerto, Music
+Confess by Nosey,Reality
+Continuum,Sci-Fi
 Cook & Bake, Lifestyle
 Cops, True Crime
+Corner Gas,Comedy
+Cosmic Frontiers,Documentary
+Court TV Legendary Trials,True Crime
 Court Tv, True Crime
+Cowboy+ Sports,Sports
+CraftsyTV,Lifestyle
+Creator Television,Entertainment
 Cricket Gold, Sports
+Crime & Justice,True Crime
 Crime Scene Tv, True Crime
+Crime Scenes,True Crime
 Crime Tak, True Crime
+Crime ThrillHer,Thriller
+Crimes Cults Killers,True Crime
 Criminal Minds, Drama
 Crunchyroll, Anime
 Csi, Drama
 Csi: Miami, Drama
 Csi: Ny, Drama
+Curiosity NOW,Documentary
+CW Forever,Entertainment
+CW Gold,Classic TV
 Cw Presents Wwe Nxt, Sports
-Dabangg, Entertainment
-Dangal 2, Entertainment
-Dangal, Entertainment
+Dabangg,Hindi Entertainment
+Dance Moms by Lifetime,Reality
+Dangal 2,Hindi Entertainment
+Dangal TV,Hindi Entertainment
+Dangal,Hindi Entertainment
+Dark Matter TV,Sci-Fi
 Dark Shadows, Classic Tv
+Darshan 24,Spiritual
 Dateline 24/7, True Crime
+Dateline,True Crime
 Dazn Ringside, Sports
-Dd Bharati,Entertainment
-Dd Chhattisgarh, Entertainment
+DD Arun Prabha,Entertainment
+Dd Bharati,Hindi Entertainment
+DD Bihar,Hindi Entertainment
+Dd Chhattisgarh,Hindi Entertainment
+DD Haryana,Hindi Entertainment
+DD Himachal Pradesh,Hindi Entertainment
 Dd India Hd, News
 Dd India, News
-Dd Kashir, Entertainment
+DD Jharkhand,Hindi Entertainment
+Dd Kashir,Hindi Entertainment
 Dd Kisan, Infotainment
-Dd Madhya Pradesh, Entertainment
-Dd National Hd, Entertainment
-Dd National, Entertainment
+Dd Madhya Pradesh,Hindi Entertainment
+DD Manipur,Entertainment
+Dd National Hd,Hindi Entertainment
+Dd National,Hindi Entertainment
 Dd News Hd, News
 Dd News, News
 Dd Odia, Odia
+DD Rajasthan,Hindi Entertainment
 Dd Sports 1.0, Sports
 Dd Sports Hd, Sports
 Dd Sports, Sports
-Dd Urdu, Entertainment
-Dd Uttar Pradesh, Entertainment
-Dd Uttarakhand, Entertainment
+Dd Urdu,Hindi Entertainment
+Dd Uttar Pradesh,Hindi Entertainment
+Dd Uttarakhand,Hindi Entertainment
 Deal Or No Deal, Game Show
+Deal Zone Presented By History,Reality
+Death Valley Days,Western
 Deewana Hd, Music
 Degrassi, Drama
 Delicious Eats By Food Network, Lifestyle
+Designated Survivor,Drama
+Dhamaal,Hindi Entertainment
+Dharm Sandesh,Spiritual
 Dharma Live, Spiritual
 Diagnosis Murder, Drama
-Dice Media, Entertainment
+Dice Media,Hindi Entertainment
+Dick Van Dyke,Classic TV
 Dinos 24/7, Documentary
+Discovery Channel HD,Infotainment
+Discovery Channel,Infotainment
 Discovery Hd, Infotainment
 Discovery Kids, Kids
 Discovery Science, Infotainment
 Discovery Turbo Tv, Documentary
 Discovery Turbo, Infotainment
 Discovery, Infotainment
+Disha TV,Spiritual
 Dishoom Films, Movies
-Disnep Channel, Kids
 Disney Channel Hd, Kids
 Disney Channel, Kids
 Disney International Hd, Entertainment
@@ -210,77 +364,149 @@ Disney Junior (India), Kids
 Disney Junior, Kids
 Divya Bhajan, Spiritual
 Divya, Spiritual
+Diya TV,Spiritual
+DNN,News
 Doctor Who Classic, Sci-Fi
 Docubay, Documentary
+Documentary+,Documentary
+Dog the Bounty Hunter,Reality
+Dog Whisperer,Reality
+Don't Tell The Bride,Reality
 Dora Tv, Kids
+Dove,Entertainment
+DP World Tour,Sports
+Dr. G: Medical Examiner,True Crime
+Dr. Phil,Talk Show
 Dr. Quinn Medicine Woman, Classic Tv
+DREAD TV,Entertainment
 Dubbed Movies, Movies
+Duck Dynasty by A&E,Reality
+Dungeons & Dragons Adventures,Sci-Fi
 Dynasty, Drama
+E 24,Entertainment
 E! Keeping Up, Entertainment
+E-Vidya 10,Education
+E-Vidya 11,Education
+E-Vidya 12,Education
+E-Vidya 4,Education
+E-Vidya 5,Education
+E-Vidya 6,Education
+E-Vidya 7,Education
+E-Vidya 8,Education
+E-Vidya 9,Education
 E24, Music
+EarthXtra,Documentary
+Easy Listening,Music
+Ebony TV by Lionsgate,Entertainment
 Ebony Tv Drama, Drama
+Eddie's Wonderland,Kids
 Ekamra Bharat Odia, Odia
 Ekamra Cinema, Odia
 Ekamra Manoranjan, Odia
 Ekamra Musiq, Odia
 Ekamra Nilach Akra, Odia
 Ekamra Paramatma, Odia
+Electric Now,Sci-Fi
 Ent Live, Entertainment
+Entertains,Entertainment
+Epic Bharat Digital,Infotainment
 Epic Bharat, Infotainment
 Epic Crimes, True Crime
 Epic Gardening Tv, Lifestyle
+Epic Kids Digital,Kids
 Epic Kids, Kids
 Epic Music Digital, Music
 Epic Music, Music
-Epic Parivaar, Entertainment
+Epic Parivaar,Hindi Entertainment
+Epic Parivar,Hindi Entertainment
+Epic TV Digital,Infotainment
 Epic Tv, Infotainment
 Eros Universe Bollywood Cinema, Movies
 Eros Universe Entertainment, Movies
 Erosnow Hd, Ott Platform
-Ettertainment News,Entertainment
+Entertainment News,News
+ETV Beats,Music
 Etv Cinema Hd, Movies
 Etv Hd, Entertainment
 Etv Music, Music
+Euro Hits,Music
 Euro Sport Hd, Sports
 Evergreen Classic, Movies
+Extreme Jobs,Reality
+F1 Channel,Sports
 Failarmy, Comedy
 Family Feud Classic, Game Show
 Family Feud, Game Show
 Family Ties, Classic Tv
+Family Unscripted,Reality
+Farscape,Sci-Fi
+FashionTV,Lifestyle
+Fear Factor,Reality
 Feel Good Drama, Drama
+FEVA TV,Entertainment
 Fifa+, Sports
+Fifth Gear (UK),Automotive
 Fifth Gear, Automotive
+Fight Network,Sports
 Fight Tv, Sports
 Filmrise Action, Movies
 Filmrise Anime, Anime
+FilmRise Black TV,Movies
 Filmrise British Tv, Entertainment
 Filmrise Classic Tv, Entertainment
+FilmRise Comedy,Comedy
+FilmRise Creators,Entertainment
+FilmRise Drama,Drama
 Filmrise Free Movies, Movies
 Filmrise Horror, Movies
 Filmrise Kids, Kids
+FilmRise Music,Music
+FilmRise Mysteries,Mystery
 Filmrise Sci-Fi, Movies
 Filmrise True Crime, Entertainment
 Filmrise Western, Movies
-Filtercopy, Entertainment
+Filtercopy,Hindi Entertainment
+First India News,News
+Flashback 70s,Classic TV
 Flicks Of Fury, Movies
+Fluffy TV,Comedy
+Food Food,Lifestyle
 Food P, Lifestyle
 Foodie Hub, Lifestyle
 Foodxp, Lifestyle
 Forensic Files, True Crime
 Forever Kids, Kids
+Four in a Bed,Reality
 Fox Sports, Sports
 Frasier, Comedy
-Ftv Hd, Fashion
-Ftv, Fashion
+Free Movies Plus,Movies
+FrightFlix,Horror
+FTF Sports,Sports
+Ftv Hd,Lifestyle
+Ftv,Lifestyle
+Fubo Sports Network,Sports
+FUEL TV,Sports
 Funny Af, Comedy
+Game & Fish TV,Outdoor
 Game Show Central, Game Show
+GameTVGO,Game Show
+Gangaur TV,Hindi Entertainment
+Garden with Monty Don,Lifestyle
 Garfield And Friends, Kids
 Gemini Music, Music
+Generation Drama,Drama
+GET,Classic TV
+Get.Factual,Documentary
+Ghost Hunters Channel,Reality
 Ghost Whisperer, Sci-Fi
+Ghosts Are Real,Documentary
 Ghosts, Comedy
+Glewed TV,Entertainment
 Global Tv, Entertainment
+GLORY Kickboxing,Sports
 Go Go Gadget!, Kids
 Go Wild, Documentary
+God Stands TV Hindi,Spiritual
 Golazo Network, Sports
 Goldmines 2, Movies
 Goldmines Action, Movies
@@ -291,121 +517,245 @@ Goldmines, Movies
 Golf Network, Sports
 Golfpass, Sports
 Good News Today, News
-Green Chillies, Entertainment
+GoTraveler,Travel
+Gravitas Movies,Movies
+Great British Menu,Lifestyle
+Green Acres,Classic TV
+Green Chillies,Hindi Entertainment
 Green Gold Tv, Kids
+Grit Xtra,Western
+Grjngo - Western Movies,Western
+Growing Up Hip Hop,Reality
 Growthday Network, Lifestyle
 Gunsmoke, Western
 Gusto Tv, Lifestyle
+GUSTOTV,Lifestyle
+Gyandarshan HD,Education
+Gyandarshan,Education
 Hallmark Movies & More, Movies
+Halloween Plus,Horror
 Happy Days, Classic Tv
+Hard Knocks,Sports
 Hare Krsna Tv, Spiritual
 Haryanvi Hts, Music
+Hasbro Legends,Kids
+HBCUGO SPORTS,Sports
+HBO Boxing,Sports
 Hd Travel, Travel
 Heartland, Drama
+Hell's Kitchen & Kitchen Nightmares,Reality
 Heritage+,Lifestyle
+HerSphere by Lionsgate,Drama
+Hi-YAH!,Action
+Highway Thru Hell,Reality
+Highway to Heaven,Classic TV
 Hindi Hits Hd, Music
 Hindi Hits, Music
+Hindi Khabar,News
 Hindi Songs, Music
+Hip-Hop/R&B,Music
+History & Warfare,Documentary
+History Hit,Documentary
 History Tv18 - Hindi, Infotainment
+History TV18 HD,Infotainment
 History Tv18, Infotainment
+Hit List,Music
 Hit Sitcoms, Comedy
+HNN 24x7,News
 Hogan's Heroes, Classic Tv
 Hollywood Desi, Movies
 Home Cooking By Food Network, Lifestyle
+Home Cooking,Lifestyle
 Home.Made.Nation, Lifestyle
 Homeful, Lifestyle
 Homes Under The Hammer, Lifestyle
+Hong Kong Fight Club,Action
 Hooray Kids, Kids
 Hooray Rhymes, Kids
+Horror by ALTER,Horror
+Horror Stories,Horror
+Hosanna TV Hindi,Spiritual
+Hot Ones,Talk Show
 Hotstar Hd, Ott Platform
 House Of Crime, True Crime
-Hum Tv Hd, Entertainment
-Hum World, Entertainment
+How To,Lifestyle
+HSTV,News
+Hum Tv Hd,Hindi Entertainment
+Hum World,Hindi Entertainment
 Hungama Hindi, Kids
+Hungama TV,Kids
 Hungama, Kids
+Hunter,Action
 I Love Lucy, Classic Tv
+I Shouldn't Be Alive,Documentary
+IBC 24,News
 Icarly Tv, Kids
+Ice Pilots NWT,Reality
+Ice Road Truckers,Reality
+IFC Films Picks,Movies
+Impossible - Quiz Show,Game Show
+In The Heat Of The Night by MGM,Crime Drama
+Ind 24,News
 India Daily 24x7, News
+India Daily Live,News
+India News Haryana,News
+India News Madhya Pradesh/Chhattisgarh,News
+India News Rajasthan,News
+India News Uttar Pradesh,News
+India News,News
+India Talkies,Movies
 India Today, News
 India Tv Aap Ki Adalat, News
 India Tv News, News
 India Tv Speed News, News
 India Tv Yoga, Lifestyle
+India TV,News
+India Voice,News
 Infast, Lifestyle
+INH 24x7,News
 Inside Outside, Lifestyle
+Insync,Music
 Introuble, Entertainment
 Inuyasha, Anime
+Investigation Discovery,Infotainment
 Inwild, Documentary
 Inwonder, Documentary
+Ion Mystery,Mystery
+ION Plus,Entertainment
 Ion,Entertainment
-Ishara, Entertainment
+Iron Chef,Reality
+Ishara,Hindi Entertainment
+Ishwar Bhakti TV,Spiritual
 It's Anime, Anime
 Jack Hanna, Documentary
+Jade Fever,Reality
+JAIL,Reality
+Jan TV,News
 Jane The Virgin, Drama
+Janta TV,News
+Jantantra TV,News
 Jatra Ekamra, Odia
 Jay Jagannath Tv, Odia
-Jio Exclusive Hd, Entertainment
-Jio Specials Hd, Entertainment
+Jinvani Channel,Spiritual
+Jio Exclusive Hd,Hindi Entertainment
+Jio Specials Hd,Hindi Entertainment
 Jio Sports Hd, Sports
+Johnny Carson TV,Talk Show
 Jojo Tv, Kids
 Joomusic, Music
+Journy,Travel
+JoySauce,Entertainment
+Jubao,Entertainment
+Jus Hindi,Hindi Entertainment
+Jus One,Entertainment
 Just For Laughs Gags, Comedy
+K News India,News
+Kabaddi 24x7,Sports
 Kadak, Infotainment
 Kalinga Tv, Odia
 Kanak News, Odia
 Kappa Tv, Music
 Kartoon Channel!, Kids
+Kashish News,News
+KBC News,News
+KBP Times,News
 Kcm India, Entertainment
 Kcm, Entertainment
+Khabar Fast,News
+Khabrain Abhi Tak,News
 Kiddo Matix, Kids
 Kids Movie Club, Kids
+KidsFlix,Kids
+Kim's Convenience,Comedy
 Kings Of Comedy, Comedy
+Laff More,Comedy
+LATV,Entertainment
+Law & Crime,True Crime
 Law & Order, Drama
+Lawless,Action
+Legacy,Sports
 Lego Kids Tv, Kids
 Let's Make A Deal, Game Show
 Life+Style, Lifestyle
 Lifetime Movie Favorites, Movies
+Lifetime Movies Love & Drama,Drama
+Lionsgate Network,Movies
 Lionsgate Play, Entertainment
 Little House On The Prairie, Classic Tv
 Little Stars Universe, Kids
 Live Music, Music
+Live PD Presents,Reality
+Live Times,News
 Living With Evil, True Crime
 Logo Pluto Tv, Lgbtq+
+LOL! Network,Comedy
+Lone Star,Western
+Love & Marriage,Reality
+Love After Lockup We TV,Reality
 Love Nature, Documentary
+Love Pets,Infotainment
+Love Thy Neighbor,Comedy
+LX Home Streaming,Lifestyle
 Made In Hollywood, Movies
+MagellanTV Wildest,Documentary
+Magnolia Selects,Lifestyle
 Maha Movie, Movies
 Mahaa Max, Movies
+Mahotsav TV,Hindi Entertainment
+Man City 24/7,Sports
+Mangalmay TV,Spiritual
+Mango,Entertainment
 Manjari Tv, Odia
 Manoranjan Grand, Movies
 Manoranjan Movies, Movies
-Manoranjan Prime, Entertainment
-Manoranjan Tv, Entertainment
+Manoranjan Prime,Hindi Entertainment
+Manoranjan Tv,Hindi Entertainment
 Mark Rober Tv, Lifestyle
 Mastiii, Music
+Matched Married Meet,Reality
 Matlock, Classic Tv
+Maverick Black Cinema,Movies
 Mavtv Motorsports, Sports
 Max 1, Movies
 Mayday: Air Disaster, Documentary
 Mbc Bollywood (1080p) [Geo-Blocked], Movies
+MBC Bollywood,Movies
 Mbc Tv, Odia
+McLeods Daughters,Drama
+Medical Incredible,Documentary
+Mera Mera TV,Entertainment
+Metal.Rocks,Music
 Mgm Presents Action, Movies
 Mgm Presents, Movies
+MGM Presents: Action,Action
 Mgm Presents: Horror, Movies
 Mgm Presents: Westerns, Movies
+MHz Mysteries,Mystery
+MI-5,Drama
+Midnight Pulp,Horror
 Midsomer Murders, Mystery
+Military Heroes Presented By History,Documentary
+Million Dollar Dream Home,Lifestyle
+Million Dollar Listing Vault,Reality
 Miniplex Hd, Movies
+Miramax Movie Channel,Movies
 Mission Impossible, Action
 Mister Rogers' Neighborhood, Kids
 Mix Hollywood, Movies
 Mlb, Sports
 Mnx Hd, Movies
+Modern Innovations by History,Documentary
 Modern Marvels By History, Documentary
 Monster Jam, Sports
+Monsters are Real,Documentary
 More True Crime, True Crime
 More Tv Drama, Drama
 More Tv Sitcoms, Comedy
+More U,Entertainment
+MotoGP Channel,Sports
 Movie Hub Action, Movies
 Movie Hub, Movies
+Movie Music by Stingray,Music
 Movieplex, Movies
 Movies Now, Movies
 Movies Thriller, Movies
@@ -413,8 +763,12 @@ Moviesnow +, Movies
 Moviesphere Au, Movies
 Moviesphere By Lionsgate, Movies
 Moviesphere Uk, Movies
+MOVIESPHERE,Movies
 Mr. Bean Animated, Kids
+Mr. Bean Live Action,Comedy
+Mr. Bean,Comedy
 Mrbeast, Entertainment
+MSG SportsZone,Sports
 Mst3k, Comedy
 Mtv Beats, Music
 Mtv Biggest Pop, Music
@@ -423,58 +777,129 @@ Mtv Pluto Tv, Music
 Mtv Spankin' New, Music
 Mtv, Music
 Murder She Wrote, Mystery
+Murdoch Mysteries,Mystery
 Music India, Music
 Mxn Hd, Movies
 Mxplayer Hd, Ott Platform
+My Little Pony,Kids
+Mysteria,Mystery
+Mysterious Worlds,Documentary
 Mythbusters, Documentary
+Mythical 24/7,Entertainment
 Mytime Movie Network, Movies
 Nandighosha Tv, Odia
 Narcos, Action
 Naruto, Anime
 Nash Bridges, Drama
+Nashville,Drama
+Nation News,News
 National Geo Wild Hd, Infotainment
 National Geographic Hd, Infotainment
+National Lampoon,Comedy
 Naturescape, Documentary
 Naturetime, Documentary
+Naxatra News Hindi,News
 Naxatra News, Odia
-Nazara, Entertainment
+Nazara,Hindi Entertainment
 Nbc Sports Now, Sports
+NDTV Good Times,Lifestyle
 Ndtv Goodtimes, Lifestyle
 Ndtv India, News
+NDTV Madhya Pradesh Chhattisgarh,News
 Ndtv Profit, Business News
+NDTV Rajasthan,News
 Ndtv, News
+NESN NATION,Sports
 Netflix Hd, Ott Platform
+Network 10,News
+News 1 India,News
+News 11,News
+News 24 MP & Chhattisgarh,News
+News 24,News
+News Daily 24,News
+News Hour,News
+News India 24x7,News
+News Leader,News
+News Nation 81,News
 News Nation, News
+News State MP & CHG,News
+News State Punjab Haryana Himachal,News
+News State UP & UK,News
 News State Up Uk, News
+News18 Bihar Jharkhand,News
+News18 Delhi NCR JK,News
 News18 India, News
+News18 Madhya Pradesh/Chhattisgarh,News
 News18 Odia, Odia
+News18 Punjab/Haryana/Himachal,News
+News18 Rajasthan,News
+News18 Uttar Pradesh Uttarakhand,News
 News24, News
 News9 Live, News
 Nfl Channel, Sports
 Nh Bollyflix, Movies
 Nh Bollygold, Movies
 Nh Bollyraga, Music
+NHRA TV,Sports
 Nick Hd Plus, Kids
 Nick Jr. Pluto Tv, Kids
+Nick Jr.,Kids
 Nickelodeon Pluto Tv, Kids
+Nickelodeon,Kids
+Nikita,Action
+Nip/Tuck,Drama
 No Reservations, Lifestyle
+Nolly Africa HD,Drama
+Nomad Travel,Travel
+Non-Stop '90s,Music
+Nosey,Reality
+Nothin' But 90s,Music
+NSC9 News,News
 Odisha Tv, Odia
+On Patrol: Live,Reality
+ONE Championship TV,Sports
 One Paschima, Odia
 One Piece, Anime
+Only Bharat,News
+Operation Repo,Reality
 Oscar Movies, Movies
+OuterSphere by Lionsgate,Sci-Fi
+OUTFLIX MOVIES,Movies
+Outlaw,Western
+Outside,Outdoor
+Overtime,Sports
 Oxygen True Crime Archives, True Crime
+Pac-12 Insider,Sports
+Padharo SA,Entertainment
+Pam Grier's Soul Flix,Movies
 Paramount Movie Channel, Movies
 Paramount+ Picks, Movies
-Pasand Tv, Entertainment
+Paranormal Chronicles,Documentary
+Paranormal Files,Documentary
+Paras Gold,Spiritual
+Pasand Tv,Hindi Entertainment
+Paws & Claws,Infotainment
 Pbr Ridepass, Sports
 Pbs Antiques Roadshow, Lifestyle
+PBS Food,Lifestyle
+PBS Genealogy,Documentary
 Pbs Nature, Documentary
+PBS Retro,Classic TV
+PBS Travel,Travel
+Peace of Mind TV,Spiritual
+Penn & Teller: Fool Us,Reality
 People Are Awesome, Lifestyle
 Peppa Pig, Kids
+Perform by Lifetime,Drama
 Perry Mason, Classic Tv
 Pfl Mma, Sports
 Pga Tour, Sports
 Pickleball Now, Sports
+PickleballTV,Sports
+PickleTV,Entertainment
+Pink Panther,Kids
+Places & Spaces,Lifestyle
+Plex24,Entertainment
 Pluto Tv Action Drama, Action
 Pluto Tv Action, Movies
 Pluto Tv Adventure, Movies
@@ -512,70 +937,153 @@ Pluto Tv Thrillers,Movies
 Pluto Tv Trending Now,Entertainment
 Pluto Tv True Crime, True Crime
 Pluto Tv Westerns, Western
-Pocket Films, Entertainment
+Pocket Films,Hindi Entertainment
+pocket.watch Game-On,Kids
 Pogo, Kids
+Poker Night TV,Sports
 Pokergo, Sports
 Pokémon, Anime
+Pop Adult,Music
+Popular Science,Documentary
+Portlandia,Comedy
 Power Kids Tv, Kids
+Power Rangers,Action
 Powerkids Tv, Kids
 Powernation, Automotive
 Prameya News7, Odia
+Prarthana Bhawan TV,Spiritual
 Prarthana Tv, Odia
+Pratham News,News
+Preston & Brianna,Kids
+Prime News,News
+Prime Suspect,Mystery
+Primetime Soaps,Drama
+Property Brothers Channel,Lifestyle
 Property Brothers, Lifestyle
+Public First,News
 Public Music, Music
+Pulse,Music
+PursuitUP,Outdoor
+Q TV,Hindi Entertainment
 Qello Concerts, Music
 Quirky Af, Comedy
 Qwest Tv, Music
+RACER Select,Automotive
+Racing America,Sports
+Raftaar Media,News
 Raj Music Telugu, Music
 Raj Musix Telugu, Music
-Raj Pariwar, Entertainment
+Raj Pariwar,Hindi Entertainment
 Rakuten Top Movies Uk, Movies
 Rakuten Tv Action Movies Uk, Movies
 Rakuten Tv Comedy Movies Uk, Movies
+Rakuten Viki,Drama
 Rang Rangoli, Music
 Rangmanch, Entertainment
 Rawhide, Western
+Real Crime,True Crime
+Real Emergency,Reality
+Real Housewives Vault,Reality
+Real Wild,Documentary
 Red Bull Tv, Sports
+REELZ Famous & Infamous,True Crime
+Remember the �80s,Music
 Republic Bharat, News
 Republic Tv, News
+RetroCrush,Anime
 Revry Her, Lgbtq+
 Revry, Lgbtq+
 Ridiculousness, Comedy
 Rifftrax, Comedy
+Rig TV,Action
+Robot Wars by Mech+,Reality
 Rock Tv, Music
 Romedy Now, Movies
+Rookie Blue,Drama
 Rustic Retreats, Lifestyle
 Ryan And Friends, Kids
-Sab Hd, Entertainment
+Ryan Trahan,Entertainment
+Sab Hd,Hindi Entertainment
+Sach Bedhadak,News
 Sadhna Gold, Spiritual
+Sadhna News Madhya Pradesh/Chhattisgarh,News
+Sadhna Plus News,Spiritual
+Sadhna TV,Spiritual
+Sadhna,Spiritual
 Saga Music Haryanvi, Music
+Sahana News,News
 Sai Ekamra, Odia
 Sailor Moon, Anime
+Samachar Plus 24x7,News
+Sansad TV 1 HD,News
+Sansad TV 1,News
+Sansad TV 2 HD,News
+Sansad TV 2,News
 Sansani Live, News
-Set Hd, Entertainment
+Sanskar TV,Spiritual
+Sanskar UK,Spiritual
+Sanskar USA,Spiritual
+Sanskar Web TV,Spiritual
+Sarv Dharm Sangam,Spiritual
+Satsang TV,Spiritual
+Satsang Web TV,Spiritual
+Say Yes to the Dress,Reality
+Scandal,Drama
+Scares by Shudder,Horror
+Scream Factory TV,Horror
+Screambox TV,Horror
+Scripps Sports Network,Sports
+Set Hd,Hindi Entertainment
+Shades of Black,Drama
+Sharnam TV,Spiritual
 Shemaroo Bollywood, Movies
+Shemaroo Filmi Gaane,Music
 Shemaroo Filmy Gaane, Music
-Shemaroo Josh, Entertainment
-Shemaroo Tv, Entertainment
-Shemaroo Umang, Entertainment
+Shemaroo Josh,Hindi Entertainment
+Shemaroo Tv,Hindi Entertainment
+Shemaroo Umang,Hindi Entertainment
+Sheriffs: El Dorado County,Reality
+Shout! Movies,Movies
+Shout! TV,Entertainment
 Showbox, Music
+Shubh Cinema TV,Movies
+Shubh TV,Spiritual
+Shubhsandesh TV,Spiritual
 Sidharth Gold, Odia
 Sidharth Tv, Odia
 Sidharth Utsav, Music
+Silent Witness|New Tricks,Mystery
 Sitcom Legends, Entertainment
 Siti Music, Music
 Sketchy Af, Comedy
+SKWAD,Gaming
+Slightly Off IFC,Comedy
+SLOPES,Sports
+SLVR Sports and Entertainment (SLVR),Sports
 Smithsonian Channel Selects, Documentary
+Smooth Jazz,Music
+SNL Vault,Comedy
+So Yummy,Lifestyle
+So... Real,Reality
+Soham TV,Spiritual
+Songdew TV,Music
+Sonic The Hedgehog,Kids
+Sonic TV,Kids
+Sonic,Kids
 Sony Bbc Earth Hd, Infotainment
-Sony Entertainment Hd, Entertainment
-Sony Hd, Entertainment
-Sony Kal Hindi, Entertainment
+Sony Entertainment Hd,Hindi Entertainment
+Sony Entertainment Television HD,Hindi Entertainment
+Sony Entertainment Television,Hindi Entertainment
+Sony Hd,Hindi Entertainment
+Sony Kal Hindi,Hindi Entertainment
 Sony Max 2, Movies
 Sony Max Hd, Movies
 Sony Max, Movies
-Sony Pal, Entertainment
+Sony Pal,Hindi Entertainment
 Sony Pix Hd, Movies
-Sony Sab Hd, Entertainment
+Sony Sab Hd,Hindi Entertainment
+Sony SAB,Hindi Entertainment
+Sony Sports Ten 3 Hindi,Sports
 Sony Ten 1 Hd, Sports
 Sony Ten 1 Sd, Sports
 Sony Ten 1, Sports
@@ -591,17 +1099,26 @@ Sony Ten 4, Sports
 Sony Ten 5 Hd, Sports
 Sony Ten 5 Sd, Sports
 Sony Ten 5, Sports
-Sony Tv, Entertainment
+Sony Tv,Hindi Entertainment
 Sony Wah, Movies
+Sony Yay!,Kids
 Sony Yay, Kids
 Sonyliv Hd, Ott Platform
 South Station, Movies
+Space & Beyond,Sci-Fi
+Spark TV Light & Love,Lifestyle
+Speed Sport 1,Sports
+SPEEDVISION,Automotive
 Spike Outdoors, Sports
 Spike Pluto Tv, Action
+SPIN,Music
+Sports Illustrated TV,Sports
 Sports Live, Sports
+SportsGrid,Sports
 Sri Jagannath Dham, Odia
-Star Bharat Hd, Entertainment
-Star Bharat, Entertainment
+Stadium,Sports
+Star Bharat Hd,Hindi Entertainment
+Star Bharat,Hindi Entertainment
 Star Central, Entertainment
 Star Gold 2 Hd, Movies
 Star Gold 2, Movies
@@ -620,12 +1137,14 @@ Star Maa Music, Music
 Star Maa, Entertainment
 Star Movies Hd, Movies
 Star Movies Select Hd, Movies
-Star Plus Hd, Entertainment
+Star Plus Hd,Hindi Entertainment
 Star Sports 1 Hd Hindi, Sports
 Star Sports 1 Hd, Sports
 Star Sports 1 Hindi, Sports
 Star Sports 2 Hd, Sports
 Star Sports 2 Hindi Hd, Sports
+Star Sports 2 Hindi,Sports
+Star Sports 2,Sports
 Star Sports 3, Sports
 Star Sports Khel, Sports
 Star Sports Select 1 Hd, Sports
@@ -639,57 +1158,125 @@ Star Trek: The Motion Pictures, Sci-Fi
 Star Trek: The Next Generation, Sci-Fi
 Star Trek: Voyager, Sci-Fi
 Star Utsav Movies, Movies
-Star Utsav, Entertainment
+Star Utsav,Hindi Entertainment
+Stargate by MGM,Sci-Fi
 Stargate, Sci-Fi
-Starplus Hd, Entertainment
+StarPlus (United Kingdom),Hindi Entertainment
+Starplus Hd,Hindi Entertainment
+Startalk TV,Talk Show
+Steelbird Music,Music
+Stingray Classica Stream,Music
 Stingray Djazz, Music
+Stingray Greatest Hits,Music
 Stingray Holidayscapes, Lifestyle
+Stingray Hot Country,Music
+Stingray Karaoke,Music
+Stingray Naturescape,Documentary
+Stingray Soul Storm,Music
+Storage Wars by A&E,Reality
+Stories by AMC,Drama
+Strangely Addicting,Documentary
 Strawberry Shortcake And Friends, Kids
+Strawberry Shortcake,Kids
+Strongman Champions,Sports
 Studio One Plus, Entertainment
+STV Haryana News,News
 Subharti Tv, Spiritual
+Sudarshan News,News
 Sun Gemini Comedy, Entertainment
 Sun Gemini Life, Entertainment
 Sun Gemini Movies Hd, Movies
 Sun Gemini Music Hd, Music
 Sun Gemini Tv Hd, Entertainment
+Super Hungama,Kids
+Superhitz,Music
 Supermarket Sweep, Game Show
 Supernatural Drama, Drama
+Surf Cinema,Sports
+Surfer TV,Sports
+Survive or Die,Reality
+SWAC TV,Sports
+Swadesh News,News
+Swaraj Express SMBC,News
 Swastik Stories, Spiritual
+Swastik TV,Spiritual
+Sweet Escapes,Lifestyle
+Swerve Combat,Sports
+Swerve Women's Sports,Sports
 Swerve Women’s Sports, Sports
+Taaza TV,News
+TAG TV,Entertainment
 Tarang Music, Odia
 Tarang Tv, Odia
 Tastemade Smokehouse, Lifestyle
+Tastemade,Lifestyle
 Tata Play Bollywood, Movies
 Tata Play Classic Cinema, Movies
-Tata Play Classic Tv, Entertainment
+Tata Play Classic Tv,Hindi Entertainment
+Team USA TV,Sports
+Teen Wolf by MGM,Drama
+Teletubbies,Kids
+Tennis Channel 2,Sports
+Tennis TV,Sports
+Tennis+,Sports
 Tennischannel 2, Sports
+TG Junior,Kids
+Thalaivar Hits,Music
+That Girl,Classic TV
 That's 70s, Music
 That's 80s, Music
 That's 90s00s, Music
 That's Rock, Music
 The Addams Family, Classic Tv
 The Andy Griffith Show, Classic Tv
+The Asylum,Movies
+The Biggest Loser,Reality
 The Bob Ross Channel, Lifestyle
+The Bold and the Beautiful,Drama
+The Carol Burnett Show,Classic TV
+The Conners,Comedy
 The Cube, Entertainment
+The Design Network,Lifestyle
+The Doctor Blake Mysteries,Mystery
+The Doctors,Talk Show
+The Ed Sullivan Show,Classic TV
+The Emeril Lagasse Channel,Lifestyle
+The FBI Files,True Crime
+The FBI,Crime Drama
 The First 48 By A&E, True Crime
+The Graham Norton Show,Talk Show
+The Great British Baking Channel,Lifestyle
 The Jamie Oliver Channel, Lifestyle
+The Jim Rome Show,Sports
 The Jungle Book, Kids
+The Kids in the Hall,Comedy
 The Lallantop, News
+The Librarians,Sci-Fi
 The Lone Ranger, Western
 The Love Boat, Classic Tv
 The Martha Stewart Channel, Lifestyle
+The Movie Club +2,Movies
 The Movie Club+2, Movies
 The Movie Club, Movies
 The Nba Channel, Sports
 The New Detectives, True Crime
+The Osbournes,Reality
+The Outer Limits,Sci-Fi
+The Outpost,Sci-Fi
 The Pet Collective,Entertainment
 The Price Is Right, Game Show
 The Price Is Right: The Barker Era, Game Show
-The Q, Entertainment
+The Prof G Channel, Business News
+The Q,Hindi Entertainment
+The Repair Shop,Reality
 The Rifleman, Western
+The Sherlock Holmes Channel,Mystery
+The Spa,Lifestyle
 The Try Guys, Reality
 The Twilight Zone, Sci-Fi
 The Walking Dead Universe,Classic TV
+The Wicked Tuna Channel,Reality
+The Wiggles,Kids
 The Wild Wild West, Western
 The X-Files, Sci-Fi
 Thesorrygirls Tv, Lifestyle
@@ -697,28 +1284,57 @@ This Old House, Lifestyle
 Three's Company, Classic Tv
 Tiktok Radio, Music
 Time2rlx, Lifestyle
+Times Now Navbharat HD,News
 Times Now Navbharat, News
 Tiny House Nation, Lifestyle
+TLC (India) HD,Lifestyle
 Tlc Hd, Entertainment
 Tlc, Entertainment
+TMZ,Entertainment
+TNA Wrestling Channel,Sports
 Tna Wrestling, Sports
+TNP News,News
 Tony Robbins Network, Lifestyle
 Toon Goggles, Kids
 Top Gear, Automotive
 Top Rank Classics, Sports
 Torque By History, Automotive
+Torque Presented By History,Automotive
 Tosh.0, Comedy
+Total Bhakti,Spiritual
+Total TV Haryana,News
 Totally Turtles, Kids
 Touched By An Angel, Drama
 Trace Sport Stars, Sports
 Trace Urban, Music
+Trailers From Hell,Movies
+Transformers,Kids
+Travel Escapes,Travel
+Travelxp 4K HDR,Travel
 Travelxp Hd, Travel
+Tribeca Channel,Movies
+Trishul Broadcasting Network,News
+Triton Poker,Sports
+TruBlu,True Crime
+True Crime Now,True Crime
+True History,Documentary
+TV 100,News
 Tv Land Drama, Classic Tv
 Tv Land Sitcoms, Entertainment
+TV One Crime & Justice,True Crime
+TV27 News,News
+TV30 India,News
+TV45,News
+TV7 Bharat,News
 Tv9 Bharatvarsh, News
+TVB Pearl Drama,Drama
+TVOne Stars & Stories,Entertainment
 Uefa Champions League, Sports
 Ufc, Sports
 Ultimate Builds, Automotive
+Unbeaten,Sports
+Unidentified,Documentary
+Unique TV,News
 Unite8 Sports 1 Hd, Sports
 Universal Action, Movies
 Universal Crime,Movies
@@ -726,8 +1342,14 @@ Universal Monsters, Movies
 Universal Movies, Movies
 Universal Westerns, Movies
 Unsolved Mysteries, True Crime
+Unspeakable,Kids
+Untold Stories of the ER,Reality
 Unxplained Zone, Documentary
+UP NOW,News
+Utsav Bharat,Hindi Entertainment
+Utsav Plus,Hindi Entertainment
 Vedic, Spiritual
+VEEPS Concert Pass,Music
 Vevo '70s, Music
 Vevo '80s, Music
 Vevo '90s & '00s, Music
@@ -741,61 +1363,102 @@ Vevo R&B, Music
 Vevo Retro, Music
 Vevo Rock, Music
 Vevo True School Hip-Hop, Music
+VICE,Documentary
+VIP News,News
+Vistaar News,News
+VR+,Technology
+VTU,Entertainment
+Wanted: Dead or Alive,Western
+Watch it SCREAM,Horror
+Waypoint TV,Outdoor
 Wedotv Big Stories, Documentary
 Wedotv Cars, Automotive
 Wedotv Get Factual, Documentary
 Wedotv Movies, Movies
 Wedotv Sports, Sports
+Weeds & Nurse Jackie,Drama
+Welcome Home,Lifestyle
+Wendy Williams,Talk Show
+Western Bound,Western
 Western Tv, Western
 Wheel World, Automotive
 Wild 'N Out, Comedy
 Wild Flix, Documentary
 Wild Stuff, Documentary
+Wild West TV,Western
+WildEarth,Documentary
 Willow Sports, Sports
 Wion, News
+WipeoutXtra,Reality
+Wired2Fish,Outdoor
+Women Behind Bars,True Crime
 Women's Sports Network, Sports
+Wonder,Documentary
+World Billiards TV,Sports
+World of Love Island,Reality
 World Poker Tour, Sports
+World Surf League 24/7,Sports
+World's Most Evil Killers,True Crime
+WOW Kidz,Kids
+Wu Tang Collection,Action
+XITE 60s & 70s Groove,Music
+XITE 80s Flashback,Music
 Xite 90s Throwback, Music
+XITE Christian Hits,Music
 Xite Classic Country, Music
+XITE Country Today,Music
 Xite Gospel, Music
+XITE Hip-Hop Evolution,Music
 Xite Hits, Music
 Xite Just Chill, Music
+XITE R&B Classic Jams,Music
+XITE R&B Feels,Music
+XITE Rap Game,Music
+XITE Reggae Vibes,Music
 Xite Rock X Metal, Music
 Xite Summer, Music
+XITE The Beatles,Music
 Xplore, Travel
 Xtreme Outdoor By History, Sports
 Xxtreme Jobs, Reality
+Y2K,Music
+Yahoo Finance,Business News
+Yahoo! Sports Network,Sports
 Yo! Mtv, Music
 Yrf Music Hd, Music
+YRF Music Nepal,Music
 Yrf Music, Music
 Yu-Gi-Oh!, Anime
 Zee Action, Movies
-Zee Anmol, Entertainment
+Zee Anmol,Hindi Entertainment
 Zee Bharat, News
-Zee Bollybood, Movies
 Zee Bollywood, Movies
 Zee Business, Business News
-Zee Cafe, Entertainment
+Zee Cafe,Lifestyle
 Zee Cine Classic, Movies
 Zee Cinema Apac, Movies
 Zee Cinema Hd, Movies
+Zee Cinema,Movies
 Zee Cinemalu Hd, Movies
 Zee Cinemalu, Movies
 Zee Clasic, Movies
 Zee Classic, Movies
 Zee Comedy Nation, Comedy
-Zee Dil Se, Entertainment
+Zee Dil Se,Hindi Entertainment
 Zee Horror Nights, Movies
 Zee News, News
 Zee Odisha News, Odia
 Zee Sarthak, Odia
 Zee South Flix, Movies
-Zee Tv Asia Pacific, Entertainment
-Zee Tv Canada, Entertainment
-Zee Tv Hd, Entertainment
+Zee Tv Asia Pacific,Hindi Entertainment
+Zee Tv Canada,Hindi Entertainment
+Zee Tv Hd,Hindi Entertainment
+Zee TV,Hindi Entertainment
 Zee Zest Hd,LifeStyle
 Zee5 Hd, Ott Platform
 Zenlife By Stingray, Lifestyle
 Zing!, Music
 Zing, Music
+Zingabad,Music
+Zoom Nepal,Music
 Zoom, Music
