@@ -74,7 +74,7 @@ Always Funny, Comedy
 AmarUjala,News
 Amasian TV,Entertainment
 Amazon Hd, Ott Platform
-AMC Thrillers,Thriller
+AMC Thrillers,Entertainment
 America's Funniest Home Videos, Comedy
 America's Got Talent, Entertainment
 America's Test Kitchen, Lifestyle
@@ -286,7 +286,7 @@ Crime & Justice,True Crime
 Crime Scene Tv, True Crime
 Crime Scenes,True Crime
 Crime Tak, True Crime
-Crime ThrillHer,Thriller
+Crime ThrillHer,Entertainment
 Crimes Cults Killers,True Crime
 Criminal Minds, Drama
 Crunchyroll, Anime
@@ -594,7 +594,7 @@ Ice Pilots NWT,Reality
 Ice Road Truckers,Reality
 IFC Films Picks,Movies
 Impossible - Quiz Show,Game Show
-In The Heat Of The Night by MGM,Crime Drama
+In The Heat Of The Night by MGM, Drama
 Ind 24,News
 India Daily 24x7, News
 India Daily Live,News
@@ -1056,7 +1056,7 @@ Silent Witness|New Tricks,Mystery
 Sitcom Legends, Entertainment
 Siti Music, Music
 Sketchy Af, Comedy
-SKWAD,Gaming
+SKWAD,LifeStyle
 Slightly Off IFC,Comedy
 SLOPES,Sports
 SLVR Sports and Entertainment (SLVR),Sports
@@ -1242,7 +1242,7 @@ The Doctors,Talk Show
 The Ed Sullivan Show,Classic TV
 The Emeril Lagasse Channel,Lifestyle
 The FBI Files,True Crime
-The FBI,Crime Drama
+The FBI, Drama
 The First 48 By A&E, True Crime
 The Graham Norton Show,Talk Show
 The Great British Baking Channel,Lifestyle
@@ -1366,7 +1366,7 @@ Vevo True School Hip-Hop, Music
 VICE,Documentary
 VIP News,News
 Vistaar News,News
-VR+,Technology
+VR+,Lifestyle
 VTU,Entertainment
 Wanted: Dead or Alive,Western
 Watch it SCREAM,Horror
