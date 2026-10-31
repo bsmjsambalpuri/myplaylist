@@ -53,7 +53,6 @@ Bollywood HD, Movies
 Boogle Bollywood, Entertainment
 Bridge,Music
 Captain, Entertainment
-CARTOON NETWORK, Kids
 Cartoon Network, Kids
 Cartoon Network HD, Kids
 Charge!, Entertainment
@@ -104,6 +103,7 @@ Disney Channel HD, Kids
 Disney International HD, Entertainment
 DISNEY INTERNATIONAL HD, Entertainment
 DISNEY JUNIOR, Kids
+DISNEY Junior (India), Kids
 Divya, Spiritual
 Dubbed movies, Movies
 E24, Music
@@ -178,6 +178,7 @@ Kalinga TV,Odia
 Kanak News,Odia
 Kappa TV, Music
 KCM, Entertainment
+KCM India, Entertainment
 Kiddo Matix, Kids
 Kings of Comedy, Entertainment
 Lionsgate Play, Entertainment
@@ -310,23 +311,19 @@ STAR MAA HD, Entertainment
 STAR MAA MOVIES HD, Movies
 Star Maa Music, Music
 Star Movies HD, Movies
+Star Movies HD, Movies
 Star Movies Select HD, Movies
 STAR PLUS HD, Entertainment
-Star Sports 1 HD, Sports
 STAR SPORTS 1 HD, Sports
 STAR SPORTS 1 HD HINDI, Sports
 Star Sports 1 Hindi, Sports
-Star Sports 2 hd, Sports
 STAR SPORTS 2 HD, Sports
 Star Sports 2 Hindi HD, Sports
-Star Sports 3, Sports
 STAR SPORTS 3, Sports
 Star Sports Khel, Sports
 STAR SPORTS SELECT 1 HD, Sports
-Star Sports Select 1 HD, Sports
 Star Sports Select 1 SD, Sports
 STAR SPORTS SELECT 2 HD, Sports
-Star Sports Select 2 HD, Sports
 Star Sports Select 2 SD, Sports
 STAR UTSAV, Entertainment
 STAR UTSAV MOVIES, Movies
@@ -352,6 +349,8 @@ The Lallantop, News
 The Movie Club, Movies
 The Movie Club+2, Movies
 The Q, Entertainment
+TLC, Entertainment
+TLC HD, Entertainment
 Trace Urban, Music
 TV Land Sitcoms,Entertainment
 UNITE8 SPORTS 1 HD, Sports
@@ -371,6 +370,7 @@ Vevo Pop, Music
 Vevo Retro, Music
 Vevo Rock, Music
 WedoTV Movies, Movies
+Willow Sports, Sports
 XITE 90s Throwback, Music
 XITE Hits, Music
 XITE Just Chill, Music
@@ -414,3 +414,6 @@ Sonyliv hd, OTT Platform
 Amazon hd, OTT Platform
 Erosnow hd, OTT Platform
 Alt balaji hd, OTT Platform
+Kadak, Infotainment
+Hare Krsna TV, Spiritual
+Just For Laughs Gags, Comedy
