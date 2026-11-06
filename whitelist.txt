@@ -1,9 +1,9 @@
 0000Channelname,Category
-& Pictures Hd, Hinidi Movies
-& Pictures, Hinidi Movies
-& Xplor, Hinidi Movies
-&Pictures International, Hinidi Movies
-&Tv Hd, Hindi Entertainment
+& Pictures HD, Hindi Movies
+& Pictures, Hindi Movies
+& Xplor, Hindi Movies
+&Pictures International, Hindi Movies
+&Tv HD, Hindi Entertainment
 &TV International,Hindi Entertainment
 &Tv,Hindi Entertainment
 00s Replay, Movies
@@ -21,7 +21,7 @@
 7X Music,Music
 80's Sitcom Flashback,Classic TV
 80s Rewind, Music
-8xm Hd, Music
+8xm HD, Music
 8xm, Music
 90's Kids, Kids
 90s Kids Tv 2, Kids
@@ -37,7 +37,7 @@ A&E Live PD Greatest Shifts,Reality
 Aadinath TV,Spiritual
 Aagaaz Times,News
 Aaj Ki Khabar,News
-Aaj Tak Hd, News
+Aaj Tak HD, News
 Aaj Tak,News
 Aajtak, News
 Aashirwad Tv, Spiritual
@@ -52,8 +52,8 @@ Ace Tv, Entertainment
 ACL Cornhole TV,Sports
 Acorn TV Mysteries,Mystery
 Action Hollywood Movies, Movies
-Action Sports Hd 1, Sports
-Action Sports Hd 2, Sports
+Action Sports HD 1, Sports
+Action Sports HD 2, Sports
 AddictaTV,Entertainment
 Adhyatm TV,Spiritual
 AfroLandTV,Entertainment
@@ -62,18 +62,18 @@ ALF,Classic TV
 Alien Nation by DUST,Sci-Fi
 Aliwko,Entertainment
 All Reality We TV,Reality
-All Time Movies, Hinidi Movies
+All Time Movies, Hindi Movies
 All Weddings We TV,Reality
 Allblk Gems, Movies
 Alright! TV,Entertainment
-Alt Balaji Hd, Ott Platform
+Alt Balaji HD, Ott Platform
 Alternative,Music
 Always Christmas,Travel
 Always Funny Videos, Comedy
 Always Funny, Comedy
 AmarUjala,News
 Amasian TV,Entertainment
-Amazon Hd, Ott Platform
+Amazon HD, Ott Platform
 AMC Thrillers,Entertainment
 America's Funniest Home Videos, Comedy
 America's Got Talent, Entertainment
@@ -83,20 +83,20 @@ American Gladiators by MGM,Sports
 American Idol, Entertainment
 ANB News,News
 Ancient Aliens, Documentary
-And Pictures Hd, Hinidi Movies
+And Pictures HD, Hindi Movies
 Andromeda, Sci-Fi
 Andy Haryana,News
 Anger Management,Comedy
 Ani-Monsters, Anime
-Animal Planet Hd, Infotainment
+Animal Planet HD, Infotainment
 Animal Planet, Infotainment
 Animation+,Kids
 Animax, Anime
 Anime 24/7,Anime
 Anime X Hidive, Anime
 Anjan Tv,Hindi Entertainment
-Anmol Cinema 2, Hinidi Movies
-Anmol Cinema, Hinidi Movies
+Anmol Cinema 2, Hindi Movies
+Anmol Cinema, Hindi Movies
 Anmol Tv,Hindi Entertainment
 Antiques Road Trip, Lifestyle
 Antiques Roadshow Uk, Lifestyle
@@ -104,7 +104,7 @@ Apex Entertainment, Entertainment
 APN,News
 Are We There Yet?,Comedy
 Argus News, Odia
-Arre Hd, Entertainment
+Arre HD, Entertainment
 Aryan TV National,News
 Asian Drama,Drama
 AsianCrush,Movies
@@ -118,9 +118,9 @@ Awaaz India TV,News
 Awakening TV,Spiritual
 Awsn, Sports
 Ax Men by History,Reality
-B4u Kadak, Hinidi Movies
-B4u Movies Vip, Hinidi Movies
-B4u Movies, Hinidi Movies
+B4u Kadak, Hindi Movies
+B4u Movies Vip, Hindi Movies
+B4u Movies, Hindi Movies
 B4u Music Vip, Music
 B4u Music, Music
 Baby Einstein,Kids
@@ -181,14 +181,14 @@ Bloomberg Originals, Business News
 Bloomberg Tv+, Business News
 Bloomberg Tv, Business News
 Blue Bloods, Drama
-Bollygold, Hinidi Movies
-Bollywood Classic Romania, Hinidi Movies
-Bollywood Classic, Hinidi Movies
-Bollywood Film, Hinidi Movies
-Bollywood HD Russia, Hinidi Movies
-Bollywood Hd, Hinidi Movies
+Bollygold, Hindi Movies
+Bollywood Classic Romania, Hindi Movies
+Bollywood Classic, Hindi Movies
+Bollywood Film, Hindi Movies
+Bollywood HD Russia, Hindi Movies
+Bollywood HD, Hindi Movies
 Bollywood Masala,News
-Bollywood, Hinidi Movies
+Bollywood, Hindi Movies
 Bon Voyage, Lifestyle
 Bonanza, Western
 Bonanza-Billies TV,Western
@@ -208,7 +208,7 @@ Buzzr, Game Show
 BVG,Spiritual
 Camp Spoopy,Kids
 Captain, Entertainment
-Cartoon Network Hd, Kids
+Cartoon Network HD, Kids
 Cartoon Network, Kids
 Cbs Sports Hq, Sports
 Celebrity Name Game,Game Show
@@ -226,6 +226,7 @@ Chef vs Chef,Lifestyle
 Chip & Jo: Feels Like Home By Magnolia Network, Lifestyle
 Chip & Jo: Feels Like Home,Lifestyle
 Cindie TV,Movies
+Cinemax,Movies
 CJ ENM K-Food & Travel,Lifestyle
 CJ ENM K-POP,Music
 Classic Car Auctions,Automotive
@@ -250,11 +251,11 @@ Cnews Bharat,News
 Cnn News18, News
 Cnn Originals, Documentary
 Cold Case Files By A&E, True Crime
-Colors Cineplex Hd, Hinidi Movies
-Colors Cineplex Superhit, Hinidi Movies
-Colors Cineplex, Hinidi Movies
-Colors Hd,Hindi Entertainment
-Colors Infinity Hd, Entertainment
+Colors Cineplex HD, Hindi Movies
+Colors Cineplex Superhit, Hindi Movies
+Colors Cineplex, Hindi Movies
+Colors HD,Hindi Entertainment
+Colors Infinity HD, Entertainment
 Colors Infinity, Entertainment
 Colors MENA HD,Entertainment
 Colors Odia, Odia
@@ -314,21 +315,21 @@ DD Bihar,Hindi Entertainment
 Dd Chhattisgarh,Hindi Entertainment
 DD Haryana,Hindi Entertainment
 DD Himachal Pradesh,Hindi Entertainment
-Dd India Hd, News
+Dd India HD, News
 Dd India, News
 DD Jharkhand,Hindi Entertainment
 Dd Kashir,Hindi Entertainment
 Dd Kisan, Infotainment
 Dd Madhya Pradesh,Hindi Entertainment
 DD Manipur,Entertainment
-Dd National Hd,Hindi Entertainment
+Dd National HD,Hindi Entertainment
 Dd National,Hindi Entertainment
-Dd News Hd, News
+Dd News HD, News
 Dd News, News
 Dd Odia, Odia
 DD Rajasthan,Hindi Entertainment
 Dd Sports 1.0, Sports
-Dd Sports Hd, Sports
+Dd Sports HD, Sports
 Dd Sports, Sports
 Dd Urdu,Hindi Entertainment
 Dd Uttar Pradesh,Hindi Entertainment
@@ -336,7 +337,7 @@ Dd Uttarakhand,Hindi Entertainment
 Deal Or No Deal, Game Show
 Deal Zone Presented By History,Reality
 Death Valley Days,Western
-Deewana Hd, Music
+Deewana HD, Music
 Degrassi, Drama
 Delicious Eats By Food Network, Lifestyle
 Designated Survivor,Drama
@@ -349,17 +350,17 @@ Dick Van Dyke,Classic TV
 Dinos 24/7, Documentary
 Discovery Channel HD,Infotainment
 Discovery Channel,Infotainment
-Discovery Hd, Infotainment
+Discovery HD, Infotainment
 Discovery Kids, Kids
 Discovery Science, Infotainment
 Discovery Turbo Tv, Documentary
 Discovery Turbo, Infotainment
 Discovery, Infotainment
 Disha TV,Spiritual
-Dishoom Films, Hinidi Movies
-Disney Channel Hd, Kids
+Dishoom Films, Hindi Movies
+Disney Channel HD, Kids
 Disney Channel, Kids
-Disney International Hd, Entertainment
+Disney International HD, Entertainment
 Disney Junior (India), Kids
 Disney Junior, Kids
 Divya Bhajan, Spiritual
@@ -379,7 +380,7 @@ Dr. G: Medical Examiner,True Crime
 Dr. Phil,Talk Show
 Dr. Quinn Medicine Woman, Classic Tv
 DREAD TV,Entertainment
-Dubbed Movies, Hinidi Movies
+Dubbed Movies, Hindi Movies
 Duck Dynasty by A&E,Reality
 Dungeons & Dragons Adventures,Sci-Fi
 Dynasty, Drama
@@ -421,16 +422,16 @@ Epic Parivaar,Hindi Entertainment
 Epic Parivar,Hindi Entertainment
 Epic TV Digital,Infotainment
 Epic Tv, Infotainment
-Eros Universe Bollywood Cinema, Hinidi Movies
-Eros Universe Entertainment, Hinidi Movies
-Erosnow Hd, Ott Platform
+Eros Universe Bollywood Cinema, Hindi Movies
+Eros Universe Entertainment, Hindi Movies
+Erosnow HD, Ott Platform
 Entertainment News,News
 ETV Beats,Music
-Etv Cinema Hd, Movies
-Etv Hd, Entertainment
+Etv Cinema HD, Movies
+Etv HD, Entertainment
 Etv Music, Music
 Euro Hits,Music
-Euro Sport Hd, Sports
+Euro Sport HD, Sports
 Evergreen Classic, Movies
 Extreme Jobs,Reality
 F1 Channel,Sports
@@ -482,7 +483,7 @@ Frasier, Comedy
 Free Movies Plus,Movies
 FrightFlix,Horror
 FTF Sports,Sports
-Ftv Hd,Lifestyle
+Ftv HD,Lifestyle
 Ftv,Lifestyle
 Fubo Sports Network,Sports
 FUEL TV,Sports
@@ -508,12 +509,12 @@ Go Go Gadget!, Kids
 Go Wild, Documentary
 God Stands TV Hindi,Spiritual
 Golazo Network, Sports
-Goldmines 2, Hinidi Movies
-Goldmines Action, Hinidi Movies
-Goldmines Bollywood, Hinidi Movies
-Goldmines Movies 2, Hinidi Movies
-Goldmines Movies, Hinidi Movies
-Goldmines, Hinidi Movies
+Goldmines 2, Hindi Movies
+Goldmines Action, Hindi Movies
+Goldmines Bollywood, Hindi Movies
+Goldmines Movies 2, Hindi Movies
+Goldmines Movies, Hindi Movies
+Goldmines, Hindi Movies
 Golf Network, Sports
 Golfpass, Sports
 Good News Today, News
@@ -540,8 +541,13 @@ Hare Krsna Tv, Spiritual
 Haryanvi Hts, Music
 Hasbro Legends,Kids
 HBCUGO SPORTS,Sports
+HBO HD,Movies
+HBO2 HD,Movies
+HBO Plus HD,Movies
+HBO Signature HD,Movies
+HBO XTreme HD,Movies
 HBO Boxing,Sports
-Hd Travel, Travel
+HD Travel, Travel
 Heartland, Drama
 Hell's Kitchen & Kitchen Nightmares,Reality
 Heritage+,Lifestyle
@@ -549,7 +555,7 @@ HerSphere by Lionsgate,Drama
 Hi-YAH!,Action
 Highway Thru Hell,Reality
 Highway to Heaven,Classic TV
-Hindi Hits Hd, Music
+Hindi Hits HD, Music
 Hindi Hits, Music
 Hindi Khabar,News
 Hindi Songs, Music
@@ -563,7 +569,7 @@ Hit List,Music
 Hit Sitcoms, Comedy
 HNN 24x7,News
 Hogan's Heroes, Classic Tv
-Hollywood Desi, Hinidi Movies
+Hollywood Desi, Hindi Movies
 Home Cooking By Food Network, Lifestyle
 Home Cooking,Lifestyle
 Home.Made.Nation, Lifestyle
@@ -576,12 +582,10 @@ Horror by ALTER,Horror
 Horror Stories,Horror
 Hosanna TV Hindi,Spiritual
 Hot Ones,Talk Show
-Hotstar Hd, Ott Platform
+Hotstar HD, Ott Platform
 House Of Crime, True Crime
 How To,Lifestyle
 HSTV,News
-Hum Tv Hd,Hindi Entertainment
-Hum World,Hindi Entertainment
 Hungama Hindi, Kids
 Hungama TV,Kids
 Hungama, Kids
@@ -603,7 +607,7 @@ India News Madhya Pradesh/Chhattisgarh,News
 India News Rajasthan,News
 India News Uttar Pradesh,News
 India News,News
-India Talkies, Hinidi Movies
+India Talkies, Hindi Movies
 India Today, News
 India Tv Aap Ki Adalat, News
 India Tv News, News
@@ -637,9 +641,9 @@ Jantantra TV,News
 Jatra Ekamra, Odia
 Jay Jagannath Tv, Odia
 Jinvani Channel,Spiritual
-Jio Exclusive Hd,Hindi Entertainment
-Jio Specials Hd,Hindi Entertainment
-Jio Sports Hd, Sports
+Jio Exclusive HD,Hindi Entertainment
+Jio Specials HD,Hindi Entertainment
+Jio Sports HD, Sports
 Johnny Carson TV,Talk Show
 Jojo Tv, Kids
 Joomusic, Music
@@ -676,6 +680,10 @@ Lawless,Action
 Legacy,Sports
 Lego Kids Tv, Kids
 Let's Make A Deal, Game Show
+LG 1,Movies
+LG 1 SPOTLIGHT,Movies
+LG 1 FILM,Movies
+LG 1: ACTION,Movies
 Life+Style, Lifestyle
 Lifetime Movie Favorites, Movies
 Lifetime Movies Love & Drama,Drama
@@ -696,18 +704,18 @@ Love Nature, Documentary
 Love Pets,Infotainment
 Love Thy Neighbor,Comedy
 LX Home Streaming,Lifestyle
-Made In Hollywood, Movies
+Made In Hollywood, Entertainment
 MagellanTV Wildest,Documentary
 Magnolia Selects,Lifestyle
-Maha Movie, Hinidi Movies
+Maha Movie, Hindi Movies
 Mahaa Max, Movies
 Mahotsav TV,Hindi Entertainment
 Man City 24/7,Sports
 Mangalmay TV,Spiritual
 Mango,Entertainment
 Manjari Tv, Odia
-Manoranjan Grand, Hinidi Movies
-Manoranjan Movies, Hinidi Movies
+Manoranjan Grand, Hindi Movies
+Manoranjan Movies, Hindi Movies
 Manoranjan Prime,Hindi Entertainment
 Manoranjan Tv,Hindi Entertainment
 Mark Rober Tv, Lifestyle
@@ -718,8 +726,10 @@ Maverick Black Cinema,Movies
 Mavtv Motorsports, Sports
 Max 1, Movies
 Mayday: Air Disaster, Documentary
-MBC Bollywood, Hinidi Movies
+MBC Bollywood, Hindi Movies
 Mbc Tv, Odia
+MBC2 HD,Movies
+MBC Max HD ,Movies
 McLeods Daughters,Drama
 Medical Incredible,Documentary
 Mera Mera TV,Entertainment
@@ -736,13 +746,15 @@ Midsomer Murders, Mystery
 Military Heroes Presented By History,Documentary
 Million Dollar Dream Home,Lifestyle
 Million Dollar Listing Vault,Reality
-Miniplex Hd, Hinidi Movies
+Miniplex HD, Hindi Movies
 Miramax Movie Channel,Movies
 Mission Impossible, Action
 Mister Rogers' Neighborhood, Kids
 Mix Hollywood, Movies
 Mlb, Sports
-Mnx Hd, Movies
+MNX,Movies
+MNX HD, Movies
+MN+,Movies
 Modern Innovations by History,Documentary
 Modern Marvels By History, Documentary
 Monster Jam, Sports
@@ -757,6 +769,7 @@ Movie Hub, Movies
 Movie Music by Stingray,Music
 Movieplex, Movies
 Movies Now, Movies
+Movies Now HD, Movies
 Movies Thriller, Movies
 Moviesnow +, Movies
 Moviesphere Au, Movies
@@ -764,22 +777,22 @@ Moviesphere By Lionsgate, Movies
 Moviesphere Uk, Movies
 MOVIESPHERE,Movies
 Mr. Bean Animated, Kids
-Mr. Bean Live Action,Comedy
-Mr. Bean,Comedy
+Mr. Bean Live Action,Kids
+Mr. Bean,Kids
 Mrbeast, Entertainment
 MSG SportsZone,Sports
 Mst3k, Comedy
 Mtv Beats, Music
 Mtv Biggest Pop, Music
-Mtv Hd, Music
+Mtv HD, Music
 Mtv Pluto Tv, Music
 Mtv Spankin' New, Music
 Mtv, Music
 Murder She Wrote, Mystery
 Murdoch Mysteries,Mystery
 Music India, Music
-Mxn Hd, Movies
-Mxplayer Hd, Ott Platform
+Mxn HD, Movies
+Mxplayer HD, Ott Platform
 My Little Pony,Kids
 Mysteria,Mystery
 Mysterious Worlds,Documentary
@@ -792,8 +805,8 @@ Naruto, Anime
 Nash Bridges, Drama
 Nashville,Drama
 Nation News,News
-National Geo Wild Hd, Infotainment
-National Geographic Hd, Infotainment
+National Geo Wild HD, Infotainment
+National Geographic HD, Infotainment
 National Lampoon,Comedy
 Naturescape, Documentary
 Naturetime, Documentary
@@ -809,7 +822,7 @@ Ndtv Profit, Business News
 NDTV Rajasthan,News
 Ndtv, News
 NESN NATION,Sports
-Netflix Hd, Ott Platform
+Netflix HD, Ott Platform
 Network 10,News
 News 1 India,News
 News 11,News
@@ -836,11 +849,11 @@ News18 Uttar Pradesh Uttarakhand,News
 News24, News
 News9 Live, News
 Nfl Channel, Sports
-Nh Bollyflix, Hinidi Movies
-Nh Bollygold, Hinidi Movies
+Nh Bollyflix, Hindi Movies
+Nh Bollygold, Hindi Movies
 Nh Bollyraga, Music
 NHRA TV,Sports
-Nick Hd Plus, Kids
+Nick HD Plus, Kids
 Nick Jr. Pluto Tv, Kids
 Nick Jr.,Kids
 Nickelodeon Pluto Tv, Kids
@@ -861,7 +874,7 @@ One Paschima, Odia
 One Piece, Anime
 Only Bharat,News
 Operation Repo,Reality
-Oscar Movies, Hinidi Movies
+Oscar Movies, Hindi Movies
 OuterSphere by Lionsgate,Sci-Fi
 OUTFLIX MOVIES,Movies
 Outlaw,Western
@@ -1002,7 +1015,7 @@ Rookie Blue,Drama
 Rustic Retreats, Lifestyle
 Ryan And Friends, Kids
 Ryan Trahan,Entertainment
-Sab Hd,Hindi Entertainment
+Sab HD,Hindi Entertainment
 Sach Bedhadak,News
 Sadhna Gold, Spiritual
 Sadhna News Madhya Pradesh/Chhattisgarh,News
@@ -1032,10 +1045,10 @@ Scares by Shudder,Horror
 Scream Factory TV,Horror
 Screambox TV,Horror
 Scripps Sports Network,Sports
-Set Hd,Hindi Entertainment
+Set HD,Hindi Entertainment
 Shades of Black,Drama
 Sharnam TV,Spiritual
-Shemaroo Bollywood, Hinidi Movies
+Shemaroo Bollywood, Hindi Movies
 Shemaroo Filmi Gaane,Music
 Shemaroo Filmy Gaane, Music
 Shemaroo Josh,Hindi Entertainment
@@ -1045,6 +1058,7 @@ Sheriffs: El Dorado County,Reality
 Shout! Movies,Movies
 Shout! TV,Entertainment
 Showbox, Music
+SHOWCASE,Movies
 Shubh Cinema TV,Movies
 Shubh TV,Spiritual
 Shubhsandesh TV,Spiritual
@@ -1055,7 +1069,10 @@ Silent Witness|New Tricks,Mystery
 Sitcom Legends, Entertainment
 Siti Music, Music
 Sketchy Af, Comedy
-SKWAD,LifeStyle
+SKWAD,Lifestyle
+Sky Cinema Action,Movies
+Sky Cinema Select,Movies
+Sky Cinema Premium,Movies
 Slightly Off IFC,Comedy
 SLOPES,Sports
 SLVR Sports and Entertainment (SLVR),Sports
@@ -1069,41 +1086,41 @@ Songdew TV,Music
 Sonic The Hedgehog,Kids
 Sonic TV,Kids
 Sonic,Kids
-Sony Bbc Earth Hd, Infotainment
-Sony Entertainment Hd,Hindi Entertainment
+Sony Bbc Earth HD, Infotainment
+Sony Entertainment HD,Hindi Entertainment
 Sony Entertainment Television HD,Hindi Entertainment
 Sony Entertainment Television,Hindi Entertainment
-Sony Hd,Hindi Entertainment
+Sony HD,Hindi Entertainment
 Sony Kal Hindi,Hindi Entertainment
-Sony Max 2, Hinidi Movies
-Sony Max Hd, Hinidi Movies
-Sony Max, Hinidi Movies
+Sony Max 2, Hindi Movies
+Sony Max HD, Hindi Movies
+Sony Max, Hindi Movies
 Sony Pal,Hindi Entertainment
-Sony Pix Hd, Movies
-Sony Sab Hd,Hindi Entertainment
+Sony Pix HD, Movies
+Sony Sab HD,Hindi Entertainment
 Sony SAB,Hindi Entertainment
 Sony Sports Ten 3 Hindi,Sports
-Sony Ten 1 Hd, Sports
+Sony Ten 1 HD, Sports
 Sony Ten 1 Sd, Sports
 Sony Ten 1, Sports
-Sony Ten 2 Hd, Sports
+Sony Ten 2 HD, Sports
 Sony Ten 2 Sd, Sports
 Sony Ten 2, Sports
-Sony Ten 3 Hd, Sports
+Sony Ten 3 HD, Sports
 Sony Ten 3 Sd, Sports
 Sony Ten 3,Sports
-Sony Ten 4 Hd, Sports
+Sony Ten 4 HD, Sports
 Sony Ten 4 Sd, Sports
 Sony Ten 4, Sports
-Sony Ten 5 Hd, Sports
+Sony Ten 5 HD, Sports
 Sony Ten 5 Sd, Sports
 Sony Ten 5, Sports
 Sony Tv,Hindi Entertainment
-Sony Wah, Hinidi Movies
+Sony Wah, Hindi Movies
 Sony Yay!,Kids
 Sony Yay, Kids
-Sonyliv Hd, Ott Platform
-South Station, Hinidi Movies
+Sonyliv HD, Ott Platform
+South Station, Hindi Movies
 Space & Beyond,Sci-Fi
 Spark TV Light & Love,Lifestyle
 Speed Sport 1,Sports
@@ -1116,39 +1133,39 @@ Sports Live, Sports
 SportsGrid,Sports
 Sri Jagannath Dham, Odia
 Stadium,Sports
-Star Bharat Hd,Hindi Entertainment
+Star Bharat HD,Hindi Entertainment
 Star Bharat,Hindi Entertainment
 Star Central, Entertainment
-Star Gold 2 Hd, Hinidi Movies
-Star Gold 2, Hinidi Movies
-Star Gold Hd, Hinidi Movies
-Star Gold Romance, Hinidi Movies
-Star Gold Select Hd, Hinidi Movies
-Star Gold Thrills, Hinidi Movies
-Star Gold, Hinidi Movies
-Star Jalsha Hd, Entertainment
+Star Gold 2 HD, Hindi Movies
+Star Gold 2, Hindi Movies
+Star Gold HD, Hindi Movies
+Star Gold Romance, Hindi Movies
+Star Gold Select HD, Hindi Movies
+Star Gold Thrills, Hindi Movies
+Star Gold, Hindi Movies
+Star Jalsha HD, Entertainment
 Star Jalsha, Entertainment
 Star Kiran, Odia
 Star Maa Gold, Movies
-Star Maa Hd, Entertainment
-Star Maa Movies Hd, Movies
+Star Maa HD, Entertainment
+Star Maa Movies HD, Movies
 Star Maa Music, Music
 Star Maa, Entertainment
-Star Movies Hd, Movies
-Star Movies Select Hd, Movies
-Star Plus Hd,Hindi Entertainment
-Star Sports 1 Hd Hindi, Sports
-Star Sports 1 Hd, Sports
+Star Movies HD, Movies
+Star Movies Select HD, Movies
+Star Plus HD,Hindi Entertainment
+Star Sports 1 HD Hindi, Sports
+Star Sports 1 HD, Sports
 Star Sports 1 Hindi, Sports
-Star Sports 2 Hd, Sports
-Star Sports 2 Hindi Hd, Sports
+Star Sports 2 HD, Sports
+Star Sports 2 Hindi HD, Sports
 Star Sports 2 Hindi,Sports
 Star Sports 2,Sports
 Star Sports 3, Sports
 Star Sports Khel, Sports
-Star Sports Select 1 Hd, Sports
+Star Sports Select 1 HD, Sports
 Star Sports Select 1 Sd, Sports
-Star Sports Select 2 Hd, Sports
+Star Sports Select 2 HD, Sports
 Star Sports Select 2 Sd, Sports
 Star Trek, Sci-Fi
 Star Trek: Deep Space Nine, Sci-Fi
@@ -1156,12 +1173,12 @@ Star Trek: Enterprise, Sci-Fi
 Star Trek: The Motion Pictures, Sci-Fi
 Star Trek: The Next Generation, Sci-Fi
 Star Trek: Voyager, Sci-Fi
-Star Utsav Movies, Hinidi Movies
+Star Utsav Movies, Hindi Movies
 Star Utsav,Hindi Entertainment
 Stargate by MGM,Sci-Fi
 Stargate, Sci-Fi
 StarPlus (United Kingdom),Hindi Entertainment
-Starplus Hd,Hindi Entertainment
+Starplus HD,Hindi Entertainment
 Startalk TV,Talk Show
 Steelbird Music,Music
 Stingray Classica Stream,Music
@@ -1184,9 +1201,9 @@ Subharti Tv, Spiritual
 Sudarshan News,News
 Sun Gemini Comedy, Entertainment
 Sun Gemini Life, Entertainment
-Sun Gemini Movies Hd, Movies
-Sun Gemini Music Hd, Music
-Sun Gemini Tv Hd, Entertainment
+Sun Gemini Movies HD, Movies
+Sun Gemini Music HD, Music
+Sun Gemini Tv HD, Entertainment
 Super Hungama,Kids
 Superhitz,Music
 Supermarket Sweep, Game Show
@@ -1209,8 +1226,8 @@ Tarang Music, Odia
 Tarang Tv, Odia
 Tastemade Smokehouse, Lifestyle
 Tastemade,Lifestyle
-Tata Play Bollywood, Hinidi Movies
-Tata Play Classic Cinema, Hinidi Movies
+Tata Play Bollywood, Hindi Movies
+Tata Play Classic Cinema, Hindi Movies
 Tata Play Classic Tv,Hindi Entertainment
 Team USA TV,Sports
 Teen Wolf by MGM,Drama
@@ -1254,9 +1271,9 @@ The Librarians,Sci-Fi
 The Lone Ranger, Western
 The Love Boat, Classic Tv
 The Martha Stewart Channel, Lifestyle
-The Movie Club +2, Hinidi Movies
-The Movie Club+2, Hinidi Movies
-The Movie Club, Hinidi Movies
+The Movie Club +2, Hindi Movies
+The Movie Club+2, Hindi Movies
+The Movie Club, Hindi Movies
 The Nba Channel, Sports
 The New Detectives, True Crime
 The Osbournes,Reality
@@ -1287,7 +1304,7 @@ Times Now Navbharat HD,News
 Times Now Navbharat, News
 Tiny House Nation, Lifestyle
 TLC (India) HD,Lifestyle
-Tlc Hd, Entertainment
+Tlc HD, Entertainment
 Tlc, Entertainment
 TMZ,Entertainment
 TNA Wrestling Channel,Sports
@@ -1310,7 +1327,7 @@ Trailers From Hell,Movies
 Transformers,Kids
 Travel Escapes,Travel
 Travelxp 4K HDR,Travel
-Travelxp Hd, Travel
+Travelxp HD, Travel
 Tribeca Channel,Movies
 Trishul Broadcasting Network,News
 Triton Poker,Sports
@@ -1334,7 +1351,7 @@ Ultimate Builds, Automotive
 Unbeaten,Sports
 Unidentified,Documentary
 Unique TV,News
-Unite8 Sports 1 Hd, Sports
+Unite8 Sports 1 HD, Sports
 Universal Action, Movies
 Universal Crime,Movies
 Universal Monsters, Movies
@@ -1424,40 +1441,51 @@ Y2K,Music
 Yahoo Finance,Business News
 Yahoo! Sports Network,Sports
 Yo! Mtv, Music
-Yrf Music Hd, Music
+Yrf Music HD, Music
 YRF Music Nepal,Music
 Yrf Music, Music
 Yu-Gi-Oh!, Anime
-Zee Action, Hinidi Movies
+Zee Action, Hindi Movies
 Zee Anmol,Hindi Entertainment
 Zee Bharat, News
-Zee Bollywood, Hinidi Movies
+Zee Bollywood, Hindi Movies
 Zee Business, Business News
 Zee Cafe,Lifestyle
-Zee Cine Classic, Hinidi Movies
-Zee Cinema Apac, Hinidi Movies
-Zee Cinema Hd, Hinidi Movies
-Zee Cinema, Hinidi Movies
-Zee Cinemalu Hd, Movies
+Zee Cine Classic, Hindi Movies
+Zee Cinema Apac, Hindi Movies
+Zee Cinema HD, Hindi Movies
+Zee Cinema, Hindi Movies
+Zee Cinemalu HD, Movies
 Zee Cinemalu, Movies
-Zee Clasic, Hinidi Movies
-Zee Classic, Hinidi Movies
+Zee Clasic, Hindi Movies
+Zee Classic, Hindi Movies
 Zee Comedy Nation, Comedy
 Zee Dil Se,Hindi Entertainment
 Zee Horror Nights,Hindi Entertainment
 Zee News, News
 Zee Odisha News, Odia
 Zee Sarthak, Odia
-Zee South Flix, Hinidi Movies
+Zee South Flix, Hindi Movies
 Zee Tv Asia Pacific,Hindi Entertainment
 Zee Tv Canada,Hindi Entertainment
-Zee Tv Hd,Hindi Entertainment
+Zee Tv HD,Hindi Entertainment
 Zee TV,Hindi Entertainment
-Zee Zest Hd,LifeStyle
-Zee5 Hd, Ott Platform
+Zee Zest HD,Lifestyle
+Zee5 HD, Ott Platform
 Zenlife By Stingray, Lifestyle
 Zing!, Music
 Zing, Music
 Zingabad,Music
 Zoom Nepal,Music
 Zoom, Music
+Aaj Entertainment,PK:Entertainment
+ARY Digital,PK:Entertainment
+Geo Entertainment,PK:Entertainment
+Hum TV,PK:Entertainment
+Bol Entertainment,PK:Entertainment
+Express Entertainment,PK:Entertainment
+Green TV,PK:Entertainment
+SAB TV,PK:Entertainment
+Hum sitaray,PK:Entertainment
+Hum Tv HD,PK:Entertainment
+Hum World,PK:Entertainment
