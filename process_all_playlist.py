@@ -2,7 +2,7 @@ import requests
 
 # 1. Define your source public playlists (M3U URLs)
 PLAYLIST_URLS = [
-    "http://yaarokayaar2026iptv.fun/index.html"
+    "https://raw.githubusercontent.com/starottbdofficial/premium/refs/heads/main/03_09_26_02_47.m3u"
 ]
 
 # 2. Define your EPG URLs
