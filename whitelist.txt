@@ -1138,6 +1138,7 @@ Sri Jagannath Dham, Odia
 Stadium,Sports
 Star Bharat HD,Hindi Entertainment
 Star Bharat,Hindi Entertainment
+Star Bharat (United Kingdom), Hindi Entertainment
 Star Central, Entertainment
 Star Gold 2 HD, Hindi Movies
 Star Gold 2, Hindi Movies
@@ -1184,14 +1185,6 @@ StarPlus (United Kingdom),Hindi Entertainment
 Starplus HD,Hindi Entertainment
 Startalk TV,Talk Show
 Steelbird Music,Music
-Stingray Classica Stream,Music
-Stingray Djazz, Music
-Stingray Greatest Hits,Music
-Stingray Holidayscapes, Lifestyle
-Stingray Hot Country,Music
-Stingray Karaoke,Music
-Stingray Naturescape,Documentary
-Stingray Soul Storm,Music
 Storage Wars by A&E,Reality
 Stories by AMC,Drama
 Strangely Addicting,Documentary
