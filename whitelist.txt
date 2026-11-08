@@ -253,6 +253,7 @@ Cnn Originals, Documentary
 Cold Case Files By A&E, True Crime
 Colors Cineplex HD, Hindi Movies
 Colors Cineplex Superhit, Hindi Movies
+Colors Cineplex Bollywood, Hindi Movies
 Colors Cineplex, Hindi Movies
 Colors HD,Hindi Entertainment
 Colors Infinity HD, Entertainment
@@ -1086,6 +1087,8 @@ Songdew TV,Music
 Sonic The Hedgehog,Kids
 Sonic TV,Kids
 Sonic,Kids
+Sony Movies (United States), Movies
+Sony Channel Andes, Entertainment
 Sony Bbc Earth HD, Infotainment
 Sony Entertainment HD,Hindi Entertainment
 Sony Entertainment Television HD,Hindi Entertainment
@@ -1463,6 +1466,7 @@ Zee Comedy Nation, Comedy
 Zee Dil Se,Hindi Entertainment
 Zee Horror Nights,Hindi Entertainment
 Zee News, News
+Zee One, Entertainment
 Zee Odisha News, Odia
 Zee Sarthak, Odia
 Zee South Flix, Hindi Movies
