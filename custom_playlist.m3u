@@ -2,117 +2,117 @@
 #EXTINF:-1 tvg-id="set-hd.sonyliv" tvg-name="SET HD" group-title="Hindi Entertainment",Set HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="sab-hd.sonyliv" tvg-name="Sony SAB HD" group-title="Hindi Entertainment",Sony Sab HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="pal.sonyliv" tvg-name="Sony Pal" group-title="Hindi Entertainment",Sony Pal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="yay.sonyliv" tvg-name="Sony Yay" group-title="Kids",Sony Yay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="max-hd.sonyliv" tvg-name="Sony MAX HD" group-title="Hindi Movies",Sony Max HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="max.sonyliv" tvg-name="Sony MAX" group-title="Hindi Movies",Sony Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="max2.sonyliv" tvg-name="Sony MAX 2" group-title="Hindi Movies",Sony Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="wah.sonyliv" tvg-name="Sony WAH" group-title="Hindi Movies",Sony Wah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="pix-hd.sonyliv" tvg-name="Sony PIX HD" group-title="Movies",Sony Pix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="ten1-hd.sonyliv" tvg-name="Sony Ten 1 HD" group-title="Sports",Sony Ten 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="ten1.sonyliv" tvg-name="Sony Ten 1" group-title="Sports",Sony Ten 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="ten2-hd.sonyliv" tvg-name="Sony Ten 2 HD" group-title="Sports",Sony Ten 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="ten2.sonyliv" tvg-name="Sony Ten 2" group-title="Sports",Sony Ten 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="ten3-hd.sonyliv" tvg-name="Sony Ten 3 HD" group-title="Sports",Sony Ten 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="ten3.sonyliv" tvg-name="Sony Ten 3" group-title="Sports",Sony Ten 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="ten4-hd.sonyliv" tvg-name="Sony Ten 4 HD" group-title="Sports",Sony Ten 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="ten4.sonyliv" tvg-name="Sony Ten 4" group-title="Sports",Sony Ten 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="ten5-hd.sonyliv" tvg-name="Sony Ten 5 HD" group-title="Sports",Sony Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="ten5.sonyliv" tvg-name="Sony Ten 5" group-title="Sports",Sony Ten 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b"}
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1794097481~acl=/*~id=22142791251493998903974837842321~hmac=356a8010cb0530474c6fc5491a781dc288946fbd00bda2e7eefa9fd8ec19985b
+#EXTVLCOPT:http-cookie=hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7"}
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1794140619~acl=/*~id=14264969767864745887561048986667~hmac=ed8ffddd42d43564a3713326678ca02a497dd711f16fbf8fd6a41de253cb4da7
 #EXTINF:-1 tvg-id="00sReplay.us@SD" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Movies",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7s Music
@@ -148,7 +148,7 @@ https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 #EXTINF:-1 tvg-id="90sThrowback.us@SD" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="Music",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@International" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Entertainment",&TV International
-https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png" group-title="Spiritual",Aadinath TV
 https://cdn.pishow.tv/ott/live/252/master.m3u8
 #EXTINF:-1 tvg-id="AagaazTimes.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png" group-title="News",Aagaaz Times
@@ -382,9 +382,7 @@ http://103.135.253.32:8080/Color-HD/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png" group-title="Hindi Movies",Colors Cineplex
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png" group-title="Hindi Movies",Colors Cineplex HD
-http://103.151.60.162:2122/play/a02s/index.m3u8?hls
-#EXTINF:-1 tvg-id="ColorsInfinity.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" group-title="Entertainment",Colors Infinity HD
-http://103.151.60.162:2122/play/a02r/index.m3u8?hls
+http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
 #EXTINF:-1 tvg-id="ColorsMENA.in@HD" tvg-logo="https://i.imgur.com/LjNFTdC.png" group-title="Entertainment",Colors MENA HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsRishtey.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Entertainment",Colors Rishtey
@@ -499,10 +497,6 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney Channel HD
 http://66.102.126.10:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Entertainment",Disney International HD
-http://103.151.60.162:2122/play/a018/index.m3u8?hls
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Disney Junior
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
 #EXTINF:-1 tvg-id="DivyaBhajan.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DivyaBhajan.png" group-title="Spiritual",Divya Bhajan
 https://jmp2.uk/stvp-IN1600002IQ
 #EXTINF:-1 tvg-id="DiyaTV.us@SD" tvg-logo="https://i.imgur.com/1fC7tqH.png" group-title="Spiritual",Diya TV
@@ -566,8 +560,6 @@ https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://66.102.126.10:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@Digital" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",Epic Music Digital
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
-#EXTINF:-1 tvg-id="EpicParivar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVZH.png?lock=720x540" group-title="Hindi Entertainment",Epic Parivar
-http://103.151.60.162:2122/play/a01p/index.m3u8?hls
 #EXTINF:-1 tvg-id="EpicTV.in@Digital" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" group-title="Infotainment",Epic TV Digital
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 #EXTINF:-1 tvg-id="ETVBeats.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETVBeats1.png" group-title="Music",ETV Beats
@@ -886,7 +878,7 @@ https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 #EXTINF:-1 tvg-id="MovieMusicbyStingray.ca@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CSpCdAxnLpqebMLZh6h7vMPk6LYpdqkVHA&s" group-title="Music",Movie Music by Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="Movies",Movies Now HD
-http://103.151.60.162:2122/play/a02w/index.m3u8?hls
+http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@US" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MOVIESPHERE
@@ -1006,7 +998,7 @@ https://jmp2.uk/stvp-IN460001373
 #EXTINF:-1 tvg-id="NHRATV.us@SD" tvg-logo="https://i.imgur.com/jZgcm4k.png" group-title="Sports",NHRA TV
 https://d265y4sk8257lt.cloudfront.net/nh.m3u8
 #EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Nick Jr.
-http://103.151.60.162:2122/play/a00s/index.m3u8?hls
+http://103.185.24.134:3001/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@US" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto Tv
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon
@@ -1108,7 +1100,7 @@ https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 #EXTINF:-1 tvg-id="PocketFilms.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" group-title="Hindi Entertainment",Pocket Films
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
 #EXTINF:-1 tvg-id="Pogo.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png" group-title="Kids",Pogo
-http://103.151.60.162:2122/play/a01e/index.m3u8?hls
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="PokerGo.us@US" tvg-logo="https://i.imgur.com/1603HED.png" group-title="Sports",Pokergo
 https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:-1 tvg-id="Portlandia.us@SD" tvg-logo="https://i.imgur.com/I4KDvu9.png" group-title="Comedy",Portlandia
@@ -1233,27 +1225,21 @@ https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" group-title="Music",Songdew TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonicTV.us@SD" tvg-logo="https://i.imgur.com/TKhRlrR.png" group-title="Kids",Sonic TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Infotainment",Sony Bbc Earth HD
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540" group-title="Hindi Entertainment",Sony Entertainment Television
-http://103.151.60.162:2122/play/a01o/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Hindi Entertainment",Sony Entertainment Television HD
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Hindi Entertainment",Sony Kal Hindi
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Hindi Movies",Sony Max HD
-http://103.151.60.162:2122/play/a014/index.m3u8?hls
+http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Hindi Entertainment",Sony Pal
 http://59.103.38.46:8000/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Movies",Sony Pix HD
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Hindi Entertainment",Sony SAB
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi
-http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyWah.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Hindi Movies",Sony Wah
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Kids",Sony Yay!
@@ -1270,16 +1256,12 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="StarBharat.in@HD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Hindi Entertainment",Star Bharat HD
 http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Hindi Movies",Star Gold 2 HD
-http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Hindi Movies",Star Gold HD
-http://103.151.60.162:2122/play/a01n/index.m3u8?hls
+http://103.185.24.134:3001/Star-Gold/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@SD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Entertainment",Star Jalsha
-http://103.151.60.162:2122/play/a00w/index.m3u8?hls
+http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Entertainment",Star Jalsha HD
 http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
-#EXTINF:-1 tvg-id="StarKiran.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540" group-title="Odia",Star Kiran
-http://103.151.60.162:2122/play/a032/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="Entertainment",Star Maa HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Maa Movies HD
@@ -1288,8 +1270,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b262
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD
 https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2
-http://103.151.60.162:2122/play/a019/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports",Star Sports Select 2 HD
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="StarTrek.us@BR" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Sci-Fi",Star Trek
@@ -1303,7 +1283,7 @@ http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
 #EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Hindi Entertainment",Starplus HD
 http://66.102.126.10:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.uk@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Hindi Entertainment",StarPlus (United Kingdom)
-http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 #EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="Music",Stingray Djazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHolidayscapes.ca@HD" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" group-title="Lifestyle",Stingray Holidayscapes
@@ -1323,8 +1303,6 @@ https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 https://fta.ektv.in/live/607/master.m3u8
 #EXTINF:-1 tvg-id="SudarshanNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUDARSHAN_NEWS/images/LOGO_HD/image.png" group-title="News",Sudarshan News
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Superhitz.in@SD" tvg-logo="https://i.imgur.com/aRNBvTU.png" group-title="Music",Superhitz
-http://103.151.60.162:2122/play/a02f/index.m3u8?hls
 #EXTINF:-1 tvg-id="SupernaturalDrama.us@SD" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="Drama",Supernatural Drama
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 #EXTINF:-1 tvg-id="SwadeshNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swadesh_News.png" group-title="News",Swadesh News
@@ -1426,7 +1404,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@4KHDR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Travel",Travelxp 4K HDR
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Travel",Travelxp HD
-http://103.151.60.162:2122/play/a01s/index.m3u8?hls
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="TribecaChannel.us@SD" tvg-logo="https://i.imgur.com/JCpFAll.png" group-title="Movies",Tribeca Channel
 https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueCrimeNow.us@SD" tvg-logo="https://i.imgur.com/Y6Hix17.png" group-title="True Crime",True Crime Now
@@ -1553,7 +1531,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Movies",Zee Cinema Apac
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Movies",Zee Cinema HD
-http://103.151.60.162:2122/play/a012/index.m3u8?hls
+http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ZeeComedyNation.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png" group-title="Comedy",Zee Comedy Nation
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeDilSe.in@HD" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Hindi Entertainment",Zee Dil Se
@@ -1564,8 +1542,6 @@ https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Hindi Movies",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Entertainment",Zee TV
-http://103.151.60.162:2122/play/a01u/index.m3u8?hls
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Entertainment",Zee Tv HD
 http://103.135.253.32:8080/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="Hindi Entertainment",Zee Tv Asia Pacific
@@ -3858,8 +3834,6 @@ https://jmp2.uk/stvp-USAJ3400011A8
 https://jmp2.uk/stvp-USAJ30000041W
 #EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-name="Yahoo Finance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20260120T230333SQUARE.png" group-title="Business News",Yahoo Finance
 https://jmp2.uk/stvp-USAJ4300005PJ
-#EXTINF:-1 tvg-id="USAJ26000054W" tvg-name="Paramount Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20261106T174914SQUARE.png" group-title="Movies",Paramount Movie Channel
-https://jmp2.uk/stvp-USAJ26000054W
 #EXTINF:-1 tvg-id="USBA3000041ZP" tvg-name="Movie Hub" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20261106T174901SQUARE.png" group-title="Movies",Movie Hub
 https://jmp2.uk/stvp-USBA3000041ZP
 #EXTINF:-1 tvg-id="USBD3500032H0" tvg-name="Movie Hub Action" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20261008T213624SQUARE.png" group-title="Movies",Movie Hub Action
@@ -3872,6 +3846,8 @@ https://jmp2.uk/stvp-USBD17000117B
 https://jmp2.uk/stvp-USBA300017PK
 #EXTINF:-1 tvg-id="US18000163F" tvg-name="Miramax Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20261009T160639SQUARE.png" group-title="Movies",Miramax Movie Channel
 https://jmp2.uk/stvp-US18000163F
+#EXTINF:-1 tvg-id="USAJ26000054W" tvg-name="Paramount Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20261106T174914SQUARE.png" group-title="Movies",Paramount Movie Channel
+https://jmp2.uk/stvp-USAJ26000054W
 #EXTINF:-1 tvg-id="USBB3200030CG" tvg-name="Universal Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20260421T133614SQUARE.png" group-title="Movies",Universal Movies
 https://jmp2.uk/stvp-USBB3200030CG
 #EXTINF:-1 tvg-id="USBD700011RE" tvg-name="Gravitas Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png" group-title="Movies",Gravitas Movies
@@ -3900,20 +3876,20 @@ https://jmp2.uk/stvp-US190000918
 https://jmp2.uk/stvp-US18000078A
 #EXTINF:-1 tvg-id="USBD1200021JM" tvg-name="Shout! TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20250401T004834SQUARE.png" group-title="Entertainment",Shout! TV
 https://jmp2.uk/stvp-USBD1200021JM
-#EXTINF:-1 tvg-id="US1800019OC" tvg-name="Designated Survivor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800019OC_20261106T174959SQUARE.png" group-title="Drama",Designated Survivor
-https://jmp2.uk/stvp-US1800019OC
+#EXTINF:-1 tvg-id="US25000075Y" tvg-name="CW FOREVER" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20261106T174947SQUARE.png" group-title="Entertainment",CW Forever
+https://jmp2.uk/stvp-US25000075Y
 #EXTINF:-1 tvg-id="USBD300002TU" tvg-name="ION" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20260922T055713SQUARE.png" group-title="Entertainment",Ion
 https://jmp2.uk/stvp-USBD300002TU
 #EXTINF:-1 tvg-id="USBD300003LK" tvg-name="ION Plus" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20260421T133722SQUARE.png" group-title="Entertainment",ION Plus
 https://jmp2.uk/stvp-USBD300003LK
 #EXTINF:-1 tvg-id="USBD2500018X6" tvg-name="Stories by AMC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20261023T223625SQUARE.png" group-title="Drama",Stories by AMC
 https://jmp2.uk/stvp-USBD2500018X6
-#EXTINF:-1 tvg-id="US25000075Y" tvg-name="CW FOREVER" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20261106T174947SQUARE.png" group-title="Entertainment",CW Forever
-https://jmp2.uk/stvp-US25000075Y
 #EXTINF:-1 tvg-id="US25000063S" tvg-name="CW Gold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000063S_20260303T070420SQUARE.png" group-title="Classic TV",CW Gold
 https://jmp2.uk/stvp-US25000063S
 #EXTINF:-1 tvg-id="US3000015O4" tvg-name="Law & Order" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000015O4_20261008T213610SQUARE.png" group-title="Drama",Law & Order
 https://jmp2.uk/stvp-US3000015O4
+#EXTINF:-1 tvg-id="US1800019OC" tvg-name="Designated Survivor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800019OC_20261106T174959SQUARE.png" group-title="Drama",Designated Survivor
+https://jmp2.uk/stvp-US1800019OC
 #EXTINF:-1 tvg-id="USBD300008G1" tvg-name="Bounce XL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20260421T133727SQUARE.png" group-title="Entertainment",Bounce Xl
 https://jmp2.uk/stvp-USBD300008G1
 #EXTINF:-1 tvg-id="USBD300022FH" tvg-name="ALLBLK Gems" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300022FH_20250304T041443SQUARE.png" group-title="Movies",Allblk Gems
@@ -3950,6 +3926,8 @@ https://jmp2.uk/stvp-USAJ22000130U
 https://jmp2.uk/stvp-USBD700010XU
 #EXTINF:-1 tvg-id="USBC240001823" tvg-name="Brat TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC240001823_20241014T232222SQUARE.png" group-title="Entertainment",Brat TV
 https://jmp2.uk/stvp-USBC240001823
+#EXTINF:-1 tvg-id="US160000159" tvg-name="Live PD Presents" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US160000159_20261106T175005SQUARE.png" group-title="Reality",Live PD Presents
+https://jmp2.uk/stvp-US160000159
 #EXTINF:-1 tvg-id="USBC24000223S" tvg-name="ION Mystery" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000223S_20261023T182409SQUARE.png" group-title="Mystery",Ion Mystery
 https://jmp2.uk/stvp-USBC24000223S
 #EXTINF:-1 tvg-id="US3700007E4" tvg-name="BritBox Mysteries" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700007E4_20260811T044013SQUARE.png" group-title="Mystery",Britbox Mysteries
@@ -3966,8 +3944,6 @@ https://jmp2.uk/stvp-USBB5200007BY
 https://jmp2.uk/stvp-US1000005GY
 #EXTINF:-1 tvg-id="USBB3200001MG" tvg-name="REELZ Famous & Infamous" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="True Crime",REELZ Famous & Infamous
 https://jmp2.uk/stvp-USBB3200001MG
-#EXTINF:-1 tvg-id="US160000159" tvg-name="Live PD Presents" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US160000159_20261106T175005SQUARE.png" group-title="Reality",Live PD Presents
-https://jmp2.uk/stvp-US160000159
 #EXTINF:-1 tvg-id="USBD42000250Q" tvg-name="American Crimes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20260901T055738SQUARE.png" group-title="True Crime",American Crimes
 https://jmp2.uk/stvp-USBD42000250Q
 #EXTINF:-1 tvg-id="US10000092P" tvg-name="COPS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000092P_20260421T142126SQUARE.png" group-title="True Crime",Cops
@@ -3990,12 +3966,12 @@ https://jmp2.uk/stvp-US46000120T
 https://jmp2.uk/stvp-USAK3508710A
 #EXTINF:-1 tvg-id="USBA34000049Z" tvg-name="Court TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20260825T035901SQUARE.png" group-title="True Crime",Court Tv
 https://jmp2.uk/stvp-USBA34000049Z
+#EXTINF:-1 tvg-id="US2100006EH" tvg-name="Challenge Accepted" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20261106T174951SQUARE.png" group-title="Entertainment",Challenge Accepted
+https://jmp2.uk/stvp-US2100006EH
 #EXTINF:-1 tvg-id="US1900023QQ" tvg-name="A&E Alaska State Troopers" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900023QQ_20260727T081400SQUARE.png" group-title="Reality",A&E Alaska State Troopers
 https://jmp2.uk/stvp-US1900023QQ
 #EXTINF:-1 tvg-id="US2900010UT" tvg-name="Bondi Rescue" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900010UT_20260421T133757SQUARE.png" group-title="Reality",Bondi Rescue
 https://jmp2.uk/stvp-US2900010UT
-#EXTINF:-1 tvg-id="US2100006EH" tvg-name="Challenge Accepted" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20261106T174951SQUARE.png" group-title="Entertainment",Challenge Accepted
-https://jmp2.uk/stvp-US2100006EH
 #EXTINF:-1 tvg-id="US18000133I" tvg-name="E! Keeping Up" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000133I_20260707T035813SQUARE.png" group-title="Entertainment",E! Keeping Up
 https://jmp2.uk/stvp-US18000133I
 #EXTINF:-1 tvg-id="US18000059V" tvg-name="Real Housewives Vault" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000059V_20260421T134136SQUARE.png" group-title="Reality",Real Housewives Vault
@@ -4322,8 +4298,6 @@ https://jmp2.uk/stvp-USBB3600001R6
 https://jmp2.uk/stvp-US2900015RO
 #EXTINF:-1 tvg-id="USBB1900004J9" tvg-name="Toon Goggles" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20260414T005441SQUARE.png" group-title="Kids",Toon Goggles
 https://jmp2.uk/stvp-USBB1900004J9
-#EXTINF:-1 tvg-id="USBC3600001RQ" tvg-name="Vevo Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20261106T175053SQUARE.png" group-title="Music",Vevo Country
-https://jmp2.uk/stvp-USBC3600001RQ
 #EXTINF:-1 tvg-id="USBD3300004RH" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20260421T141846SQUARE.png" group-title="Music",Xite Hits
 https://jmp2.uk/stvp-USBD3300004RH
 #EXTINF:-1 tvg-id="USBB320000647" tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20260512T070257SQUARE.png" group-title="Music",XITE 80s Flashback
@@ -4360,6 +4334,8 @@ https://jmp2.uk/stvp-USBD3000145P
 https://jmp2.uk/stvp-USBC3600002EK
 #EXTINF:-1 tvg-id="USBC3900009K5" tvg-name="Vevo R&B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20260421T141834SQUARE.png" group-title="Music",Vevo R&B
 https://jmp2.uk/stvp-USBC3900009K5
+#EXTINF:-1 tvg-id="USBC3600001RQ" tvg-name="Vevo Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20261106T175053SQUARE.png" group-title="Music",Vevo Country
+https://jmp2.uk/stvp-USBC3600001RQ
 #EXTINF:-1 tvg-id="USBC3600008WY" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20260421T141831SQUARE.png" group-title="Music",Vevo Pop
 https://jmp2.uk/stvp-USBC3600008WY
 #EXTINF:-1 tvg-id="US3900009ZV" tvg-name="Yo! MTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900009ZV_20260421T143435SQUARE.png" group-title="Music",Yo! Mtv
@@ -6356,8 +6332,6 @@ https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://i.ibb.co/RGQzBS9Z/bf1f9fb7749bf1254c8ea5c5dd8eec3c.jpg",Disney Junior
 http://51.75.127.199:3141/disneyjunior/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png",Sonic
-http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony Yay
 https://techandeat.online/sliv/stream.m3u8?id=1000001971|Referer=https://techandeat.online/
 #EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp",Pogo
