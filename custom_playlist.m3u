@@ -269,6 +269,8 @@ http://103.135.253.32:8080/Color-HD/index.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png" group-title="Hindi Movies",Colors Cineplex HD
 http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" group-title="Hindi Movies",Colors Cineplex Bollywood
+http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
 #EXTINF:-1 tvg-id="ColorsMENA.in@HD" tvg-logo="https://i.imgur.com/LjNFTdC.png" group-title="Entertainment",Colors MENA HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsRishtey.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Entertainment",Colors Rishtey
@@ -1116,12 +1118,16 @@ http://103.185.24.134:3001/SONIC/index.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Infotainment",Sony Bbc Earth HD
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Entertainment",Sony Channel Andes
+http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Hindi Entertainment",Sony Entertainment Television HD
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Hindi Entertainment",Sony Kal Hindi
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Hindi Movies",Sony Max HD
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (United States)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Hindi Entertainment",Sony Pal
 http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Hindi Entertainment",Sony SAB
@@ -1142,6 +1148,8 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="StarBharat.in@HD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Hindi Entertainment",Star Bharat HD
 http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+#EXTINF:-1 tvg-id="StarBharat.uk@SD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Hindi Entertainment",Star Bharat (United Kingdom)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 #EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Hindi Movies",Star Gold HD
 http://103.185.24.134:3001/Star-Gold/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@SD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Entertainment",Star Jalsha
@@ -1170,18 +1178,6 @@ http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
 http://66.102.126.10:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.uk@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Hindi Entertainment",StarPlus (United Kingdom)
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
-#EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="Music",Stingray Djazz
-https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca@HD" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" group-title="Lifestyle",Stingray Holidayscapes
-https://d10cyxntpn0bwm.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca@SD" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="Music",Stingray Hot Country
-https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="Music",Stingray Karaoke
-https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Documentary",Stingray Naturescape
-https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca@SD" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="Music",Stingray Soul Storm
-https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StoriesbyAMC.us@SD" tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Drama",Stories by AMC
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="STVHaryanaNews.in@SD" tvg-logo="https://i.imgur.com/TJRZo9e.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",STV Haryana News
@@ -1426,6 +1422,8 @@ https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" group-title="News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 tvg-id="ZeeOne.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Hindi Movies",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Entertainment",Zee Tv HD
@@ -2304,6 +2302,12 @@ http://223.25.71.211:5001/live/mpd/1665
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/1698
 http://223.25.71.211:5001/live/mpd/1698
+#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="http://223.25.71.211:5001/jtvimage/ColorsCineplexBollywood1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi Movies",Colors Cineplex Bollywood
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/1763
+http://223.25.71.211:5001/live/mpd/1763
 #EXTINF:-1 tvg-id="1834" tvg-name="Green Chillies" tvg-logo="http://223.25.71.211:5001/jtvimage/Green_Chillies_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi Entertainment",Green Chillies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2600,14 +2604,10 @@ http://223.25.71.211:5001/live/3259.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/3267
 http://223.25.71.211:5001/live/mpd/3267
-#EXTINF:-1 tvg-id="3285" tvg-name="Stingray Naturescape" tvg-logo="http://223.25.71.211:5001/jtvimage/naturescape-a003s-dhaka.png" tvg-language="Hindi" tvg-type="Music" group-title="Documentary",Stingray Naturescape
-http://223.25.71.211:5001/live/3285.m3u8
 #EXTINF:-1 tvg-id="3286" tvg-name="ZenLIFE by Stingray" tvg-logo="http://223.25.71.211:5001/jtvimage/zenlife-zen001-seoul.png" tvg-language="English" tvg-type="Music" group-title="Lifestyle",Zenlife By Stingray
 http://223.25.71.211:5001/live/3286.m3u8
 #EXTINF:-1 tvg-id="3288" tvg-name="Movie Music by Stingray" tvg-logo="http://223.25.71.211:5001/jtvimage/cmusic-cme004-dhaka.png" tvg-language="English" tvg-type="Music" group-title="Music",Movie Music by Stingray
 http://223.25.71.211:5001/live/3288.m3u8
-#EXTINF:-1 tvg-id="3290" tvg-name="Stingray Djazz" tvg-logo="http://223.25.71.211:5001/jtvimage/djazz-djaads-dhaka.png" tvg-language="English" tvg-type="Music" group-title="Music",Stingray Djazz
-http://223.25.71.211:5001/live/3290.m3u8
 #EXTINF:-1 tvg-id="3295" tvg-name="Mahotsav TV " tvg-logo="http://223.25.71.211:5001/jtvimage/Mahotsav_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Hindi Entertainment",Mahotsav TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2662,8 +2662,6 @@ http://223.25.71.211:5001/live/mpd/3427
 http://223.25.71.211:5001/live/3459.m3u8
 #EXTINF:-1 tvg-id="3467" tvg-name="Green Gold TV" tvg-logo="http://223.25.71.211:5001/jtvimage/greengold.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids",Green Gold Tv
 http://223.25.71.211:5001/live/3467.m3u8
-#EXTINF:-1 tvg-id="3479" tvg-name="Stingray Greatest Hits" tvg-logo="http://223.25.71.211:5001/jtvimage/ose-155ads-montreal.png" tvg-language="English" tvg-type="Music" group-title="Music",Stingray Greatest Hits
-http://223.25.71.211:5001/live/3479.m3u8
 #EXTINF:-1 tvg-id="3502" tvg-name="Kadak" tvg-logo="http://223.25.71.211:5001/jtvimage/Kadak.png" tvg-language="Hindi" tvg-type="News" group-title="Infotainment",Kadak
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2714,6 +2712,8 @@ https://jmp2.uk/stvp-ATBC3900002PV
 https://jmp2.uk/stvp-AT70000595
 #EXTINF:-1 tvg-id="AT2300003IC" tvg-name="Beyblade" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2300003IC_20250107T022040SQUARE.png" group-title="Anime",Beyblade
 https://jmp2.uk/stvp-AT2300003IC
+#EXTINF:-1 tvg-id="ATBA3300006WH" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300006WH_20251013T053746SQUARE.png" group-title="Entertainment",Zee One
+https://jmp2.uk/stvp-ATBA3300006WH
 #EXTINF:-1 tvg-id="AT4400002IB" tvg-name="Andromeda" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4400002IB_20260407T035718SQUARE.png" group-title="Sci-Fi",Andromeda
 https://jmp2.uk/stvp-AT4400002IB
 #EXTINF:-1 tvg-id="AT16000042Y" tvg-name="Beverly Hills 90210" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT16000042Y_20261026T041551SQUARE.png" group-title="Drama",Beverly Hills 90210
@@ -2982,14 +2982,6 @@ https://jmp2.uk/stvp-CABB2600004RZ
 https://jmp2.uk/stvp-CABC52000180Z
 #EXTINF:-1 tvg-id="CA3900002PM" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3900002PM_20260915T034536SQUARE.png" group-title="Music",CJ ENM K-POP
 https://jmp2.uk/stvp-CA3900002PM
-#EXTINF:-1 tvg-id="CA400002ZK" tvg-name="Stingray DJAZZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400002ZK_20260421T140738SQUARE.png" group-title="Music",Stingray Djazz
-https://jmp2.uk/stvp-CA400002ZK
-#EXTINF:-1 tvg-id="CABD1200025IX" tvg-name="Stingray Hot Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200025IX_20251230T035728SQUARE.png" group-title="Music",Stingray Hot Country
-https://jmp2.uk/stvp-CABD1200025IX
-#EXTINF:-1 tvg-id="CA4000013R" tvg-name="Stingray Holidayscapes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4000013R_20261102T091252SQUARE.png" group-title="Lifestyle",Stingray Holidayscapes
-https://jmp2.uk/stvp-CA4000013R
-#EXTINF:-1 tvg-id="CAAJ3400003T7" tvg-name="Stingray Naturescape" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20260428T032034SQUARE.png" group-title="Documentary",Stingray Naturescape
-https://jmp2.uk/stvp-CAAJ3400003T7
 #EXTINF:-1 tvg-id="CA600002VE" tvg-name="ZenLIFE by Stingray" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA600002VE_20250630T233024SQUARE.png" group-title="Lifestyle",Zenlife By Stingray
 https://jmp2.uk/stvp-CA600002VE
 #EXTINF:-1 tvg-id="CHAJ700002UB" tvg-name="MTV Pluto TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700002UB_20250107T025148SQUARE.png" group-title="Music",Mtv Pluto Tv
@@ -3010,6 +3002,8 @@ https://jmp2.uk/stvp-CHBC4000005PW
 https://jmp2.uk/stvp-CH700003RV
 #EXTINF:-1 tvg-id="CH230000401" tvg-name="Beyblade" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH230000401_20250107T025439SQUARE.png" group-title="Anime",Beyblade
 https://jmp2.uk/stvp-CH230000401
+#EXTINF:-1 tvg-id="CHBD27000011N" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD27000011N_20250701T033229SQUARE.png" group-title="Entertainment",Zee One
+https://jmp2.uk/stvp-CHBD27000011N
 #EXTINF:-1 tvg-id="CH4400002F5" tvg-name="Andromeda" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4400002F5_20260407T035818SQUARE.png" group-title="Sci-Fi",Andromeda
 https://jmp2.uk/stvp-CH4400002F5
 #EXTINF:-1 tvg-id="CH1100003IR" tvg-name="Beverly Hills 90210" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1100003IR_20261026T041746SQUARE.png" group-title="Drama",Beverly Hills 90210
@@ -3086,6 +3080,8 @@ https://jmp2.uk/stvp-DE3200001RI
 https://jmp2.uk/stvp-DE21000013K
 #EXTINF:-1 tvg-id="DEBA3300027ZJ" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300027ZJ_20260421T123616SQUARE.png" group-title="Business News",Bloomberg Tv+
 https://jmp2.uk/stvp-DEBA3300027ZJ
+#EXTINF:-1 tvg-id="DEAJ2900003CN" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900003CN_20251013T054836SQUARE.png" group-title="Entertainment",Zee One
+https://jmp2.uk/stvp-DEAJ2900003CN
 #EXTINF:-1 tvg-id="DE4400002AE" tvg-name="Andromeda" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4400002AE_20260407T035913SQUARE.png" group-title="Sci-Fi",Andromeda
 https://jmp2.uk/stvp-DE4400002AE
 #EXTINF:-1 tvg-id="DE1200002GK" tvg-name="Beverly Hills 90210" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200002GK_20261026T041931SQUARE.png" group-title="Drama",Beverly Hills 90210
@@ -3176,6 +3172,8 @@ https://jmp2.uk/stvp-FR1400001VU
 https://jmp2.uk/stvp-FR2100001VM
 #EXTINF:-1 tvg-id="FRBD19000115C" tvg-name="Degrassi" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000115C_20241015T040247SQUARE.png" group-title="Drama",Degrassi
 https://jmp2.uk/stvp-FRBD19000115C
+#EXTINF:-1 tvg-id="FR360000680" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20251013T054021SQUARE.png" group-title="Entertainment",Zee One
+https://jmp2.uk/stvp-FR360000680
 #EXTINF:-1 tvg-id="FR3200001NQ" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260505T035829SQUARE.png" group-title="Documentary",Bbc Earth
 https://jmp2.uk/stvp-FR3200001NQ
 #EXTINF:-1 tvg-id="FRBB4900002D4" tvg-name="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20241015T042746SQUARE.png" group-title="Documentary",Naturetime
@@ -3250,6 +3248,8 @@ https://jmp2.uk/stvp-GB51000044P
 https://jmp2.uk/stvp-GB5100003NZ
 #EXTINF:-1 tvg-id="GB2100005YU" tvg-name="Rookie Blue" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2100005YU_20250811T172955SQUARE.png" group-title="Drama",Rookie Blue
 https://jmp2.uk/stvp-GB2100005YU
+#EXTINF:-1 tvg-id="GBBD1100013BJ" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100013BJ_20250701T033240SQUARE.png" group-title="Entertainment",Zee One
+https://jmp2.uk/stvp-GBBD1100013BJ
 #EXTINF:-1 tvg-id="GB800002OP" tvg-name="&TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB800002OP_20260407T040228SQUARE.png" group-title="Hindi Entertainment",&Tv
 https://jmp2.uk/stvp-GB800002OP
 #EXTINF:-1 tvg-id="GBBD3700001AB" tvg-name="DATELINE 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3700001AB_20250211T013910SQUARE.png" group-title="True Crime",Dateline 24/7
@@ -4228,14 +4228,6 @@ https://jmp2.uk/stvp-USBC3600008WY
 https://jmp2.uk/stvp-US3900009ZV
 #EXTINF:-1 tvg-id="US39000038W" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20260915T035044SQUARE.png" group-title="Music",CJ ENM K-POP
 https://jmp2.uk/stvp-US39000038W
-#EXTINF:-1 tvg-id="USBD3500025GS" tvg-name="Stingray DJAZZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png" group-title="Music",Stingray Djazz
-https://jmp2.uk/stvp-USBD3500025GS
-#EXTINF:-1 tvg-id="USBD3300021KV" tvg-name="Stingray Hot Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20251230T035621SQUARE.png" group-title="Music",Stingray Hot Country
-https://jmp2.uk/stvp-USBD3300021KV
-#EXTINF:-1 tvg-id="USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20261102T091133SQUARE.png" group-title="Lifestyle",Stingray Holidayscapes
-https://jmp2.uk/stvp-USBD3500038R6
-#EXTINF:-1 tvg-id="USAK3508705A" tvg-name="Stingray Naturescape" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20250630T232500SQUARE.png" group-title="Documentary",Stingray Naturescape
-https://jmp2.uk/stvp-USAK3508705A
 #EXTINF:-1 tvg-id="USBD3500027DS" tvg-name="ZenLIFE by Stingray" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20251125T030847SQUARE.png" group-title="Lifestyle",Zenlife By Stingray
 https://jmp2.uk/stvp-USBD3500027DS
 #EXTINF:-1 channel-id="0b88dcd80f6a5e838c83a67e7cfa4b3a" tvg-id="0b88dcd80f6a5e838c83a67e7cfa4b3a" tvg-chno="3706" tvg-name="MagellanTV Wildest" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0b88dcd80f6a5e838c83a67e7cfa4b3a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1743518131834_Roku_MGTVWildest_Logo_HUD.png" group-title="Documentary",MagellanTV Wildest
@@ -4430,8 +4422,6 @@ https://jmp2.uk/rok-395e5ab16c63e8c58af0680395af35a6.m3u8
 https://jmp2.uk/rok-1b5977c99bc753ec4564fcbb3955c1aa.m3u8
 #EXTINF:-1 channel-id="9349c516ca6456b9b5ed7e20cb1c1384" tvg-id="9349c516ca6456b9b5ed7e20cb1c1384" tvg-chno="2000" tvg-name="SNL Vault" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9349c516ca6456b9b5ed7e20cb1c1384/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758302529388_snlvault_260x147_HUD.png" group-title="Comedy",SNL Vault
 https://jmp2.uk/rok-9349c516ca6456b9b5ed7e20cb1c1384.m3u8
-#EXTINF:-1 channel-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-chno="6204" tvg-name="Stingray Naturescape" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d12329eda6e3dcc1f42ce2a350a4623d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260369972_Stingray_naturescape_HUDlogo_centered_260x147.png" group-title="Documentary",Stingray Naturescape
-https://jmp2.uk/rok-d12329eda6e3dcc1f42ce2a350a4623d.m3u8
 #EXTINF:-1 channel-id="707e6e216be8369fb30f6960f8cf667e" tvg-id="707e6e216be8369fb30f6960f8cf667e" tvg-chno="1518" tvg-name="The Ed Sullivan Show" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/707e6e216be8369fb30f6960f8cf667e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731437958811_Ed_Sullivan-HUD-Logo.png" group-title="Classic TV",The Ed Sullivan Show
 https://jmp2.uk/rok-707e6e216be8369fb30f6960f8cf667e.m3u8
 #EXTINF:-1 channel-id="5934441271a0583124d84d704f600bcc" tvg-id="5934441271a0583124d84d704f600bcc" tvg-chno="3904" tvg-name="The Graham Norton Show" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5934441271a0583124d84d704f600bcc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731009344280_GrahamNorton_HUD_Logo.png" group-title="Talk Show",The Graham Norton Show
@@ -4475,6 +4465,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 #EXTINF:-1 group-title="Hindi Movies"  tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png",Sony Wah
 https://techandeat.online/sliv/stream.m3u8?id=1000009253|Referer=https://techandeat.online/
+#EXTINF:-1 tvg-id="1763" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Hindi Movies",Colors Cineplex Bollywood
+#http://103.159.180.34:5001/live/1763.m3u8
+http://live.balajibroadband.com:3500/live/1763.m3u8
 #EXTINF:-1 tvg-id="1450" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="Hindi Movies",Colors Cineplex Superhit
 #http://103.159.180.34:5001/live/1450.m3u8
 http://live.balajibroadband.com:3500/live/1450.m3u8
@@ -4495,8 +4488,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 https://techandeat.online/sliv/stream.m3u8?id=1000009246|Referer=https://techandeat.online/
 #EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="Hindi Entertainment",Sony Sab HD
 https://techandeat.online/sliv/stream.m3u8?id=1000009248|Referer=https://techandeat.online/
-#EXTINF:-1 tvg-id="931" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Hindi Entertainment",Star Bharat HD
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmol.png",Zee Anmol
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/tee/playlist.php/0-9-zeeanmol.m3u8
