@@ -34,7 +34,7 @@ https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 #EXTINF:-1 tvg-id="90sThrowback.us@SD" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="Music",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@International" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Entertainment",&TV International
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png" group-title="Spiritual",Aadinath TV
 https://cdn.pishow.tv/ott/live/252/master.m3u8
 #EXTINF:-1 tvg-id="AagaazTimes.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png" group-title="News",Aagaaz Times
@@ -89,18 +89,15 @@ https://stream.ottlive.co.in/anb/index.m3u8
 https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
 #EXTINF:-1 tvg-id="AndyHaryana.in@SD" tvg-logo="https://i.imgur.com/rmCBD3e.png" group-title="News",Andy Haryana
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="Infotainment",Animal Planet
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="Infotainment",Animal Planet HD
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AnimationPlus.us@SD" tvg-logo="https://i.imgur.com/OIFK6JB.png" group-title="Kids",Animation+
 https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimexHIDIVE.us@SD" tvg-logo="https://i.imgur.com/v0BlxCa.png" group-title="Anime",Anime X Hidive
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="Hindi Entertainment",Anjan Tv
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:-1 tvg-id="AnmolTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540" group-title="Hindi Entertainment",Anmol Tv
-https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
+#EXTINF:-1 tvg-id="AnmolTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Hindi Entertainment",Anmol Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/256/master.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD" tvg-logo="https://i.imgur.com/kkm7VqV.png" group-title="Lifestyle",Antiques Road Trip
 https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD" tvg-logo="https://i.imgur.com/rKWLv48.png" group-title="Lifestyle",Antiques Roadshow Uk
@@ -223,8 +220,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="Captain.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Captain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/173/master.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network
-https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsHQ.us@SD" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sports",Cbs Sports Hq
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 tvg-id="CelebrityNameGame.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png" group-title="Game Show",Celebrity Name Game
@@ -371,16 +366,8 @@ https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8
 https://fta.ektv.in/live/625/master.m3u8
 #EXTINF:-1 tvg-id="DiagnosisMurder.se@SE" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" group-title="Drama",Diagnosis Murder
 https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Infotainment",Discovery Channel
-https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" group-title="Infotainment",Discovery Channel HD
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.in@SD" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids
-https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="Infotainment",Discovery Science
-https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png" group-title="Infotainment",Discovery Turbo
-https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 #EXTINF:-1 tvg-id="DishaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="Spiritual",Disha TV
 https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney Channel HD
@@ -545,7 +532,7 @@ https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="HighwaytoHeaven.us@UK" tvg-logo="https://i.imgur.com/e6pvibn.png" group-title="Classic TV",Highway to Heaven
 https://jmp2.uk/plu-68bff9a63efb41cd97562e46.m3u8
-#EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="Music",Hindi Hits
+#EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-logo="https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png" group-title="Music",Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HINDI_KHABAR/images/LOGO_HD/image.png" group-title="News",Hindi Khabar
 https://stream.ottlive.co.in/hindikhabar/index.m3u8
@@ -609,8 +596,6 @@ https://fta.ektv.in/live/99/99_0.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="Entertainment",Introuble
 https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png" group-title="Infotainment",Investigation Discovery
-https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Documentary",Inwild
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="Documentary",Inwonder
@@ -966,7 +951,7 @@ https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 #EXTINF:-1 tvg-id="PocketFilms.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" group-title="Hindi Entertainment",Pocket Films
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
 #EXTINF:-1 tvg-id="Pogo.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png" group-title="Kids",Pogo
-https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
+http://103.135.253.32:8080/POGO/index.m3u8
 #EXTINF:-1 tvg-id="PokerGo.us@US" tvg-logo="https://i.imgur.com/1603HED.png" group-title="Sports",Pokergo
 https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:-1 tvg-id="Portlandia.us@SD" tvg-logo="https://i.imgur.com/I4KDvu9.png" group-title="Comedy",Portlandia
@@ -1084,6 +1069,9 @@ https://cdn.pishow.tv/ott/live/457/master.m3u8
 https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
 #EXTINF:-1 tvg-id="SketchyAF.us@SD" tvg-logo="https://images.pluto.tv/channels/67882c1c7b11714b795c2008/colorLogoPNG.png" group-title="Comedy",Sketchy Af
 https://jmp2.uk/plu-67882c1c7b11714b795c2008.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaAction.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/960px-Sky_Cinema_Action_-_Logo_2021.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Movies",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/26/index.m3u8
 #EXTINF:-1 tvg-id="SNLVault.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="Comedy",SNL Vault
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
 #EXTINF:-1 tvg-id="SohamTV.in@SD" tvg-logo="https://i.imgur.com/cpedJ0L.png" group-title="Spiritual",Soham TV
@@ -1106,8 +1094,6 @@ http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Hindi Entertainment",Sony Pal
 http://59.103.38.46:8000/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Hindi Entertainment",Sony SAB
-https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="SonyWah.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Hindi Movies",Sony Wah
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Kids",Sony Yay!
@@ -1237,10 +1223,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/in
 https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8
 #EXTINF:-1 tvg-id="TinyHouseNation.us@SD" tvg-logo="https://i.imgur.com/ai1P06C.png" group-title="Lifestyle",Tiny House Nation
 https://jmp2.uk/plu-6540ff4f7312a40008297b59.m3u8
-#EXTINF:-1 tvg-id="TLC.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png" group-title="Entertainment",Tlc
-https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
-#EXTINF:-1 tvg-id="TLC.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png" group-title="Entertainment",Tlc HD
-https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="TMZ.us@SD" tvg-logo="https://i.imgur.com/eLIe7Va.png" group-title="Entertainment",TMZ
 https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8
 #EXTINF:-1 tvg-id="TNAWrestlingChannel.pl@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="Sports",TNA Wrestling Channel
@@ -2700,7 +2682,7 @@ https://jmp2.uk/stvp-ATBA3300008ZT
 https://jmp2.uk/stvp-ATAJ70000866
 #EXTINF:-1 tvg-id="ATAK3504503A" tvg-name="Pluto TV Science" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504503A_20250107T021840SQUARE.png" group-title="Documentary",Pluto Tv Science
 https://jmp2.uk/stvp-ATAK3504503A
-#EXTINF:-1 tvg-id="AT2000029T" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000029T_20261026T041617SQUARE.png" group-title="Lifestyle",The Jamie Oliver Channel
+#EXTINF:-1 tvg-id="AT2000029T" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000029T_20261110T042647SQUARE.png" group-title="Lifestyle",The Jamie Oliver Channel
 https://jmp2.uk/stvp-AT2000029T
 #EXTINF:-1 tvg-id="ATAK3504501A" tvg-name="Pluto TV Food" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504501A_20250107T021829SQUARE.png" group-title="Lifestyle",Pluto Tv Food
 https://jmp2.uk/stvp-ATAK3504501A
@@ -2990,7 +2972,7 @@ https://jmp2.uk/stvp-CHBD1400001NP
 https://jmp2.uk/stvp-CHAJ7000084D
 #EXTINF:-1 tvg-id="CHAK3504503A" tvg-name="Pluto TV Science" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAK3504503A_20250107T025248SQUARE.png" group-title="Documentary",Pluto Tv Science
 https://jmp2.uk/stvp-CHAK3504503A
-#EXTINF:-1 tvg-id="CH20000288" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20261026T041811SQUARE.png" group-title="Lifestyle",The Jamie Oliver Channel
+#EXTINF:-1 tvg-id="CH20000288" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20261110T042847SQUARE.png" group-title="Lifestyle",The Jamie Oliver Channel
 https://jmp2.uk/stvp-CH20000288
 #EXTINF:-1 tvg-id="CHAK3504501A" tvg-name="Pluto TV Food" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAK3504501A_20250107T025238SQUARE.png" group-title="Lifestyle",Pluto Tv Food
 https://jmp2.uk/stvp-CHAK3504501A
@@ -3032,7 +3014,7 @@ https://jmp2.uk/stvp-DEBC2300001EU
 https://jmp2.uk/stvp-DE2400002VA
 #EXTINF:-1 tvg-id="DEBD29000013S" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD29000013S_20250107T024440SQUARE.png" group-title="Sports",World Poker Tour
 https://jmp2.uk/stvp-DEBD29000013S
-#EXTINF:-1 tvg-id="DE200003PX" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20261026T042006SQUARE.png" group-title="Lifestyle",The Jamie Oliver Channel
+#EXTINF:-1 tvg-id="DE200003PX" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20261110T043039SQUARE.png" group-title="Lifestyle",The Jamie Oliver Channel
 https://jmp2.uk/stvp-DE200003PX
 #EXTINF:-1 tvg-id="DEBA3300001L9" tvg-name="Pluto TV Food" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300001L9_20250107T023953SQUARE.png" group-title="Lifestyle",Pluto Tv Food
 https://jmp2.uk/stvp-DEBA3300001L9
@@ -3176,7 +3158,7 @@ https://jmp2.uk/stvp-FR42000023H
 https://jmp2.uk/stvp-GBBD500005ZG
 #EXTINF:-1 tvg-id="GB500007VM" tvg-name="Family Feud" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500007VM_20250513T005729SQUARE.png" group-title="Game Show",Family Feud
 https://jmp2.uk/stvp-GB500007VM
-#EXTINF:-1 tvg-id="GB1200013SK" tvg-name="The Cube" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200013SK_20260811T045349SQUARE.png" group-title="Entertainment",The Cube
+#EXTINF:-1 tvg-id="GB1200013SK" tvg-name="The Cube" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200013SK_20261110T043945SQUARE.png" group-title="Entertainment",The Cube
 https://jmp2.uk/stvp-GB1200013SK
 #EXTINF:-1 tvg-id="GB4000027F" tvg-name="The Graham Norton Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000027F_20260421T125758SQUARE.png" group-title="Talk Show",The Graham Norton Show
 https://jmp2.uk/stvp-GB4000027F
@@ -3346,9 +3328,9 @@ https://jmp2.uk/stvp-IN4000517J
 https://jmp2.uk/stvp-IN39000282A
 #EXTINF:-1 tvg-id="IN46000184H" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20261102T074441SQUARE.png" group-title="Comedy",Kings Of Comedy
 https://jmp2.uk/stvp-IN46000184H
-#EXTINF:-1 tvg-id="IN2100003OJ" tvg-name="Zee Dil Se" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100003OJ_20261026T044112SQUARE.png" group-title="Hindi Entertainment",Zee Dil Se
+#EXTINF:-1 tvg-id="IN2100003OJ" tvg-name="Zee Dil Se" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100003OJ_20261110T043412SQUARE.png" group-title="Hindi Entertainment",Zee Dil Se
 https://jmp2.uk/stvp-IN2100003OJ
-#EXTINF:-1 tvg-id="IN3900027S7" tvg-name="Aashirwad TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20261020T052417SQUARE.png" group-title="Spiritual",Aashirwad Tv
+#EXTINF:-1 tvg-id="IN3900027S7" tvg-name="Aashirwad TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20261110T043348SQUARE.png" group-title="Spiritual",Aashirwad Tv
 https://jmp2.uk/stvp-IN3900027S7
 #EXTINF:-1 tvg-id="IN2100002GD" tvg-name="Zee Comedy Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20261013T051727SQUARE.png" group-title="Comedy",Zee Comedy Nation
 https://jmp2.uk/stvp-IN2100002GD
@@ -3406,13 +3388,13 @@ https://jmp2.uk/stvp-IN3000022R9
 https://jmp2.uk/stvp-IN4600016DM
 #EXTINF:-1 tvg-id="IN800016BA" tvg-name="JOJO TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800016BA_20261006T042355SQUARE.png" group-title="Kids",Jojo Tv
 https://jmp2.uk/stvp-IN800016BA
-#EXTINF:-1 tvg-id="INBD1300010WP" tvg-name="News18 India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20261102T074351SQUARE.png" group-title="News",News18 India
+#EXTINF:-1 tvg-id="INBD1300010WP" tvg-name="News18 India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20261110T043354SQUARE.png" group-title="News",News18 India
 https://jmp2.uk/stvp-INBD1300010WP
 #EXTINF:-1 tvg-id="IN4600012BD" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20261102T074416SQUARE.png" group-title="News",Abp News
 https://jmp2.uk/stvp-IN4600012BD
 #EXTINF:-1 tvg-id="IN3800003SV" tvg-name="TV9 Bharatvarsh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20261013T051816SQUARE.png" group-title="News",Tv9 Bharatvarsh
 https://jmp2.uk/stvp-IN3800003SV
-#EXTINF:-1 tvg-id="INBA490002119" tvg-name="Republic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261102T074429SQUARE.png" group-title="News",Republic Bharat
+#EXTINF:-1 tvg-id="INBA490002119" tvg-name="Republic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261110T043322SQUARE.png" group-title="News",Republic Bharat
 https://jmp2.uk/stvp-INBA490002119
 #EXTINF:-1 tvg-id="IN3800001ZH" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20261026T044055SQUARE.png" group-title="News",Aaj Tak HD
 https://jmp2.uk/stvp-IN3800001ZH
@@ -3504,7 +3486,7 @@ https://jmp2.uk/stvp-INBD13000053R
 https://jmp2.uk/stvp-IN30009003
 #EXTINF:-1 tvg-id="IN4000625P" tvg-name="Green Gold TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20261102T074409SQUARE.png" group-title="Kids",Green Gold Tv
 https://jmp2.uk/stvp-IN4000625P
-#EXTINF:-1 tvg-id="IN25000020M" tvg-name="The Jungle Book" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20261020T052431SQUARE.png" group-title="Kids",The Jungle Book
+#EXTINF:-1 tvg-id="IN25000020M" tvg-name="The Jungle Book" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20261110T043401SQUARE.png" group-title="Kids",The Jungle Book
 https://jmp2.uk/stvp-IN25000020M
 #EXTINF:-1 tvg-id="IN4600009F9" tvg-name="Hooray Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20260623T015044SQUARE.png" group-title="Kids",Hooray Kids
 https://jmp2.uk/stvp-IN4600009F9
@@ -3652,7 +3634,7 @@ https://jmp2.uk/stvp-IT700007M3
 https://jmp2.uk/stvp-IT480000143
 #EXTINF:-1 tvg-id="IT3900001EN" tvg-name="Sonic The Hedgehog" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900001EN_20241112T093253SQUARE.png" group-title="Kids",Sonic The Hedgehog
 https://jmp2.uk/stvp-IT3900001EN
-#EXTINF:-1 tvg-id="IT3200002L5" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20261026T042711SQUARE.png" group-title="Documentary",Bbc Earth
+#EXTINF:-1 tvg-id="IT3200002L5" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20261110T044219SQUARE.png" group-title="Documentary",Bbc Earth
 https://jmp2.uk/stvp-IT3200002L5
 #EXTINF:-1 tvg-id="IT31000026G" tvg-name="Discovery" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20260622T101526SQUARE.png" group-title="Infotainment",Discovery
 https://jmp2.uk/stvp-IT31000026G
