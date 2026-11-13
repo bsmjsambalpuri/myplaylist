@@ -268,7 +268,7 @@ CombaTV,Sports
 Come Dine With Me,Reality
 Comedy Central Pluto Tv, Comedy
 Comedy Dynamics,Comedy
-Comedy King, Comedy
+Comedy King, Hindi Entertainment
 Complex TV,Entertainment
 Conan O'brien Tv, Entertainment
 Concerto, Music
@@ -311,30 +311,30 @@ Dateline 24/7, True Crime
 Dateline,True Crime
 Dazn Ringside, Sports
 DD Arun Prabha,Entertainment
-Dd Bharati,Hindi Entertainment
+DD Bharati,Hindi Entertainment
 DD Bihar,Hindi Entertainment
-Dd Chhattisgarh,Hindi Entertainment
+DD Chhattisgarh,Hindi Entertainment
 DD Haryana,Hindi Entertainment
 DD Himachal Pradesh,Hindi Entertainment
-Dd India HD, News
-Dd India, News
+DD India HD, News
+DD India, News
 DD Jharkhand,Hindi Entertainment
-Dd Kashir,Hindi Entertainment
-Dd Kisan, Infotainment
-Dd Madhya Pradesh,Hindi Entertainment
+DD Kashir,Hindi Entertainment
+DD Kisan, Infotainment
+DD Madhya Pradesh,Hindi Entertainment
 DD Manipur,Entertainment
-Dd National HD,Hindi Entertainment
-Dd National,Hindi Entertainment
-Dd News HD, News
-Dd News, News
-Dd Odia, Odia
+DD National HD,Hindi Entertainment
+DD National,Hindi Entertainment
+DD News HD, News
+DD News, News
+DD Odia, Odia
 DD Rajasthan,Hindi Entertainment
-Dd Sports 1.0, Sports
-Dd Sports HD, Sports
-Dd Sports, Sports
-Dd Urdu,Hindi Entertainment
-Dd Uttar Pradesh,Hindi Entertainment
-Dd Uttarakhand,Hindi Entertainment
+DD Sports 1.0, Sports
+DD Sports HD, Sports
+DD Sports, Sports
+DD Urdu,Hindi Entertainment
+DD Uttar Pradesh,Hindi Entertainment
+DD Uttarakhand,Hindi Entertainment
 Deal Or No Deal, Game Show
 Deal Zone Presented By History,Reality
 Death Valley Days,Western
@@ -362,7 +362,6 @@ Dishoom Films, Hindi Movies
 Disney Channel HD, Kids
 Disney Channel, Kids
 Disney International HD, Entertainment
-Disney Junior (India), Kids
 Disney Junior, Kids
 Divya Bhajan, Spiritual
 Divya, Spiritual
@@ -542,6 +541,7 @@ Hare Krsna Tv, Spiritual
 Haryanvi Hts, Music
 Hasbro Legends,Kids
 HBCUGO SPORTS,Sports
+HBO Asia Taiwan, Movies
 HBO HD,Movies
 HBO2 HD,Movies
 HBO Plus HD,Movies
@@ -672,7 +672,7 @@ Kiddo Matix, Kids
 Kids Movie Club, Kids
 KidsFlix,Kids
 Kim's Convenience,Comedy
-Kings Of Comedy, Comedy
+Kings Of Comedy, Hindi Entertainment
 Laff More,Comedy
 LATV,Entertainment
 Law & Crime,True Crime
@@ -1455,7 +1455,7 @@ Zee Cinemalu HD, Movies
 Zee Cinemalu, Movies
 Zee Clasic, Hindi Movies
 Zee Classic, Hindi Movies
-Zee Comedy Nation, Comedy
+Zee Comedy Nation, Hindi Entertainment
 Zee Dil Se,Hindi Entertainment
 Zee Horror Nights,Hindi Entertainment
 Zee News, News
