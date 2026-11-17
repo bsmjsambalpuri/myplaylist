@@ -6,6 +6,7 @@ import re
 PLAYLIST_URLS = [
     "https://premiumplugx.com/Sliv/sony_playlist.php?m3u",
     "https://raw.githubusercontent.com/bsmjsambalpuri/theVoid/refs/heads/main/combined.m3u",
+    "https://premiumplugx.com/sony2/playlist.php?m3u",
     "https://iptv-org.github.io/iptv/index.m3u",
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/ekamraott.m3u",
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/jtv.m3u",
