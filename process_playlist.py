@@ -37,15 +37,15 @@ def clean_channel_name(name):
 
 def load_whitelist():
     """
-    Reads whitelist.txt and returns a dictionary where keys are clean lowercased names
+    Reads whitelist.csv and returns a dictionary where keys are clean lowercased names
     and values are tuples containing (Original Case Whitelist Name, Category).
     """
     if not os.path.exists("whitelist.csv"):
-        print("Warning: whitelist.txt not found! Processing all channels instead.")
+        print("Warning: whitelist.csv not found! Processing all channels instead.")
         return {}
     
     whitelist_map = {}
-    with open("whitelist.txt", "r", encoding="utf-8") as f:
+    with open("whitelist.csv", "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if not line or line.startswith("#"):
@@ -89,7 +89,7 @@ def update_metadata(metadata_line, exact_name, category):
 def fetch_and_filter():
     whitelist_map = load_whitelist()
     if whitelist_map:
-        print(f"Loaded {len(whitelist_map)} channel filters from whitelist.txt")
+        print(f"Loaded {len(whitelist_map)} channel filters from whitelist.csv")
     
     merged_channels = []
     seen_urls = set()
