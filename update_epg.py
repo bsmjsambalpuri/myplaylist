@@ -30,7 +30,9 @@ URLS = [
 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml',
  'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml',
 'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
-'https://avkb.short.gy/jioepg.xml.gz'
+'https://github.com/BuddyChewChew/lg-playlist-generator/raw/refs/heads/main/LG_Channels_EPG_output/LG_Channels_IN.xml',
+'https://github.com/BuddyChewChew/lg-playlist-generator/raw/refs/heads/main/LG_Channels_EPG_output/LG_Channels_US.xml',
+'https://github.com/BuddyChewChew/lg-playlist-generator/raw/refs/heads/main/LG_Channels_EPG_output/LG_Channels_GB.xml',
 ]
 
 def get_tvg_ids_from_remote_m3u():
