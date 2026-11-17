@@ -5,6 +5,7 @@ import re
 # 1. Define your source public playlists (M3U URLs)
 PLAYLIST_URLS = [
     "https://premiumplugx.com/Sliv/sony_playlist.php?m3u",
+    "https://raw.githubusercontent.com/bsmjsambalpuri/theVoid/refs/heads/main/combined.m3u",
     "https://iptv-org.github.io/iptv/index.m3u",
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/ekamraott.m3u",
     "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/jtv.m3u",
@@ -39,7 +40,7 @@ def load_whitelist():
     Reads whitelist.txt and returns a dictionary where keys are clean lowercased names
     and values are tuples containing (Original Case Whitelist Name, Category).
     """
-    if not os.path.exists("whitelist.txt"):
+    if not os.path.exists("whitelist.csv"):
         print("Warning: whitelist.txt not found! Processing all channels instead.")
         return {}
     
